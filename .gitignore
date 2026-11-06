@@ -1,0 +1,14 @@
+# >100MB (giới hạn GitHub) — APK Việt hóa CATO nằm ở GitHub Release
+/03-satisgame/extract/lib/arm64-v8a/libil2cpp.so
+/03-satisgame/java/resources/assets/atles
+/03-satisgame/java/resources/lib/arm64-v8a/libil2cpp.so
+/03-satisgame/java/resources/lib/armeabi-v7a/libil2cpp.so
+/04-climber-animals/java/resources/assets/aa/Android/hotupdateprefabs_assets_all_1b094d9fee9c04d9e12d408a95fb023f.bundle
+/04-climber-animals/java/resources/assets/aa/Android/hotupdatescenes_scenes_all_f6e223cfce3c91e7739252e47a8a7ff0.bundle
+/05-cato/CATO-TiengViet-NoLogin.apk
+
+# symlink tới APK gốc ở ~/Downloads (không còn)
+*/original.apk
+*.idsig
+__pycache__/
+*.pyc
