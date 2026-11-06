@@ -1,0 +1,37 @@
+package com.anythink.network.gdt;
+
+import com.qq.e.comm.managers.status.SDKStatus;
+
+/* JADX INFO: loaded from: classes.dex */
+public class GDTATConst {
+    public static final String AD_HEIGHT = "gdtad_height";
+    public static final String GDT_REQUEST_ID = "request_id";
+    public static final int NETWORK_FIRM_ID = 8;
+    public static final String TK_REQUEST_ID = "request_id";
+    protected static final String a = "299";
+
+    public static class DEBUGGER_CONFIG {
+        public static final int GDT_INTERSTITIAL = 1;
+        public static final int GDT_INTERSTITIAL_FULL_SCREEN = 2;
+        public static final int GDT_NATIVE_DRAW_SELF_RENDER = 4;
+        public static final int GDT_NATIVE_DRAW_TEMPLATE = 3;
+        public static final int GDT_NATIVE_SELF_RENDER = 2;
+        public static final int GDT_NATIVE_TEMPLATE = 1;
+        public static final int GDT_NETWORK = 8;
+    }
+
+    public static class EXTRA_DATA {
+        public static final String LAT = "lat";
+        public static final String LNG = "lng";
+        public static final String LOC_TIME = "loc_time";
+        public static final String WXOPENID = "wxopenid";
+    }
+
+    public static String getNetworkVersion() {
+        try {
+            return SDKStatus.getIntegrationSDKVersion();
+        } catch (Throwable unused) {
+            return "";
+        }
+    }
+}

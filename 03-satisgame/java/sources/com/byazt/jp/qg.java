@@ -1,0 +1,8 @@
+package com.byazt.jp;
+
+/* JADX INFO: loaded from: classes2.dex */
+public interface qg {
+    void n();
+
+    void n(x xVar);
+}

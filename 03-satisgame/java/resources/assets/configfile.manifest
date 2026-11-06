@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 416878206
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4dea2ef44ca629db4ffc424e8746b024
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 10f58fb039afecc1d631a4e41529eb0e
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4dea2ef44ca629db4ffc424e8746b024
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Intuition game/default/configfile/NewLocalization.json
+- Assets/Intuition game/default/configfile/BigGameConfig.txt
+- Assets/Intuition game/default/configfile/MainAudioMixer.mixer
+- Assets/Intuition game/default/configfile/LevelConfig.txt
+Dependencies: []

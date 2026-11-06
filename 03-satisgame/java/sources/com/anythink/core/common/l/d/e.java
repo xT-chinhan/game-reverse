@@ -1,0 +1,48 @@
+package com.anythink.core.common.l.d;
+
+import android.content.Context;
+import com.anythink.core.common.u.p;
+
+/* JADX INFO: loaded from: classes.dex */
+public final class e extends d {
+    private static final int e = 5;
+    private volatile h f;
+
+    public e(Context context) {
+        super(context);
+    }
+
+    @Override // com.anythink.core.common.l.d.d, com.anythink.core.common.l.d.i
+    public final com.anythink.core.common.l.c.f a(com.anythink.core.common.l.c.d dVar) {
+        if (!b(dVar)) {
+            return null;
+        }
+        if (this.f == null) {
+            synchronized (this.d) {
+                if (this.f == null) {
+                    h.a aVar = new h.a(com.anythink.core.common.g.c.a);
+                    aVar.c = false;
+                    this.f = new h(this.b, this.c, aVar);
+                }
+            }
+        }
+        return this.f.a(dVar, super.a(dVar));
+    }
+
+    @Override // com.anythink.core.common.l.d.i
+    public final void a(com.anythink.core.common.l.c.f fVar, com.anythink.core.common.l.c.d dVar) {
+        if (b(dVar) && this.f != null) {
+            this.f.a(fVar, dVar);
+        }
+    }
+
+    @Override // com.anythink.core.common.l.d.d
+    protected final boolean b(com.anythink.core.common.l.c.d dVar) {
+        return this.b != null && dVar != null && p.a(this.b) && com.anythink.core.common.l.c.g.f.equals(dVar.b());
+    }
+
+    @Override // com.anythink.core.common.l.d.d
+    protected final String c(com.anythink.core.common.l.c.d dVar) {
+        return this.f != null ? h.a(dVar) : dVar.b();
+    }
+}

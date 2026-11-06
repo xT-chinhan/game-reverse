@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 3330068598
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dabb766f95a40b1d6f25a0e758115bea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 883544743a38c9822709974f4036d31b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: dabb766f95a40b1d6f25a0e758115bea
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+Assets:
+- Assets/Intuition game/default/fonts/thai.otf
+- Assets/Intuition game/default/fonts/siyuankrSDF.asset
+- "Assets/Intuition game/default/fonts/\u5173\u5361\u6570\u5B57.ttf"
+- Assets/Intuition game/default/fonts/jaSDF.asset
+- Assets/Intuition game/default/fonts/deyiti.otf
+- Assets/Intuition game/default/fonts/opensans.ttf
+- Assets/Intuition game/default/fonts/muye.ttf
+- Assets/Intuition game/default/fonts/muyeSDF.asset
+- Assets/Intuition game/default/fonts/ja.otf
+- "Assets/Intuition game/default/fonts/\u63A7\u5236\u53F0\u7528/NotoSansSC-SemiBold.ttf"
+- Assets/Intuition game/default/fonts/arabicSDF.asset
+- "Assets/Intuition game/default/fonts/\u63A7\u5236\u53F0\u7528/NotoSansSC-SemiBold
+  SDF.asset"
+- "Assets/Intuition game/default/fonts/\u901A\u7528\u6570\u5B57.ttf"
+- Assets/Intuition game/default/fonts/fonts.ttf
+- Assets/Intuition game/default/fonts/deyitiSDF.asset
+- Assets/Intuition game/default/fonts/pingpong.mat
+- Assets/Intuition game/default/fonts/pingpong.fontsettings
+- Assets/Intuition game/default/fonts/opensansSDF.asset
+- Assets/Intuition game/default/fonts/thaiSDF.asset
+- Assets/Intuition game/default/fonts/siyuankr.otf
+- Assets/Intuition game/default/fonts/arabic.ttf
+Dependencies: []

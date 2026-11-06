@@ -1,0 +1,81 @@
+ManifestFileVersion: 0
+CRC: 1881503615
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5a793163b9d68fcfce7e260f857a2d40
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0df1dec30b5d061d422d3e6493d27647
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5a793163b9d68fcfce7e260f857a2d40
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Intuition game/default/shaders/GuideCutout.shader
+- Assets/Intuition game/default/shaders/windowMistPage/WindowMistMask.shader
+- Assets/Intuition game/default/shaders/CutSlime_WhiteFlash.shader
+- Assets/Intuition game/default/shaders/FindingBugsGrassBendShader.shader
+- Assets/Intuition game/default/shaders/Useful/Fill.shader
+- Assets/Intuition game/default/shaders/Solid_FlipShader.shader
+- Assets/Intuition game/default/shaders/Useful/BlurGlass.shader
+- Assets/Intuition game/default/shaders/SkewShader.shader
+- Assets/Intuition game/default/shaders/OnlyTexture.shader
+- Assets/Intuition game/default/shaders/OnlyGray.shader
+- Assets/Intuition game/default/shaders/BrushTheCarpetPage_2DThinknessSimulate.shader
+- Assets/Intuition game/default/shaders/Useful/StencilMaskExclude.shader
+- Assets/Intuition game/default/shaders/spongeSqueezePage/SpongeSqueezeWaterMetaballStamp.shader
+- Assets/Intuition game/default/shaders/cleaningStainWindowPage/CleaningStainWindowCombinedLight.shader
+- Assets/Intuition game/default/shaders/Useful/NormalShadow.shader
+- Assets/Intuition game/default/shaders/CeramicPage_StencilMaskExclude_Pattern.shader
+- Assets/Intuition game/default/shaders/CalendarsShader.shader
+- Assets/Intuition game/default/shaders/Useful/RoundedCorner.shader
+- Assets/Intuition game/default/shaders/TextOutline.shader
+- Assets/Intuition game/default/shaders/windowMistPage/WindowMistRecover.shader
+- Assets/Intuition game/default/shaders/StencilMaskExclude_CullOff.shader
+- Assets/Intuition game/default/shaders/DoubleFaceShader.shader
+- Assets/Intuition game/default/shaders/SpriteTex.shader
+- Assets/Intuition game/default/shaders/ThinknessSimulate2D.shader
+- Assets/Intuition game/default/shaders/ScreenChange.shader
+- Assets/Intuition game/default/shaders/TransparentCutout.shader
+- Assets/Intuition game/default/shaders/DoubleSufShader.shader
+- Assets/Intuition game/default/shaders/windowMistPage/WindowMistBrush.shader
+- Assets/Intuition game/default/shaders/spongeSqueezePage/SpongeSqueezeWaterMetaballBlur.shader
+- Assets/Intuition game/default/shaders/Useful/HueAdjust_StencilMaskable.shader
+- Assets/Intuition game/default/shaders/GrayscalePaletteUI.shader
+- Assets/Intuition game/default/shaders/TurningWoodMaskVase_TurnWood.shader
+- Assets/Intuition game/default/shaders/UVScaleShader.shader
+- Assets/Intuition game/default/shaders/SpriteUI_Saturation.shader
+- Assets/Intuition game/default/shaders/SolidColor-UI-Sprite.shader
+- Assets/Intuition game/default/shaders/Useful/StencilMaskable.shader
+- Assets/Intuition game/default/shaders/Useful/StencilMaskableIncrWrap.shader
+- Assets/Intuition game/default/shaders/spongeSqueezePage/SpongeSqueezePerspectiveBrickGround.shader
+- Assets/Intuition game/default/shaders/spongeSqueezePage/SpongeSqueezeWaterMetaballDisplay.shader
+- Assets/Intuition game/default/shaders/BlurEffectConeTaps.shader
+- Assets/Intuition game/default/shaders/cleaningStainWindowPage/CleaningStainWindowLightMask.shader
+- Assets/Intuition game/default/shaders/ColorAdjustment.shader
+- Assets/Intuition game/default/shaders/petalShader.shader
+- Assets/Intuition game/default/shaders/Useful/HueAdjust.shader
+- Assets/Intuition game/default/shaders/Useful/Fill_StencilMask.shader
+- Assets/Intuition game/default/shaders/RemoveTheClothLable_LineFill.shader
+- Assets/Intuition game/default/shaders/Useful/PolarWarp.shader
+- Assets/Intuition game/default/shaders/Useful/SoftMask_ElipseLocal.shader
+- Assets/Intuition game/default/shaders/Useful/StencilMask.shader
+- Assets/Intuition game/default/shaders/Flip.shader
+- Assets/Intuition game/default/shaders/BoxBlur.shader
+- Assets/Intuition game/default/shaders/AppOpen.shader
+- Assets/Intuition game/default/shaders/Useful/Fill_StencilMaskable.shader
+- Assets/Intuition game/default/shaders/wipingTearsPage/WipingTearsMetaballField.shader
+- Assets/Intuition game/default/shaders/Bubble.shader
+- Assets/Intuition game/default/shaders/OnlyTextureCutAlpha.shader
+- Assets/Intuition game/default/shaders/ColorShader.shader
+- Assets/Intuition game/default/shaders/Unlit-AlphaTest.shader
+- Assets/Intuition game/default/shaders/Waterblur.shader
+- Assets/Intuition game/default/shaders/DirectionalFlipShader.shader
+- Assets/Intuition game/default/shaders/GaodaPieceShader.shader
+- Assets/Intuition game/default/shaders/FlipShader.shader
+Dependencies: []

@@ -1,0 +1,100 @@
+ManifestFileVersion: 0
+CRC: 3338427581
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8c2891dce35ff32adac269659dcf3c9f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 51521f51fb1440fdd772542c05b2130d
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8c2891dce35ff32adac269659dcf3c9f
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Intuition game/default/materials/16.mat
+- Assets/Intuition game/default/materials/18.mat
+- Assets/Intuition game/default/materials/body.mat
+- Assets/Intuition game/default/materials/Unlit_DoubleFaceShader 4.mat
+- Assets/Intuition game/default/materials/Unlit_DoubleFaceShader.mat
+- Assets/Intuition game/default/materials/4.mat
+- Assets/Intuition game/default/materials/13.mat
+- Assets/Intuition game/default/materials/22.mat
+- Assets/Intuition game/default/materials/yellowLineMat.mat
+- Assets/Intuition game/default/materials/CleanerColor.mat
+- "Assets/Intuition game/default/materials/\u7EBFwd.mat"
+- Assets/Intuition game/default/materials/23.mat
+- Assets/Intuition game/default/materials/Unlit_Flip.mat
+- Assets/Intuition game/default/materials/Unlit_DoubleFaceShader 8.mat
+- Assets/Intuition game/default/materials/Unlit_DoubleFaceShader 3.mat
+- Assets/Intuition game/default/materials/orangeLineMat.mat
+- Assets/Intuition game/default/materials/3.mat
+- Assets/Intuition game/default/materials/1WhiteBG.mat
+- Assets/Intuition game/default/materials/LineColor.mat
+- Assets/Intuition game/default/materials/Unlit_DoubleFaceShader 1.mat
+- Assets/Intuition game/default/materials/2.mat
+- Assets/Intuition game/default/materials/8.mat
+- Assets/Intuition game/default/materials/Unlit_DoubleFaceShader 11.mat
+- Assets/Intuition game/default/materials/6.mat
+- Assets/Intuition game/default/materials/RedColor.mat
+- Assets/Intuition game/default/materials/21.mat
+- Assets/Intuition game/default/materials/PipeColor.mat
+- Assets/Intuition game/default/materials/Unlit_DoubleFaceShader 9.mat
+- Assets/Intuition game/default/materials/Unlit_DoubleFaceShader 7.mat
+- Assets/Intuition game/default/materials/Unlit_DoubleFaceShader 5.mat
+- Assets/Intuition game/default/materials/bodyUnder.mat
+- Assets/Intuition game/default/materials/foot 1.mat
+- Assets/Intuition game/default/materials/TapeColor.mat
+- Assets/Intuition game/default/materials/Unlit_DoubleFaceShader 6.mat
+- Assets/Intuition game/default/materials/15.mat
+- Assets/Intuition game/default/materials/14.mat
+- Assets/Intuition game/default/materials/eye.mat
+- Assets/Intuition game/default/materials/eye 1.mat
+- Assets/Intuition game/default/materials/neck.mat
+- Assets/Intuition game/default/materials/hand 1.mat
+- Assets/Intuition game/default/materials/10.mat
+- Assets/Intuition game/default/materials/11.mat
+- Assets/Intuition game/default/materials/head.mat
+- Assets/Intuition game/default/materials/BlueColor.mat
+- Assets/Intuition game/default/materials/20.mat
+- Assets/Intuition game/default/materials/petalMat.mat
+- Assets/Intuition game/default/materials/19.mat
+- Assets/Intuition game/default/materials/TextureWithShader.mat
+- Assets/Intuition game/default/materials/9.mat
+- Assets/Intuition game/default/materials/foot.mat
+- Assets/Intuition game/default/materials/mouse.mat
+- "Assets/Intuition game/default/materials/\u8863\u670D.mat"
+- Assets/Intuition game/default/materials/Unlit_SpriteTex.mat
+- "Assets/Intuition game/default/materials/\u7259\u818F.mat"
+- "Assets/Intuition game/default/materials/\u9634\u5F71ddd.mat"
+- Assets/Intuition game/default/materials/5.mat
+- Assets/Intuition game/default/materials/Normal.mat
+- Assets/Intuition game/default/materials/blueLineMat.mat
+- Assets/Intuition game/default/materials/12.mat
+- Assets/Intuition game/default/materials/17.mat
+- Assets/Intuition game/default/materials/7.mat
+- Assets/Intuition game/default/materials/lace.mat
+- Assets/Intuition game/default/materials/greenLineMat.mat
+- Assets/Intuition game/default/materials/juice.mat
+- Assets/Intuition game/default/materials/NoodleColor.mat
+- Assets/Intuition game/default/materials/GreenColor.mat
+- Assets/Intuition game/default/materials/GQ_chuantianhou_shenzi01.mat
+- Assets/Intuition game/default/materials/Unlit_DoubleFaceShader 10.mat
+- Assets/Intuition game/default/materials/1.mat
+- Assets/Intuition game/default/materials/YellowColor.mat
+- Assets/Intuition game/default/materials/Unlit_DoubleFaceShader 2.mat
+- Assets/Intuition game/default/materials/hand.mat
+Dependencies:
+- /Users/lixinying/Data/UnityProjects/Satisfying_dev/Satisfying/Intuition game(Github)/Assets/StreamingAssets/atles
+- /Users/lixinying/Data/UnityProjects/Satisfying_dev/Satisfying/Intuition game(Github)/Assets/StreamingAssets/rendertex
+- /Users/lixinying/Data/UnityProjects/Satisfying_dev/Satisfying/Intuition game(Github)/Assets/StreamingAssets/shaders

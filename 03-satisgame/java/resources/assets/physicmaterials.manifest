@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 1617667628
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c0d116316c91adee7e94c49256c16a35
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0314674c095a731c5b1e6f91323ca13d
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c0d116316c91adee7e94c49256c16a35
+HashAppended: 0
+ClassTypes:
+- Class: 62
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Intuition game/default/physicmaterials/physic_pigcoin.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/fingerBasketball.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/physic_WearCrownPhysicsMat.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/lotteryDrumPage_barrierMat.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/Physic_biliards.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/fryingTheBacon_bacon.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/goalKeepPage_ball.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/physic_balloon.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/Physic_pingpong.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/washingMachinePage_cloth.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/shellPeasPage_peas.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/rollingBasketball_Mat.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/cleaningWaterPoolItem_PhysicsMat.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/lotteryDrumPage_ballMat.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/weighingSugarPage_sugerPMat.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/callUpPage_coinPhysicsMat.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/physic_brickball.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/physic_football.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/babtSuckingMilkPage.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/recyclingScareBox_eyeBall.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/physic_marbles.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/findingSeafoodPage_seafood.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/tableHockey_BallMat.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/physic_quartet.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/physic_Coin2.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/IceCream.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/fightTheClonePage_Monster.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/physic_coin.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/zero2D.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/savePrincessPage_player.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/Physic_HamsterItem.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/pullingBalloonsPage_balloon.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/balloon.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/EggPhysic.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/crackEggsPage_eggPhysic.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/fanClamsPage_clam.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/maxFirction.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/physic_basketball.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/Tape.physicsMaterial2D
+- Assets/Intuition game/default/physicmaterials/waterBabyPage_waterBaby.physicsMaterial2D
+Dependencies: []

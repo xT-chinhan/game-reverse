@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 425516131
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: prefabs
+      Dependencies:
+        Dependency_0: audioclips
+        Dependency_1: rendertex
+        Dependency_2: shaders
+        Dependency_3: physicmaterials
+        Dependency_4: model
+        Dependency_5: atles
+        Dependency_6: materials
+        Dependency_7: spine
+        Dependency_8: fonts
+        Dependency_9: textures
+        Dependency_10: animations
+    Info_1:
+      Name: audioclips
+      Dependencies: {}
+    Info_2:
+      Name: rendertex
+      Dependencies: {}
+    Info_3:
+      Name: shaders
+      Dependencies: {}
+    Info_4:
+      Name: physicmaterials
+      Dependencies: {}
+    Info_5:
+      Name: model
+      Dependencies: {}
+    Info_6:
+      Name: atles
+      Dependencies:
+        Dependency_0: shaders
+    Info_7:
+      Name: materials
+      Dependencies:
+        Dependency_0: rendertex
+        Dependency_1: shaders
+        Dependency_2: atles
+    Info_8:
+      Name: spine
+      Dependencies: {}
+    Info_9:
+      Name: fonts
+      Dependencies: {}
+    Info_10:
+      Name: textures
+      Dependencies: {}
+    Info_11:
+      Name: configfile
+      Dependencies: {}
+    Info_12:
+      Name: animations
+      Dependencies: {}

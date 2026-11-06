@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 3142339892
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 69fb7e61f786981fd8260886d35ae745
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: eb513b2d9228c497b0b79ef976796f53
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 69fb7e61f786981fd8260886d35ae745
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Intuition game/default/Model/usb/USB.fbx
+- Assets/Intuition game/default/Model/timeBomb/btn11.mat
+- Assets/Intuition game/default/Model/usb/USB_1.png
+- Assets/Intuition game/default/Model/usb/USB_3.png
+- Assets/Intuition game/default/Model/usb/usbbgMata.mat
+- Assets/Intuition game/default/Model/timeBomb/btn3.mat
+- Assets/Intuition game/default/Model/timeBomb/btn31.mat
+- Assets/Intuition game/default/Model/timeBomb/btn4.mat
+- Assets/Intuition game/default/Model/timeBomb/btn1.mat
+- Assets/Intuition game/default/Model/timeBomb/btn41.mat
+- Assets/Intuition game/default/Model/timeBomb/btn22.mat
+- Assets/Intuition game/default/Model/timeBomb/btn42.mat
+- Assets/Intuition game/default/Model/timeBomb/yellow.mat
+- Assets/Intuition game/default/Model/usb/USB_2.png
+- Assets/Intuition game/default/Model/usb/usbMat2_an.mat
+- Assets/Intuition game/default/Model/timeBomb/lineGreen.mat
+- Assets/Intuition game/default/Model/timeBomb/lineRed.mat
+- Assets/Intuition game/default/Model/timeBomb/brown.mat
+- Assets/Intuition game/default/Model/timeBomb/BOOM.fbx
+- Assets/Intuition game/default/Model/usb/usbMat1.mat
+- Assets/Intuition game/default/Model/usb/USB_2an.png
+- Assets/Intuition game/default/Model/timeBomb/btn2.mat
+- "Assets/Intuition game/default/Model/usb/U\u76D8 \u80CC\u9762.png"
+- Assets/Intuition game/default/Model/dolphin/dolphin.fbx
+- Assets/Intuition game/default/Model/usb/usbMat3.mat
+- Assets/Intuition game/default/Model/timeBomb/red.mat
+- Assets/Intuition game/default/Model/usb/usbMat2.mat
+- Assets/Intuition game/default/Model/timeBomb/btn21.mat
+- Assets/Intuition game/default/Model/timeBomb/btn32.mat
+Dependencies: []

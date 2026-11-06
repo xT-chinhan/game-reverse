@@ -1,0 +1,9 @@
+package com.byazt.sk;
+
+/* JADX INFO: loaded from: classes2.dex */
+public enum qg {
+    BYTE_INVALID_RETRY_STATUS_NONE,
+    BYTE_INVALID_RETRY_STATUS_RESTART,
+    BYTE_INVALID_RETRY_STATUS_DOWNLOADING,
+    BYTE_INVALID_RETRY_STATUS_DOWNLOADED
+}

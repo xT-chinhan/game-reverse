@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3021759548
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c037073327d06e0e7403967480c1ee1f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c037073327d06e0e7403967480c1ee1f
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Intuition game/default/Animations/WaterFerrulePage/SeaWeedAnimation.anim
+- Assets/Intuition game/default/Animations/WaterFerrulePage/Animals.controller
+- Assets/Intuition game/default/Animations/WaterFerrulePage/Grass.controller
+- Assets/Intuition game/default/Animations/confirmWindow/confirmWin.controller
+- Assets/Intuition game/default/Animations/WaterFerrulePage/AnimalAnimation.anim
+- Assets/Intuition game/default/Animations/WaterFerrulePage/SeaWeed.controller
+- Assets/Intuition game/default/Animations/WaterFerrulePage/GrassAnimation.anim
+- Assets/Intuition game/default/Animations/confirmWindow/Show.anim
+- Assets/Intuition game/default/Animations/confirmWindow/Hide.anim
+Dependencies: []

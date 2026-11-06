@@ -1,0 +1,23 @@
+package com.anythink.core.common.m.b.a;
+
+/* JADX INFO: loaded from: classes.dex */
+public abstract class b implements Runnable {
+    protected final String c;
+
+    protected abstract void c();
+
+    public b(String str, Object... objArr) {
+        this.c = c.a(str, objArr);
+    }
+
+    @Override // java.lang.Runnable
+    public final void run() {
+        String name = Thread.currentThread().getName();
+        Thread.currentThread().setName(this.c);
+        try {
+            c();
+        } finally {
+            Thread.currentThread().setName(name);
+        }
+    }
+}
