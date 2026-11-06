@@ -1,0 +1,9 @@
+package com.byazt.mrs;
+
+/* JADX INFO: loaded from: classes2.dex */
+public enum hw {
+    BYTE_INVALID_RETRY_STATUS_NONE,
+    BYTE_INVALID_RETRY_STATUS_RESTART,
+    BYTE_INVALID_RETRY_STATUS_DOWNLOADING,
+    BYTE_INVALID_RETRY_STATUS_DOWNLOADED
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_action_bar_default_height_material">48dp</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">12dp</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">14dp</dimen>
+    <dimen name="qy_dialog_close_margin_top_content">55dp</dimen>
+    <dimen name="qy_play_bottom_button_width">100dp</dimen>
+    <dimen name="qy_reward_dialog_gold_close_margin_top_content">15dp</dimen>
+</resources>

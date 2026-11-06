@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center"
+    android:background="#33000000"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:gravity="center"
+        android:orientation="vertical"
+        android:background="@drawable/mar_dialog_corner_bg"
+        android:layout_width="320dp"
+        android:layout_height="140dp">
+        <Button
+            android:id="@+id/mar_taptap_login_btn"
+            android:background="@mipmap/mar_taptap_button_32"
+            android:layout_width="240dp"
+            android:layout_height="42dp"/>
+    </LinearLayout>
+</LinearLayout>

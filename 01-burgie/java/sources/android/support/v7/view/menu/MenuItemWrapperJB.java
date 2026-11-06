@@ -1,0 +1,61 @@
+package android.support.v7.view.menu;
+
+import android.content.Context;
+import android.support.v4.internal.view.SupportMenuItem;
+import android.view.ActionProvider;
+import android.view.MenuItem;
+import android.view.View;
+
+/* JADX INFO: loaded from: classes.dex */
+class MenuItemWrapperJB extends MenuItemWrapperICS {
+    MenuItemWrapperJB(Context context, SupportMenuItem object) {
+        super(context, object);
+    }
+
+    @Override // android.support.v7.view.menu.MenuItemWrapperICS
+    MenuItemWrapperICS.ActionProviderWrapper createActionProviderWrapper(ActionProvider provider) {
+        return new ActionProviderWrapperJB(this.mContext, provider);
+    }
+
+    class ActionProviderWrapperJB extends MenuItemWrapperICS.ActionProviderWrapper implements ActionProvider.VisibilityListener {
+        android.support.v4.view.ActionProvider.VisibilityListener mListener;
+
+        public ActionProviderWrapperJB(Context context, ActionProvider inner) {
+            super(context, inner);
+        }
+
+        @Override // android.support.v4.view.ActionProvider
+        public View onCreateActionView(MenuItem forItem) {
+            return this.mInner.onCreateActionView(forItem);
+        }
+
+        @Override // android.support.v4.view.ActionProvider
+        public boolean overridesItemVisibility() {
+            return this.mInner.overridesItemVisibility();
+        }
+
+        @Override // android.support.v4.view.ActionProvider
+        public boolean isVisible() {
+            return this.mInner.isVisible();
+        }
+
+        @Override // android.support.v4.view.ActionProvider
+        public void refreshVisibility() {
+            this.mInner.refreshVisibility();
+        }
+
+        @Override // android.support.v4.view.ActionProvider
+        public void setVisibilityListener(android.support.v4.view.ActionProvider.VisibilityListener listener) {
+            this.mListener = listener;
+            this.mInner.setVisibilityListener(listener != null ? this : null);
+        }
+
+        @Override // android.view.ActionProvider.VisibilityListener
+        public void onActionProviderVisibilityChanged(boolean isVisible) {
+            android.support.v4.view.ActionProvider.VisibilityListener visibilityListener = this.mListener;
+            if (visibilityListener != null) {
+                visibilityListener.onActionProviderVisibilityChanged(isVisible);
+            }
+        }
+    }
+}

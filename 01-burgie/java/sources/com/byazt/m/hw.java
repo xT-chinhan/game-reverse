@@ -1,0 +1,9 @@
+package com.byazt.m;
+
+/* JADX INFO: loaded from: classes2.dex */
+@com.byazt.vzx.pr(pr = {0, 1, 108, 13})
+public class hw extends Exception {
+    public hw(String str) {
+        super(str);
+    }
+}

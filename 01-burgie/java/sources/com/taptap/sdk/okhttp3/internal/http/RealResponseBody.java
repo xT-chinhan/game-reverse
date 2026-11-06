@@ -1,0 +1,40 @@
+package com.taptap.sdk.okhttp3.internal.http;
+
+import com.taptap.sdk.okhttp3.MediaType;
+import com.taptap.sdk.okhttp3.ResponseBody;
+import com.taptap.sdk.okio.BufferedSource;
+import javax.annotation.Nullable;
+
+/* JADX INFO: loaded from: classes3.dex */
+public final class RealResponseBody extends ResponseBody {
+    private final long contentLength;
+
+    @Nullable
+    private final String contentTypeString;
+    private final BufferedSource source;
+
+    public RealResponseBody(@Nullable String contentTypeString, long contentLength, BufferedSource source) {
+        this.contentTypeString = contentTypeString;
+        this.contentLength = contentLength;
+        this.source = source;
+    }
+
+    @Override // com.taptap.sdk.okhttp3.ResponseBody
+    public MediaType contentType() {
+        String str = this.contentTypeString;
+        if (str != null) {
+            return MediaType.parse(str);
+        }
+        return null;
+    }
+
+    @Override // com.taptap.sdk.okhttp3.ResponseBody
+    public long contentLength() {
+        return this.contentLength;
+    }
+
+    @Override // com.taptap.sdk.okhttp3.ResponseBody
+    public BufferedSource source() {
+        return this.source;
+    }
+}

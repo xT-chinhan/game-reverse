@@ -1,0 +1,8 @@
+package com.taptap.sdk.themis.lite;
+
+/* JADX INFO: loaded from: classes3.dex */
+public interface ThemisLiteCallback {
+    void gidDataCallback(String str);
+
+    void tdidCallback(String str);
+}

@@ -1,0 +1,10 @@
+package com.mcto.sspsdk.internal;
+
+/* JADX INFO: loaded from: classes2.dex */
+public final class ed {
+    public final /* synthetic */ gd a;
+
+    public ed(gd gdVar) {
+        this.a = gdVar;
+    }
+}

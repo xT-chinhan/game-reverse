@@ -1,0 +1,88 @@
+package com.taptap.sdk.okhttp3.internal.http;
+
+import com.efs.sdk.base.Constants;
+import com.taptap.sdk.okhttp3.Cookie;
+import com.taptap.sdk.okhttp3.CookieJar;
+import com.taptap.sdk.okhttp3.Headers;
+import com.taptap.sdk.okhttp3.Interceptor;
+import com.taptap.sdk.okhttp3.MediaType;
+import com.taptap.sdk.okhttp3.Request;
+import com.taptap.sdk.okhttp3.RequestBody;
+import com.taptap.sdk.okhttp3.Response;
+import com.taptap.sdk.okhttp3.internal.Version;
+import com.taptap.sdk.okio.GzipSource;
+import com.taptap.sdk.okio.Okio;
+import com.taptap.sdk.update.download.core.Util;
+import java.io.IOException;
+import java.util.List;
+
+/* JADX INFO: loaded from: classes3.dex */
+public final class BridgeInterceptor implements Interceptor {
+    private final CookieJar cookieJar;
+
+    public BridgeInterceptor(CookieJar cookieJar) {
+        this.cookieJar = cookieJar;
+    }
+
+    @Override // com.taptap.sdk.okhttp3.Interceptor
+    public Response intercept(Interceptor.Chain chain) throws IOException {
+        Request userRequest = chain.request();
+        Request.Builder requestBuilder = userRequest.newBuilder();
+        RequestBody body = userRequest.body();
+        if (body != null) {
+            MediaType contentType = body.contentType();
+            if (contentType != null) {
+                requestBuilder.header("Content-Type", contentType.toString());
+            }
+            long contentLength = body.contentLength();
+            if (contentLength != -1) {
+                requestBuilder.header(Util.CONTENT_LENGTH, Long.toString(contentLength));
+                requestBuilder.removeHeader(Util.TRANSFER_ENCODING);
+            } else {
+                requestBuilder.header(Util.TRANSFER_ENCODING, "chunked");
+                requestBuilder.removeHeader(Util.CONTENT_LENGTH);
+            }
+        }
+        if (userRequest.header("Host") == null) {
+            requestBuilder.header("Host", com.taptap.sdk.okhttp3.internal.Util.hostHeader(userRequest.url(), false));
+        }
+        if (userRequest.header("Connection") == null) {
+            requestBuilder.header("Connection", "Keep-Alive");
+        }
+        boolean transparentGzip = false;
+        if (userRequest.header("Accept-Encoding") == null && userRequest.header(Util.RANGE) == null) {
+            transparentGzip = true;
+            requestBuilder.header("Accept-Encoding", Constants.CP_GZIP);
+        }
+        List<Cookie> cookies = this.cookieJar.loadForRequest(userRequest.url());
+        if (!cookies.isEmpty()) {
+            requestBuilder.header("Cookie", cookieHeader(cookies));
+        }
+        if (userRequest.header("User-Agent") == null) {
+            requestBuilder.header("User-Agent", Version.userAgent());
+        }
+        Response networkResponse = chain.proceed(requestBuilder.build());
+        HttpHeaders.receiveHeaders(this.cookieJar, userRequest.url(), networkResponse.headers());
+        Response.Builder responseBuilder = networkResponse.newBuilder().request(userRequest);
+        if (transparentGzip && Constants.CP_GZIP.equalsIgnoreCase(networkResponse.header("Content-Encoding")) && HttpHeaders.hasBody(networkResponse)) {
+            GzipSource responseBody = new GzipSource(networkResponse.body().source());
+            Headers strippedHeaders = networkResponse.headers().newBuilder().removeAll("Content-Encoding").removeAll(Util.CONTENT_LENGTH).build();
+            responseBuilder.headers(strippedHeaders);
+            responseBuilder.body(new RealResponseBody(networkResponse.header("Content-Type"), -1L, Okio.buffer(responseBody)));
+        }
+        return responseBuilder.build();
+    }
+
+    private String cookieHeader(List<Cookie> cookies) {
+        StringBuilder cookieHeader = new StringBuilder();
+        int size = cookies.size();
+        for (int i = 0; i < size; i++) {
+            if (i > 0) {
+                cookieHeader.append("; ");
+            }
+            Cookie cookie = cookies.get(i);
+            cookieHeader.append(cookie.name()).append('=').append(cookie.value());
+        }
+        return cookieHeader.toString();
+    }
+}

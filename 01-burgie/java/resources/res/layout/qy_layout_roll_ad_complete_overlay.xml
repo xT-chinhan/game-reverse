@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@color/qy_text_color_black_44alpha"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.mcto.sspsdk.component.imageview.QYNiceImageView
+        android:id="@+id/qy_roll_ad_player_complete_overlay_icon"
+        android:layout_width="50dp"
+        android:layout_height="50dp"/>
+    <TextView
+        android:textSize="12sp"
+        android:textColor="@android:color/white"
+        android:id="@+id/qy_roll_ad_player_complete_overlay_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"/>
+    <LinearLayout
+        android:orientation="vertical"
+        android:id="@+id/qy_roll_ad_player_complete_overlay_btn"
+        android:layout_width="100dp"
+        android:layout_height="30dp"/>
+</LinearLayout>

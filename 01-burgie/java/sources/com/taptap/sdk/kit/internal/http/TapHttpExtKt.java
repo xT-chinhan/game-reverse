@@ -1,0 +1,118 @@
+package com.taptap.sdk.kit.internal.http;
+
+import android.R;
+import com.taptap.sdk.kit.internal.http.call.ITapHttpCall;
+import com.taptap.sdk.kit.internal.http.call.TapHttpCall;
+import com.taptap.sdk.kit.internal.http.hanlder.SdkDefaultParser2;
+import com.taptap.sdk.kit.internal.http.hanlder.TapHttpParser;
+import com.taptap.sdk.kit.internal.http.hanlder.TapHttpRetry;
+import com.taptap.sdk.kit.internal.http.param.AbsTapHttpParam;
+import kotlin.Metadata;
+import kotlin.Result;
+import kotlin.ResultKt;
+import kotlin.Unit;
+import kotlin.coroutines.Continuation;
+import kotlin.coroutines.intrinsics.IntrinsicsKt;
+import kotlin.coroutines.jvm.internal.ContinuationImpl;
+import kotlin.coroutines.jvm.internal.DebugMetadata;
+import kotlin.jvm.functions.Function1;
+import kotlin.jvm.internal.Intrinsics;
+
+/* JADX INFO: compiled from: TapHttpExt.kt */
+/* JADX INFO: loaded from: classes3.dex */
+@Metadata(d1 = {"\u0000(\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0002\u0010\u0002\n\u0002\b\u0005\n\u0002\u0018\u0002\n\u0002\b\u0002\n\u0002\u0010\u000b\n\u0000\u001a8\u0010\u0000\u001a\b\u0012\u0004\u0012\u0002H\u00020\u0001\"\u0004\b\u0000\u0010\u0002*\b\u0012\u0004\u0012\u0002H\u00020\u00032\u0012\u0010\u0004\u001a\u000e\u0012\u0004\u0012\u0002H\u0002\u0012\u0004\u0012\u00020\u00060\u0005H\u0086@¢\u0006\u0002\u0010\u0007\u001a5\u0010\b\u001a\b\u0012\u0004\u0012\u0002H\u00020\u0001\"\u0004\b\u0000\u0010\u0002*\b\u0012\u0004\u0012\u0002H\u00020\u00032\u0012\u0010\u0004\u001a\u000e\u0012\u0004\u0012\u0002H\u0002\u0012\u0004\u0012\u00020\u00060\u0005¢\u0006\u0002\u0010\t\u001a\u001f\u0010\n\u001a\b\u0012\u0004\u0012\u0002H\u000b0\u0003\"\u0006\b\u0000\u0010\u000b\u0018\u0001*\u0006\u0012\u0002\b\u00030\fH\u0086\b\u001a\u001f\u0010\r\u001a\b\u0012\u0004\u0012\u0002H\u000b0\u0003\"\u0006\b\u0000\u0010\u000b\u0018\u0001*\u0006\u0012\u0002\b\u00030\fH\u0086\b\u001a\u0014\u0010\u000e\u001a\b\u0012\u0004\u0012\u00020\u000f0\u0003*\u0006\u0012\u0002\b\u00030\f¨\u0006\u0010"}, d2 = {"enqueueResult", "Lkotlin/Result;", "T", "Lcom/taptap/sdk/kit/internal/http/call/TapHttpCall;", "onSuccess", "Lkotlin/Function1;", "", "(Lcom/taptap/sdk/kit/internal/http/call/TapHttpCall;Lkotlin/jvm/functions/Function1;Lkotlin/coroutines/Continuation;)Ljava/lang/Object;", "executeResult", "(Lcom/taptap/sdk/kit/internal/http/call/TapHttpCall;Lkotlin/jvm/functions/Function1;)Ljava/lang/Object;", "toCall", "DataBean", "Lcom/taptap/sdk/kit/internal/http/param/AbsTapHttpParam;", "toCall2", "toEventCall", "", "tap-common_release"}, k = 2, mv = {1, 5, 1}, xi = 48)
+public final class TapHttpExtKt {
+
+    /* JADX INFO: renamed from: com.taptap.sdk.kit.internal.http.TapHttpExtKt$enqueueResult$1, reason: invalid class name */
+    /* JADX INFO: compiled from: TapHttpExt.kt */
+    @Metadata(k = 3, mv = {1, 5, 1}, xi = 48)
+    @DebugMetadata(c = "com.taptap.sdk.kit.internal.http.TapHttpExtKt", f = "TapHttpExt.kt", i = {0}, l = {33}, m = "enqueueResult", n = {"onSuccess"}, s = {"L$0"})
+    static final class AnonymousClass1<T> extends ContinuationImpl {
+        Object L$0;
+        int label;
+        /* synthetic */ Object result;
+
+        AnonymousClass1(Continuation<? super AnonymousClass1> continuation) {
+            super(continuation);
+        }
+
+        @Override // kotlin.coroutines.jvm.internal.BaseContinuationImpl
+        public final Object invokeSuspend(Object obj) throws Throwable {
+            this.result = obj;
+            this.label |= Integer.MIN_VALUE;
+            Object objEnqueueResult = TapHttpExtKt.enqueueResult(null, null, this);
+            return objEnqueueResult == IntrinsicsKt.getCOROUTINE_SUSPENDED() ? objEnqueueResult : Result.m533boximpl(objEnqueueResult);
+        }
+    }
+
+    public static final /* synthetic */ <DataBean> TapHttpCall<DataBean> toCall(AbsTapHttpParam<?> absTapHttpParam) {
+        Intrinsics.checkNotNullParameter(absTapHttpParam, "<this>");
+        Intrinsics.needClassReification();
+        return new TapHttpCall<>(absTapHttpParam, new TapHttpParser.SdkDefaultParser(null, C03471.INSTANCE, 1, null), new TapHttpRetry.SdkDefault(absTapHttpParam.getBackoffHandler()));
+    }
+
+    public static final /* synthetic */ <DataBean> TapHttpCall<DataBean> toCall2(AbsTapHttpParam<?> absTapHttpParam) {
+        Intrinsics.checkNotNullParameter(absTapHttpParam, "<this>");
+        return new TapHttpCall<>(absTapHttpParam, new SdkDefaultParser2(), new TapHttpRetry.SdkDefault(absTapHttpParam.getBackoffHandler()));
+    }
+
+    /* JADX WARN: Code duplicated, block: B:7:0x0014  */
+    public static final <T> Object enqueueResult(TapHttpCall<T> tapHttpCall, Function1<? super T, Unit> function1, Continuation<? super Result<? extends T>> continuation) throws Throwable {
+        AnonymousClass1 anonymousClass1;
+        Object value;
+        Function1<? super T, Unit> function2;
+        if (continuation instanceof AnonymousClass1) {
+            anonymousClass1 = (AnonymousClass1) continuation;
+            if ((anonymousClass1.label & Integer.MIN_VALUE) != 0) {
+                anonymousClass1.label -= Integer.MIN_VALUE;
+            } else {
+                anonymousClass1 = new AnonymousClass1(continuation);
+            }
+        } else {
+            anonymousClass1 = new AnonymousClass1(continuation);
+        }
+        AnonymousClass1 anonymousClass2 = anonymousClass1;
+        Object $result = anonymousClass2.result;
+        Object coroutine_suspended = IntrinsicsKt.getCOROUTINE_SUSPENDED();
+        switch (anonymousClass2.label) {
+            case 0:
+                ResultKt.throwOnFailure($result);
+                anonymousClass2.L$0 = function1;
+                anonymousClass2.label = 1;
+                Object objM418enqueueResultgIAlus$default = ITapHttpCall.DefaultImpls.m418enqueueResultgIAlus$default(tapHttpCall, 0L, anonymousClass2, 1, null);
+                if (objM418enqueueResultgIAlus$default == coroutine_suspended) {
+                    return coroutine_suspended;
+                }
+                value = objM418enqueueResultgIAlus$default;
+                function2 = function1;
+                break;
+                break;
+            case 1:
+                function2 = (Function1) anonymousClass2.L$0;
+                ResultKt.throwOnFailure($result);
+                value = ((Result) $result).getValue();
+                break;
+            default:
+                throw new IllegalStateException("call to 'resume' before 'invoke' with coroutine");
+        }
+        if (Result.m541isSuccessimpl(value)) {
+            function2.invoke(value);
+        }
+        return value;
+    }
+
+    public static final <T> Object executeResult(TapHttpCall<T> tapHttpCall, Function1<? super T, Unit> onSuccess) {
+        Intrinsics.checkNotNullParameter(tapHttpCall, "<this>");
+        Intrinsics.checkNotNullParameter(onSuccess, "onSuccess");
+        R.attr attrVar = (Object) ITapHttpCall.DefaultImpls.m420executeResultIoAF18A$default(tapHttpCall, 0L, 1, null);
+        if (Result.m541isSuccessimpl(attrVar)) {
+            onSuccess.invoke(attrVar);
+        }
+        return attrVar;
+    }
+
+    public static final TapHttpCall<Boolean> toEventCall(AbsTapHttpParam<?> absTapHttpParam) {
+        Intrinsics.checkNotNullParameter(absTapHttpParam, "<this>");
+        return new TapHttpCall<>(absTapHttpParam, new TapHttpParser.EventParser(), new TapHttpRetry.NoneRetry());
+    }
+}

@@ -1,0 +1,56 @@
+package com.umeng.commonsdk.config;
+
+import java.util.HashMap;
+import java.util.Map;
+
+/* JADX INFO: compiled from: CollectController.java */
+/* JADX INFO: loaded from: classes3.dex */
+public class b implements f {
+    private static Map<String, Boolean> a = new HashMap();
+    private static Object b = new Object();
+
+    private b() {
+    }
+
+    public void a() {
+        synchronized (b) {
+            a.clear();
+        }
+    }
+
+    /* JADX INFO: compiled from: CollectController.java */
+    private static class a {
+        private static final b a = new b();
+
+        private a() {
+        }
+    }
+
+    public static b b() {
+        return a.a;
+    }
+
+    public static boolean a(String str) {
+        if (!d.a(str)) {
+            return false;
+        }
+        synchronized (b) {
+            if (a.containsKey(str)) {
+                return a.get(str).booleanValue();
+            }
+            return true;
+        }
+    }
+
+    @Override // com.umeng.commonsdk.config.f
+    public void a(String str, Boolean bool) {
+        if (!d.a(str)) {
+            return;
+        }
+        synchronized (b) {
+            if (a != null) {
+                a.put(str, bool);
+            }
+        }
+    }
+}

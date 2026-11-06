@@ -1,0 +1,10 @@
+package com.tapsdk.tapad.lottie.animation.content;
+
+import java.util.List;
+
+/* JADX INFO: loaded from: classes3.dex */
+public interface Content {
+    String getName();
+
+    void setContents(List<Content> list, List<Content> list2);
+}
