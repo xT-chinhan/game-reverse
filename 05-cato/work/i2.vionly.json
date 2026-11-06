@@ -1,0 +1,6772 @@
+{
+ "m_GameObject": {
+  "m_FileID": 0,
+  "m_PathID": 0
+ },
+ "m_Enabled": 1,
+ "m_Script": {
+  "m_FileID": 16777216,
+  "m_PathID": 14428405760
+ },
+ "m_Name": "I2Languages",
+ "mSource": {
+  "UserAgreesToHaveItOnTheScene": 0,
+  "UserAgreesToHaveItInsideThePluginsFolder": 0,
+  "GoogleLiveSyncIsUptoDate": 1,
+  "mTerms": [
+   {
+    "Term": "common/confirm",
+    "TermType": 0,
+    "Languages": [
+     "Xác nhận"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "save share/generate title",
+    "TermType": 0,
+    "Languages": [
+     "Tạo mã lưu"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "save share/notice body",
+    "TermType": 0,
+    "Languages": [
+     "• Bấm vào mã để sao chép và đồng bộ tiến trình lưu sang thiết bị khác\n• Mã này đồng bộ được giữa điện thoại và máy tính\n• Mã chỉ đồng bộ tiến trình màn chơi và skin đã mở. Cài đặt game và kỷ lục mini-game thì không nha.\n• Mã có hạn dùng. Đừng xài làm bản sao lưu nhé!"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "save share/receive title",
+    "TermType": 0,
+    "Languages": [
+     "Nhận mã lưu"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "save share/input placeholder",
+    "TermType": 0,
+    "Languages": [
+     "Nhập mã lưu"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "save share/paste",
+    "TermType": 0,
+    "Languages": [
+     "Dán"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "save share/validate",
+    "TermType": 0,
+    "Languages": [
+     "Kiểm tra mã"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "save share/expiry",
+    "TermType": 0,
+    "Languages": [
+     "Mã còn hiệu lực: {0} phút"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "save share/copied",
+    "TermType": 0,
+    "Languages": [
+     "Đã sao chép"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "save share/success",
+    "TermType": 0,
+    "Languages": [
+     "Đồng bộ lưu thành công rồi!"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "save share/failure",
+    "TermType": 0,
+    "Languages": [
+     "Đồng bộ thất bại. Kiểm tra lại hoa/thường và hạn của mã nha!"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/level design button",
+    "TermType": 0,
+    "Languages": [
+     "Trình tạo màn"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/title press any key",
+    "TermType": 0,
+    "Languages": [
+     "Bấm phím bất kỳ để tiếp tục"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/demo description detail 2",
+    "TermType": 0,
+    "Languages": [
+     "Đây là bản dùng thử, chưa phải bản chính thức của game đâu nha."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/demo description button",
+    "TermType": 0,
+    "Languages": [
+     "Thông tin"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/show taptap achievements",
+    "TermType": 0,
+    "Languages": [
+     "Xem thành tựu"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/view on taptap",
+    "TermType": 0,
+    "Languages": [
+     "Xem thêm"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/mobile full version 8 mini games",
+    "TermType": 0,
+    "Languages": [
+     "8 Mini-game"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/new game button",
+    "TermType": 0,
+    "Languages": [
+     "CHƠI NGAY"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/continue game button",
+    "TermType": 0,
+    "Languages": [
+     "CHƠI TIẾP"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/exit game button",
+    "TermType": 0,
+    "Languages": [
+     "Thoát"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/credits button",
+    "TermType": 0,
+    "Languages": [
+     "Đội ngũ làm game"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/continue to main game button",
+    "TermType": 0,
+    "Languages": [
+     "Tiếp tục"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/back to map button",
+    "TermType": 0,
+    "Languages": [
+     "Về bản đồ"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/back to base button",
+    "TermType": 0,
+    "Languages": [
+     "Về tổ"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/settings button",
+    "TermType": 0,
+    "Languages": [
+     "Cài đặt"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/back to main menu button",
+    "TermType": 0,
+    "Languages": [
+     "Menu chính"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/restart game button",
+    "TermType": 0,
+    "Languages": [
+     "Chơi lại màn"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/side panel pause title",
+    "TermType": 0,
+    "Languages": [
+     "TẠM DỪNG"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/save slot",
+    "TermType": 0,
+    "Languages": [
+     "Ô lưu"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/kitty skin window title",
+    "TermType": 0,
+    "Languages": [
+     "Skin Mèo"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/toast skin window title",
+    "TermType": 0,
+    "Languages": [
+     "Skin Bánh Mì"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/skin_lock",
+    "TermType": 0,
+    "Languages": [
+     "Đang khóa"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/mini games",
+    "TermType": 0,
+    "Languages": [
+     "Mini-game"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/show hints",
+    "TermType": 0,
+    "Languages": [
+     "Gợi ý"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/skip level",
+    "TermType": 0,
+    "Languages": [
+     "Bỏ qua màn"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/skip level 1 min",
+    "TermType": 0,
+    "Languages": [
+     "Bỏ qua màn (1 phút)"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/base title",
+    "TermType": 0,
+    "Languages": [
+     "Tổ"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/bug report title",
+    "TermType": 0,
+    "Languages": [
+     "Có lỗi rồi!"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/survey title",
+    "TermType": 0,
+    "Languages": [
+     "Khảo sát"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/switch save title",
+    "TermType": 0,
+    "Languages": [
+     "Đổi ô lưu"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/save select button",
+    "TermType": 0,
+    "Languages": [
+     "Chọn ô lưu"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/copy save button",
+    "TermType": 0,
+    "Languages": [
+     "Sao chép ô lưu"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/save detect corruption prompt",
+    "TermType": 0,
+    "Languages": [
+     "Phát hiện file lưu hiện tại bị hỏng. Bạn có muốn khôi phục từ bản sao lưu không?"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/save regression restore prompt",
+    "TermType": 0,
+    "Languages": [
+     "Bản sao lưu cục bộ có thể chứa nhiều tiến trình hơn. Khôi phục bản sao lưu nhé?"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/save regression restore explanation",
+    "TermType": 0,
+    "Languages": [
+     "File lưu hiện tại sẽ được giữ lại trước khi khôi phục. Chọn Không thì tiếp tục với file lưu hiện tại, và khi có ô trống sẽ chép bản sao lưu vào đó mà vẫn giữ lại bản ghi sao lưu."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/save corruption explanation",
+    "TermType": 0,
+    "Languages": [
+     "File lưu thường bị hỏng khi máy tắt đột ngột hoặc game thoát bất thường lúc đang lưu tiến trình. Khuyên bạn nên khôi phục từ bản sao lưu cục bộ hoặc đám mây."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/save delete confirmation",
+    "TermType": 0,
+    "Languages": [
+     "Bạn chắc chắn muốn xóa file lưu này chứ? (Không hoàn tác được đâu nha)"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/save auto save warning",
+    "TermType": 0,
+    "Languages": [
+     "Game có tự động lưu. Khi thấy biểu tượng này thì đừng tắt game nhé."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/save restore success",
+    "TermType": 0,
+    "Languages": [
+     "Khôi phục bản sao lưu thành công!"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/save restore failure",
+    "TermType": 0,
+    "Languages": [
+     "Khôi phục bản sao lưu thất bại :("
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/save copy failure",
+    "TermType": 0,
+    "Languages": [
+     "Các ô lưu đã đầy hết rồi!"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/mini game unlock requirement",
+    "TermType": 0,
+    "Languages": [
+     "Cần mở khóa {[requirement]}"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/generate save code",
+    "TermType": 0,
+    "Languages": [
+     "Tạo mã lưu"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "main menu/receive save code",
+    "TermType": 0,
+    "Languages": [
+     "Nhận mã lưu"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/bgm volume",
+    "TermType": 0,
+    "Languages": [
+     "Nhạc nền"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/sfx volume",
+    "TermType": 0,
+    "Languages": [
+     "Hiệu ứng"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/exit settings button",
+    "TermType": 0,
+    "Languages": [
+     "Thoát"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/fullscreen options",
+    "TermType": 0,
+    "Languages": [
+     "Toàn màn hình"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/language options",
+    "TermType": 0,
+    "Languages": [
+     "Ngôn ngữ"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/reset settings button",
+    "TermType": 0,
+    "Languages": [
+     "Đặt lại cài đặt"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/resolution options",
+    "TermType": 0,
+    "Languages": [
+     "Độ phân giải"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/screen shake options",
+    "TermType": 0,
+    "Languages": [
+     "Rung màn hình"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/setting apply dialog title",
+    "TermType": 0,
+    "Languages": [
+     "Lưu cài đặt?"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/setting reset dialog title",
+    "TermType": 0,
+    "Languages": [
+     "Đặt lại toàn bộ cài đặt?"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/vibrate options",
+    "TermType": 0,
+    "Languages": [
+     "Rung tay cầm"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/post processing",
+    "TermType": 0,
+    "Languages": [
+     "Bộ lọc hình ảnh"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/post processing none",
+    "TermType": 0,
+    "Languages": [
+     "Không"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/post processing TV",
+    "TermType": 0,
+    "Languages": [
+     "Hiệu ứng TV"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/setting apply dialog no",
+    "TermType": 0,
+    "Languages": [
+     "Không"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/setting apply dialog yes",
+    "TermType": 0,
+    "Languages": [
+     "Có"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/setting toggle off",
+    "TermType": 0,
+    "Languages": [
+     "Tắt"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/setting toggle on",
+    "TermType": 0,
+    "Languages": [
+     "Bật"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/key bindings button",
+    "TermType": 0,
+    "Languages": [
+     "Gán phím"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb cato move left",
+    "TermType": 0,
+    "Languages": [
+     "CATO đi trái"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb cato move right",
+    "TermType": 0,
+    "Languages": [
+     "CATO đi phải"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb cato move up",
+    "TermType": 0,
+    "Languages": [
+     "CATO đi lên"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb cato move down",
+    "TermType": 0,
+    "Languages": [
+     "CATO đi xuống"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb cato jump",
+    "TermType": 0,
+    "Languages": [
+     "CATO nhảy"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb toast split",
+    "TermType": 0,
+    "Languages": [
+     "Tách Bánh Mì ra"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb toast jump right",
+    "TermType": 0,
+    "Languages": [
+     "Bánh Mì nhảy phải"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb toast jump left",
+    "TermType": 0,
+    "Languages": [
+     "Bánh Mì nhảy trái"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb toast switch direction",
+    "TermType": 0,
+    "Languages": [
+     "Bánh Mì đổi hướng"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb toast jump",
+    "TermType": 0,
+    "Languages": [
+     "Bánh Mì nhảy"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb swappy use skill",
+    "TermType": 0,
+    "Languages": [
+     "Swappy dùng kỹ năng"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb meow reset",
+    "TermType": 0,
+    "Languages": [
+     "Meo reset"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb slow motion toggle",
+    "TermType": 0,
+    "Languages": [
+     "Nút quay chậm"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb slow motion description",
+    "TermType": 0,
+    "Languages": [
+     "(Giúp giảm độ khó)"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb keyboard",
+    "TermType": 0,
+    "Languages": [
+     "Bàn phím"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb gamepad",
+    "TermType": 0,
+    "Languages": [
+     "Tay cầm"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb single player keyboard preset",
+    "TermType": 0,
+    "Languages": [
+     "Cài đặt bàn phím 1 người"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb two player keyboard preset",
+    "TermType": 0,
+    "Languages": [
+     "Cài đặt bàn phím 2 người"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb single player gamepad preset",
+    "TermType": 0,
+    "Languages": [
+     "Cài đặt tay cầm 1 người"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb two player gamepad preset",
+    "TermType": 0,
+    "Languages": [
+     "Cài đặt tay cầm 2 người"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb custom preset 1",
+    "TermType": 0,
+    "Languages": [
+     "Phím tùy chỉnh 1"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb custom preset 2",
+    "TermType": 0,
+    "Languages": [
+     "Phím tùy chỉnh 2"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb press key to rebind",
+    "TermType": 0,
+    "Languages": [
+     "Hãy bấm phím muốn gán lại"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/setting apply dialog ok",
+    "TermType": 0,
+    "Languages": [
+     "OK"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/dialog close",
+    "TermType": 0,
+    "Languages": [
+     "Đóng"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/dialog cancel",
+    "TermType": 0,
+    "Languages": [
+     "Hủy"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb reset preset title",
+    "TermType": 0,
+    "Languages": [
+     "Bạn có muốn đặt lại bộ phím hiện tại không?"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb delete preset title",
+    "TermType": 0,
+    "Languages": [
+     "Bạn có muốn xóa bộ phím hiện tại không?"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb exit unsaved preset title",
+    "TermType": 0,
+    "Languages": [
+     "Bộ phím hiện tại chưa lưu. Bạn có muốn thoát không?"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb reset success",
+    "TermType": 0,
+    "Languages": [
+     "Đặt lại bộ phím thành công"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb copy success",
+    "TermType": 0,
+    "Languages": [
+     "Sao chép bộ phím thành công"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb delete success",
+    "TermType": 0,
+    "Languages": [
+     "Xóa bộ phím thành công"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb delete oepration",
+    "TermType": 0,
+    "Languages": [
+     "Xóa bộ phím hiện tại"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb copy operation",
+    "TermType": 0,
+    "Languages": [
+     "Sao chép bộ phím hiện tại"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb reset operation",
+    "TermType": 0,
+    "Languages": [
+     "Đặt lại bộ phím hiện tại"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/save",
+    "TermType": 0,
+    "Languages": [
+     "Lưu"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb preset 1",
+    "TermType": 0,
+    "Languages": [
+     "1 người: Bàn phím (phím mũi tên)"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb preset 2",
+    "TermType": 0,
+    "Languages": [
+     "1 người: Bàn phím (WASD)"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb preset 3",
+    "TermType": 0,
+    "Languages": [
+     "2 người: Bàn phím + Tay cầm (1)"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb preset 4",
+    "TermType": 0,
+    "Languages": [
+     "2 người: Bàn phím + Tay cầm (2)"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb preset 5",
+    "TermType": 0,
+    "Languages": [
+     "2 người: Bàn phím"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb preset 6",
+    "TermType": 0,
+    "Languages": [
+     "2 người: Tay cầm"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb custom preset",
+    "TermType": 0,
+    "Languages": [
+     "Bộ phím tùy chỉnh"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb dual sense",
+    "TermType": 0,
+    "Languages": [
+     "tay cầm"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/custom button assignments",
+    "TermType": 0,
+    "Languages": [
+     "gán nút tùy chỉnh"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb single player preset",
+    "TermType": 0,
+    "Languages": [
+     "Bộ phím 1 người"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/kb two player preset",
+    "TermType": 0,
+    "Languages": [
+     "Bộ phím 2 người"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/custom button assignments NS",
+    "TermType": 0,
+    "Languages": [
+     "gán nút tùy chỉnh"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/mobile custom touch joystick",
+    "TermType": 0,
+    "Languages": [
+     "Cần điều khiển cảm ứng"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/mobile custom interact",
+    "TermType": 0,
+    "Languages": [
+     "Nút tương tác"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/custom touch button assignments",
+    "TermType": 0,
+    "Languages": [
+     "Nút ảo tùy chỉnh"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/touch scheme warning",
+    "TermType": 0,
+    "Languages": [
+     "Hãy vào phần cài đặt trong game"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/ally slow motion toggle title",
+    "TermType": 0,
+    "Languages": [
+     "Bật/tắt trợ giúp quay chậm"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/ally slow motion scale",
+    "TermType": 0,
+    "Languages": [
+     "Mức độ quay chậm"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/ally slow motion toggle desc",
+    "TermType": 0,
+    "Languages": [
+     "Bật nút quay chậm trong game để giảm độ khó.\nHãy tự gán phím nhé."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/ally force show touch title",
+    "TermType": 0,
+    "Languages": [
+     "Luôn hiện nút điều khiển cảm ứng"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/ally force show touch desc",
+    "TermType": 0,
+    "Languages": [
+     ""
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/ally speed run timer title",
+    "TermType": 0,
+    "Languages": [
+     "Bật đồng hồ phá đảo nhanh"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/ally speed run timer desc",
+    "TermType": 0,
+    "Languages": [
+     "Đồng hồ bắt đầu chạy khi người chơi điều khiển được ở màn W01_L01"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/ally slow motion slider desc",
+    "TermType": 0,
+    "Languages": [
+     "Mức quay chậm: {0}"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/ally settings title",
+    "TermType": 0,
+    "Languages": [
+     "Thêm"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/ally gamepad face button swap title",
+    "TermType": 0,
+    "Languages": [
+     "Đảo nút A/B tay cầm"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/ally gamepad face button swap desc",
+    "TermType": 0,
+    "Languages": [
+     "Đổi biểu tượng nút A/B và X/Y trên màn hình mà không đổi thao tác thật."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/device vibration",
+    "TermType": 0,
+    "Languages": [
+     "Rung thiết bị"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/vibration mode simple",
+    "TermType": 0,
+    "Languages": [
+     "Đơn giản"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/vibration mode rich",
+    "TermType": 0,
+    "Languages": [
+     "Chi tiết"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/taptap cloud save upload success rich",
+    "TermType": 0,
+    "Languages": [
+     "<size=115%><b>Tải lưu đám mây thành công</b></size>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/taptap cloud save restore success rich",
+    "TermType": 0,
+    "Languages": [
+     "<size=115%><b>Khôi phục lưu đám mây thành công</b></size>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/taptap cloud save manual rich",
+    "TermType": 0,
+    "Languages": [
+     "<size=115%><b>Lưu đám mây (thủ công)</b></size>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/cloud save upload success rich",
+    "TermType": 0,
+    "Languages": [
+     "<size=115%><b>Tải lưu đám mây thành công</b></size>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/cloud save restore success rich",
+    "TermType": 0,
+    "Languages": [
+     "<size=115%><b>Khôi phục lưu đám mây thành công</b></size>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/cloud save manual rich",
+    "TermType": 0,
+    "Languages": [
+     "<size=115%><b>Lưu đám mây (thủ công)</b></size>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/taptap cloud save",
+    "TermType": 0,
+    "Languages": [
+     "Lưu đám mây"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/sync taptap achievements",
+    "TermType": 0,
+    "Languages": [
+     "Đồng bộ thành tựu TapTap"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/sync taptap achievements in progress",
+    "TermType": 0,
+    "Languages": [
+     "Đang đồng bộ thành tựu TapTap…"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/sync taptap achievements result title",
+    "TermType": 0,
+    "Languages": [
+     "Đồng bộ thành tựu TapTap"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/sync taptap achievements none",
+    "TermType": 0,
+    "Languages": [
+     "File lưu này không có thành tựu TapTap nào để đồng bộ."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/sync taptap achievements success",
+    "TermType": 0,
+    "Languages": [
+     "Đã đồng bộ thành công {0} thành tựu TapTap."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/sync taptap achievements partial",
+    "TermType": 0,
+    "Languages": [
+     "Đã đồng bộ {0}/{1} thành tựu TapTap. Kiểm tra mạng rồi thử lại nha."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/sync taptap achievements failed",
+    "TermType": 0,
+    "Languages": [
+     "Đồng bộ thành tựu TapTap thất bại. Kiểm tra mạng rồi thử lại."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/sync taptap achievements login required",
+    "TermType": 0,
+    "Languages": [
+     "Hãy đăng nhập TapTap trước khi đồng bộ thành tựu."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/cloud save uploading",
+    "TermType": 0,
+    "Languages": [
+     "Đang tải lưu lên..."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/cloud save formatted update time",
+    "TermType": 0,
+    "Languages": [
+     "Thời gian cập nhật lưu đám mây: {FormatCloudUpdateTime(archive, bundle)}"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/real name verification",
+    "TermType": 0,
+    "Languages": [
+     "Xác thực danh tính"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/real name verification start failed",
+    "TermType": 0,
+    "Languages": [
+     "Khởi động xác thực thất bại, thử lại sau."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/delete account",
+    "TermType": 0,
+    "Languages": [
+     "Xóa tài khoản"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/logout taptap account",
+    "TermType": 0,
+    "Languages": [
+     "Đăng xuất tài khoản"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/exit real name verification",
+    "TermType": 0,
+    "Languages": [
+     "Thoát xác thực danh tính"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/clear real name data",
+    "TermType": 0,
+    "Languages": [
+     "Xóa thông tin xác thực"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/clear real name data explanation",
+    "TermType": 0,
+    "Languages": [
+     "Thao tác này sẽ thoát trạng thái xác thực hiện tại và xóa dữ liệu xác thực trên thiết bị này.\n \nLịch sử mua trên App Store không bị hủy, nội dung đã mua có thể bật lại qua \"Khôi phục giao dịch\".\n \nSau khi xóa, nếu chọn xác thực thủ công lại thì phải làm lại quy trình từ đầu."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/clear real name data confirmation",
+    "TermType": 0,
+    "Languages": [
+     "Xóa thông tin xác thực?"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/real name verification start failed detail",
+    "TermType": 0,
+    "Languages": [
+     "Khởi động xác thực thất bại: {detail}"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/payment processing",
+    "TermType": 0,
+    "Languages": [
+     "Đang xử lý thanh toán"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/payment error",
+    "TermType": 0,
+    "Languages": [
+     "Lỗi thanh toán"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/payment restriction check failed",
+    "TermType": 0,
+    "Languages": [
+     "Kiểm tra giới hạn thanh toán thất bại, kiểm tra mạng rồi thử lại."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/payment temporarily unavailable",
+    "TermType": 0,
+    "Languages": [
+     "Tạm thời không thể thanh toán"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/payment incomplete",
+    "TermType": 0,
+    "Languages": [
+     "Chưa hoàn tất thanh toán"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/cloud save icloud upload success rich",
+    "TermType": 0,
+    "Languages": [
+     "<size=115%><b>Tải lưu iCloud lên thành công</b></size>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/cloud save icloud restore success rich",
+    "TermType": 0,
+    "Languages": [
+     "<size=115%><b>Khôi phục lưu iCloud thành công</b></size>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/cloud save icloud manual rich",
+    "TermType": 0,
+    "Languages": [
+     "<size=115%><b>Lưu đám mây iCloud (thủ công)</b></size>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/game center achievements",
+    "TermType": 0,
+    "Languages": [
+     "Thành tựu Game Center"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/cloud save icloud manual",
+    "TermType": 0,
+    "Languages": [
+     "Lưu đám mây iCloud (thủ công)"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/cloud save upload",
+    "TermType": 0,
+    "Languages": [
+     "Tải lưu lên"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/cloud save",
+    "TermType": 0,
+    "Languages": [
+     "Lưu đám mây"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/cloud save restore",
+    "TermType": 0,
+    "Languages": [
+     "Khôi phục lưu"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/cloud save upload overwrite confirmation",
+    "TermType": 0,
+    "Languages": [
+     "Tải lên và ghi đè bản lưu đám mây hiện có?"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/cloud save restore overwrite confirmation",
+    "TermType": 0,
+    "Languages": [
+     "Khôi phục lưu đám mây và ghi đè bản lưu cục bộ?"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/cloud save restoring",
+    "TermType": 0,
+    "Languages": [
+     "Đang khôi phục lưu..."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/cloud save game center login upload",
+    "TermType": 0,
+    "Languages": [
+     "Đang đăng nhập Game Center và tải lưu lên..."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/cloud save retrieving",
+    "TermType": 0,
+    "Languages": [
+     "Đang lấy lưu đám mây..."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/cloud save slot unlock summary",
+    "TermType": 0,
+    "Languages": [
+     "Ô {slot.slotIndex} đã mở: Skin Mèo x{slot.unlockedKittySkinCount}, Skin Bánh Mì x{slot.unlockedToastSkinCount}, thế giới x{slot.unlockedWorldCount}"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/cloud save slot playtime",
+    "TermType": 0,
+    "Languages": [
+     "Thời gian chơi ô {slot.slotIndex}: {FormatPlayTime(slot.totalPlayTimeSeconds)}"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/network connection error",
+    "TermType": 0,
+    "Languages": [
+     "Lỗi kết nối mạng"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/cloud save bundle summary",
+    "TermType": 0,
+    "Languages": [
+     "Chứa {bundle.slots.Count} ô lưu. Tải lên lúc {FormatIsoTime(bundle.uploadedAt)}"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/cloud save no restorable slots",
+    "TermType": 0,
+    "Languages": [
+     "Không tìm thấy ô lưu nào khôi phục được trong bản lưu đám mây."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/cloud save last updated",
+    "TermType": 0,
+    "Languages": [
+     "Lưu đám mây cập nhật lần cuối: {cloudUpdateTime}"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/cloud save unavailable",
+    "TermType": 0,
+    "Languages": [
+     "Chưa có bản lưu đám mây nào"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/cloud save retrieve first",
+    "TermType": 0,
+    "Languages": [
+     "Hãy lấy bản lưu đám mây trước đã."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/cloud save retrieve failed",
+    "TermType": 0,
+    "Languages": [
+     "Không lấy được bản lưu đám mây. Vui lòng thử lại."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/cloud save upload failed",
+    "TermType": 0,
+    "Languages": [
+     "Không tải được bản lưu lên. Vui lòng thử lại."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/cloud save restore failed",
+    "TermType": 0,
+    "Languages": [
+     "Không khôi phục được bản lưu. Vui lòng thử lại."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/cloud save no local save",
+    "TermType": 0,
+    "Languages": [
+     "Không có bản lưu cục bộ nào để tải lên."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/cloud save game center login retrieve",
+    "TermType": 0,
+    "Languages": [
+     "Đang đăng nhập Game Center và lấy lưu đám mây..."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/contact upload cooldown",
+    "TermType": 0,
+    "Languages": [
+     "Tải lên quá nhiều lần rồi. Chút nữa thử lại nha."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/contact upload privacy notice",
+    "TermType": 0,
+    "Languages": [
+     "Thao tác này sẽ tải nhật ký và dữ liệu lưu của bạn lên để giúp bọn mình gỡ lỗi.\nSau khi tải lên, hãy liên hệ bọn mình qua email:"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/contact qq group",
+    "TermType": 0,
+    "Languages": [
+     "Nhóm QQ: 529790449"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/contact send",
+    "TermType": 0,
+    "Languages": [
+     "Gửi"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/contact send failed",
+    "TermType": 0,
+    "Languages": [
+     "Gửi thất bại"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/contact sent",
+    "TermType": 0,
+    "Languages": [
+     "Gửi thành công"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/contact log upload",
+    "TermType": 0,
+    "Languages": [
+     "Tải nhật ký lên"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/contact sending",
+    "TermType": 0,
+    "Languages": [
+     "Đang gửi..."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/contact email",
+    "TermType": 0,
+    "Languages": [
+     "Email"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/contact information placeholder",
+    "TermType": 0,
+    "Languages": [
+     "Vui lòng để lại thông tin liên hệ của bạn"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/clean ui title",
+    "TermType": 0,
+    "Languages": [
+     "Giao diện gọn"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "game settings/clean ui desc",
+    "TermType": 0,
+    "Languages": [
+     "Ẩn nội dung quảng cáo và thông tin phiên bản."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/kitty move",
+    "TermType": 0,
+    "Languages": [
+     "Mèo di chuyển  <action=\"kitty move\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/kitty meow",
+    "TermType": 0,
+    "Languages": [
+     "<action=\"cato jump\"> = ?"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/toast jump",
+    "TermType": 0,
+    "Languages": [
+     "Bánh Mì nhảy  <action=\"toast jump\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/toast eject",
+    "TermType": 0,
+    "Languages": [
+     "Bắn Bánh Mì ra  <action=\"cato jump\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/toast change jump direction",
+    "TermType": 0,
+    "Languages": [
+     "Đổi hướng nhảy  <action=\"toast change dir\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/toast charge jump",
+    "TermType": 0,
+    "Languages": [
+     "Nhảy tích lực (Giữ)  <action=\"toast jump\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/toast toss up",
+    "TermType": 0,
+    "Languages": [
+     "Tách rời Bánh Mì  <action=\"disassemble\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/title keyboard",
+    "TermType": 0,
+    "Languages": [
+     "Bàn phím"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/title controller",
+    "TermType": 0,
+    "Languages": [
+     "Tay cầm"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/restart",
+    "TermType": 0,
+    "Languages": [
+     "Chơi lại phòng (Giữ) <action=\"restart\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/enter map button",
+    "TermType": 0,
+    "Languages": [
+     "Vào <action=\"enter map\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/level map input",
+    "TermType": 0,
+    "Languages": [
+     "<action=\"exit\">= Thoát     <action=\"ui confirm\">= Vào"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/cato float",
+    "TermType": 0,
+    "Languages": [
+     "Đặt Bánh Mì lên lưng\nBấm liên tục  <action=\"cato jump\"> để cất cánh"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/demo time out",
+    "TermType": 0,
+    "Languages": [
+     "Cảm ơn bạn đã chơi!"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/kitty enter tube R",
+    "TermType": 0,
+    "Languages": [
+     "Vào ống (Giữ) <action=“kitty move right”>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/kitty enter tube L",
+    "TermType": 0,
+    "Languages": [
+     "Vào ống (Giữ) <action=“kitty move left”>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/cato cant assemble in cloudwall",
+    "TermType": 0,
+    "Languages": [
+     "Không thể ghép hay tách trong tường nghịch lý"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/roller tutorial",
+    "TermType": 0,
+    "Languages": [
+     "Nhảy <action=\"cato jump\">\nTách rời <action=\"disassemble\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/roller jump",
+    "TermType": 0,
+    "Languages": [
+     "Nhảy <action=\"cato jump\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/roller disassemble",
+    "TermType": 0,
+    "Languages": [
+     "Tách rời <action=\"disassemble\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/roller float",
+    "TermType": 0,
+    "Languages": [
+     "Bấm liên tục  <action=\"cato jump\"> để bay lơ lửng"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/swap tutorial 1",
+    "TermType": 0,
+    "Languages": [
+     "Bấm <action=\"swap\">\nđể đổi vị trí nhân vật."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/swap tutorial 2",
+    "TermType": 0,
+    "Languages": [
+     "Giữ <action=\"swap\">\nđể vào chế độ quay chậm."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/comming soon",
+    "TermType": 0,
+    "Languages": [
+     "Sắp ra mắt"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/enter building W01",
+    "TermType": 0,
+    "Languages": [
+     "Mở Bản Đồ W01  <action=\"enter building\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/enter building W02",
+    "TermType": 0,
+    "Languages": [
+     "Mở Bản Đồ W02  <action=\"enter building\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/enter building W03",
+    "TermType": 0,
+    "Languages": [
+     "Mở Bản Đồ W03  <action=\"enter building\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/enter building W04",
+    "TermType": 0,
+    "Languages": [
+     "Mở Bản Đồ W04  <action=\"enter building\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/enter building W05",
+    "TermType": 0,
+    "Languages": [
+     "Mở Bản Đồ W05  <action=\"enter building\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/enter building kitty skin",
+    "TermType": 0,
+    "Languages": [
+     "Mở Skin Mèo  <action=\"enter building\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/enter building toast skin",
+    "TermType": 0,
+    "Languages": [
+     "Mở Skin Bánh Mì  <action=\"enter building\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/enter building mini game",
+    "TermType": 0,
+    "Languages": [
+     "Mở Mini-game  <action=\"enter building\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/enter building TV",
+    "TermType": 0,
+    "Languages": [
+     "Xem lại quảng cáo  <action=\"enter building\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/enter building skin vendor",
+    "TermType": 0,
+    "Languages": [
+     "Khởi động máy chạy bộ  <action=\"enter building\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/mini games current score",
+    "TermType": 0,
+    "Languages": [
+     "Điểm hiện tại:"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/mini games high score",
+    "TermType": 0,
+    "Languages": [
+     "Điểm cao nhất:"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/mini games restart",
+    "TermType": 0,
+    "Languages": [
+     "Chơi lại"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/mini games exit",
+    "TermType": 0,
+    "Languages": [
+     "Thoát"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/mini game start prompt",
+    "TermType": 0,
+    "Languages": [
+     "Bắt đầu Mini-game  <action=\"ui submmit\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/operate milk machine",
+    "TermType": 0,
+    "Languages": [
+     "Làm Sữa  <action=\"interact\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/speed run prompt",
+    "TermType": 0,
+    "Languages": [
+     "Chạy nhanh  <action=\"interact\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/restart tap",
+    "TermType": 0,
+    "Languages": [
+     "Chơi lại phòng <action=\"restart\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "instructions/drink milk",
+    "TermType": 0,
+    "Languages": [
+     "Uống sữa <action=\"interact\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 0",
+    "TermType": 0,
+    "Languages": [
+     "Thân được giữ gìn cẩn thận, không hề có vết nứt nào."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 1",
+    "TermType": 0,
+    "Languages": [
+     "Định phết bơ mà lỡ tay bóp trúng tương cà."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 2",
+    "TermType": 0,
+    "Languages": [
+     "Có sô-cô-la rồi, mình chẳng bao giờ buồn ngủ nữa."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 3",
+    "TermType": 0,
+    "Languages": [
+     "Bơ đậu phộng! Năng lượng! Calo!"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 4",
+    "TermType": 0,
+    "Languages": [
+     "Ai mà ngờ matcha cũng làm được thành sốt chứ? Mà vẫn cần thêm chút sữa đó nha."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 10",
+    "TermType": 0,
+    "Languages": [
+     "Từng dữ dằn lắm, nhưng dính dâu vào là hóa dễ thương hết sức."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 11",
+    "TermType": 0,
+    "Languages": [
+     "Tỏa ra cái cảm giác tươi mát khó tả như mấy ngày nghỉ lễ."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 12",
+    "TermType": 0,
+    "Languages": [
+     "Trang bị chuẩn của Mật Vụ Hiệp Sĩ — vừa ngầu vừa chất!"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 77",
+    "TermType": 0,
+    "Languages": [
+     "Giá mà mẫu vật này nhân bản được vô hạn."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 78",
+    "TermType": 0,
+    "Languages": [
+     "Mang phong cách O15, hợp để hòa vào bầu không khí đêm trăng tròn."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 79",
+    "TermType": 0,
+    "Languages": [
+     "Nói chuyện có tiếng rè rè như điện ấy, mà có ồn thật không nhỉ?"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 80",
+    "TermType": 0,
+    "Languages": [
+     "Con mèo bỗng dưng lao vào phòng thí nghiệm, đi không được mà nói thì được."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 81",
+    "TermType": 0,
+    "Languages": [
+     "Mượt tới mức chẳng cần phết bơ luôn."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 82",
+    "TermType": 0,
+    "Languages": [
+     "Tu-tu, tu-tu, tu-tu! Kết thêm được vài người bạn quý."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 83",
+    "TermType": 0,
+    "Languages": [
+     "Thèm chảy nước miếng luôn á! Sức tấn công +3 / Món khoái khẩu của Giáo Sư Nhảm Nhí"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 84",
+    "TermType": 0,
+    "Languages": [
+     "Cực kỳ bình tĩnh và lý trí."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 85",
+    "TermType": 0,
+    "Languages": [
+     "Tăng phòng thủ mà cũng tăng luôn sức tấn công chẳng để làm gì."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 86",
+    "TermType": 0,
+    "Languages": [
+     "Nghe đồn nó bắt được tín hiệu bí ẩn từ bên ngoài."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 87",
+    "TermType": 0,
+    "Languages": [
+     "Lôi được nó ra là cả một kỳ công đó."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 88",
+    "TermType": 0,
+    "Languages": [
+     "Cứ bám riết lấy con mèo tới mức có khi làm mèo phát cáu."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 89",
+    "TermType": 0,
+    "Languages": [
+     "Cách truyền thống để tạo ra nghịch lý."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 90",
+    "TermType": 0,
+    "Languages": [
+     "Đa năng cực, chủ yếu dùng để tấu hài."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 91",
+    "TermType": 0,
+    "Languages": [
+     "Hình như dính được vào bất cứ thứ gì."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 92",
+    "TermType": 0,
+    "Languages": [
+     "Tên thật của nó phát âm sao thì tới giờ vẫn còn tranh cãi."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 93",
+    "TermType": 0,
+    "Languages": [
+     "Cần nhiều bơ hơn nữa cơ!"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 94",
+    "TermType": 0,
+    "Languages": [
+     "Bọn mình vẫn chưa nói chuyện hiệu quả được với nó."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 95",
+    "TermType": 0,
+    "Languages": [
+     "Có bộ lông lãng mạn quyến rũ, mỗi tội còn thiếu một đôi bốt."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 96",
+    "TermType": 0,
+    "Languages": [
+     "Bọn mình nghi nó chính là thủ phạm vụ Bánh Mì mất tích hai năm trước."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 97",
+    "TermType": 0,
+    "Languages": [
+     "Trộn với một cây nấm lạ — đừng bao giờ đụng vào!"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 98",
+    "TermType": 0,
+    "Languages": [
+     "Bọn mình là nhà vô địch!"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 99",
+    "TermType": 0,
+    "Languages": [
+     "Chiếc mũ của một thành viên trong nhà."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 0",
+    "TermType": 0,
+    "Languages": [
+     "Suốt ngày chỉ ăn với ngủ."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 1",
+    "TermType": 0,
+    "Languages": [
+     "Mèo hai mặt. Đây là mặt trước hay mặt sau vậy ta?"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 2",
+    "TermType": 0,
+    "Languages": [
+     "Ăn rồi Ngủ. Ngủ dậy xong trông càng ngon mắt hơn."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 3",
+    "TermType": 0,
+    "Languages": [
+     "Hay gây tranh cãi vì màu lông của nó."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 4",
+    "TermType": 0,
+    "Languages": [
+     "Sức chiến đấu 3000!!"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 9",
+    "TermType": 0,
+    "Languages": [
+     "Trong bóng tối thì không tài nào tìm ra."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 10",
+    "TermType": 0,
+    "Languages": [
+     "Chưa bao giờ thấy nó bị lấm bẩn."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 50",
+    "TermType": 0,
+    "Languages": [
+     "Tìm thấy trong ống khói, trông ngẫu nhiên dễ sợ."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 51",
+    "TermType": 0,
+    "Languages": [
+     "Lúc đầu bọn mình cứ tưởng rửa mặt là nó sạch."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 80",
+    "TermType": 0,
+    "Languages": [
+     "Phải công nhận là nó ngầu thật."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 81",
+    "TermType": 0,
+    "Languages": [
+     "Sự xuất hiện của nó gây hiểu lầm to đùng: nhân bản mèo đã thành công."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 82",
+    "TermType": 0,
+    "Languages": [
+     "Ai cũng tưởng cặp kính này bắn ra tia laser được."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 83",
+    "TermType": 0,
+    "Languages": [
+     "Phong cách đổ bộ Mặt Trăng."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 84",
+    "TermType": 0,
+    "Languages": [
+     "Là sản phẩm thí nghiệm của cỗ máy chuyển hồn Bánh Mì, mà vẫn tính là Bánh Mì chứ?"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 85",
+    "TermType": 0,
+    "Languages": [
+     "Mấy cái bánh xe này chẳng giúp nó chạy nhanh hơn tí nào."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 86",
+    "TermType": 0,
+    "Languages": [
+     "Một sinh vật trí tuệ nhân tạo trông khá nguy hiểm."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 87",
+    "TermType": 0,
+    "Languages": [
+     "Sau bao lần thử nghiệm, cuối cùng chốt được bảng màu được ưa chuộng này."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 88",
+    "TermType": 0,
+    "Languages": [
+     "Luôn mang đến những câu chuyện mới mẻ."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 89",
+    "TermType": 0,
+    "Languages": [
+     "Mềm mại ngọt ngào, cái đuôi này gặp nước là tan mất."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 90",
+    "TermType": 0,
+    "Languages": [
+     "Ngầu thôi khỏi bàn!"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 91",
+    "TermType": 0,
+    "Languages": [
+     "Cứng quá. Sờ vào thấy khó chịu ghê."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 92",
+    "TermType": 0,
+    "Languages": [
+     "Suýt nữa bị nhầm thành slime."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 93",
+    "TermType": 0,
+    "Languages": [
+     "Chứa đựng tinh túy của vạn vật trên đời."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 94",
+    "TermType": 0,
+    "Languages": [
+     "Mọi thứ đều đảo ngược hết!"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 95",
+    "TermType": 0,
+    "Languages": [
+     "Tuy nhanh nhẹn lắm nhưng vẫn không nhảy được."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 96",
+    "TermType": 0,
+    "Languages": [
+     "Nó khăng khăng rằng người ngoài hành tinh không tồn tại."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 97",
+    "TermType": 0,
+    "Languages": [
+     "Tiếng meo của nó có giọng vùng miền, chắc là từ phía tây."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 98",
+    "TermType": 0,
+    "Languages": [
+     "Nặng kinh khủng và cực kỳ hiếm."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 99",
+    "TermType": 0,
+    "Languages": [
+     "Sáng tạo cực đỉnh, mọc thêm cả một con mắt."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 79",
+    "TermType": 0,
+    "Languages": [
+     "Meo-hoo! Cho nó miếng ăn vặt là nó thôi meo ngay."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 76",
+    "TermType": 0,
+    "Languages": [
+     "Để ăn hay để ngắm đây ta?"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 71",
+    "TermType": 0,
+    "Languages": [
+     "Đặc điểm là hút được mọi thứ - xT.Team"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 72",
+    "TermType": 0,
+    "Languages": [
+     "Màu đỏ chỉ là mứt thôi - xT.Team"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 73",
+    "TermType": 0,
+    "Languages": [
+     "Thích tổ đội với mèo đen hơn - Người Chơi Đồng Sáng Tạo"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 74",
+    "TermType": 0,
+    "Languages": [
+     "Hình như nghe thấy gì đó; chắc chỉ là ảo giác - Người Chơi Đồng Sáng Tạo"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 75",
+    "TermType": 0,
+    "Languages": [
+     "Cuối cùng cũng tìm ra cách chạm vào nó - xT.Team"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 70",
+    "TermType": 0,
+    "Languages": [
+     "ìm thấy cạnh ống khói"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 77",
+    "TermType": 0,
+    "Languages": [
+     "Được tôn làm thần ở một trang trại, tên là \"TRẠI CATGOD\""
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 78",
+    "TermType": 0,
+    "Languages": [
+     "Xuất hiện khi tuyết rơi, sợ lạnh, nhưng trời nóng là biến mất"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 75",
+    "TermType": 0,
+    "Languages": [
+     "Buồn thay, chú mèo ria mép này mập quá nên leo tường không nổi."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 76",
+    "TermType": 0,
+    "Languages": [
+     "Tôi Là Cato Bot"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 68",
+    "TermType": 0,
+    "Languages": [
+     "Làm bạn thấy mình to bự hẳn lên."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 69",
+    "TermType": 0,
+    "Languages": [
+     "Thế hệ thứ năm siêu mạnh."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 72",
+    "TermType": 0,
+    "Languages": [
+     "Số 72 - Tên gốc của nó siêu khó đánh vần."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 73",
+    "TermType": 0,
+    "Languages": [
+     "Số 73 - Chỉ là giấu móng vuốt đi thôi, chắc vậy đó."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 74",
+    "TermType": 0,
+    "Languages": [
+     "Số 74 - Nhìn kỹ thì mập lên kha khá rồi đấy."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 65",
+    "TermType": 0,
+    "Languages": [
+     "Số 65 - Món đồ nguy hiểm cực kỳ thú vị."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 66",
+    "TermType": 0,
+    "Languages": [
+     "Số 66 - Được thiết kế làm bộ hãm cho mèo."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 67",
+    "TermType": 0,
+    "Languages": [
+     "Số 67 - Chúc mừng sinh nhật."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 71",
+    "TermType": 0,
+    "Languages": [
+     "Vải co giãn làm con mèo trông thon hơn. Hả? Thật hả?"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 64",
+    "TermType": 0,
+    "Languages": [
+     "Chẳng ai biết nó dùng để làm gì, nhưng trị được đau nửa đầu."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 70",
+    "TermType": 0,
+    "Languages": [
+     "Mê lục lọi thùng rác. Không phải mèo, cũng chẳng phải gấu trúc đỏ - xT.Team"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 58",
+    "TermType": 0,
+    "Languages": [
+     "Lộn ngược, lộn ngược — mọi thứ đều lộn ngược - xT.Team"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 59",
+    "TermType": 0,
+    "Languages": [
+     "Dáng chuẩn làm khiên luôn, mỗi tội hơi nặng mùi - xT.Team"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 60",
+    "TermType": 0,
+    "Languages": [
+     "Cảnh thường thấy trong hộp đồ gỡ lỗi của lập trình viên - Người Chơi Đồng Sáng Tạo"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 61",
+    "TermType": 0,
+    "Languages": [
+     "Một chiếc bánh vòng trôi trên mặt nước - Người Chơi Đồng Sáng Tạo"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 62",
+    "TermType": 0,
+    "Languages": [
+     "Không hẳn là cái móc câu tiện nhất đâu - xT.Team"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 63",
+    "TermType": 0,
+    "Languages": [
+     "Thiết kế giữ cho mèo luôn khô ráo - xT.Team"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 69",
+    "TermType": 0,
+    "Languages": [
+     "Tiến hóa hẳn một khe đặc biệt sau lưng chỉ để hâm nóng Bánh Mì - xT.Team"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Kitty Skin 68",
+    "TermType": 0,
+    "Languages": [
+     "Mỗi ngày cần ra ngoài hai lần."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "items/Toast Skin 57",
+    "TermType": 0,
+    "Languages": [
+     "Khoái loại sữa đã cô đặc và rút nước."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W01_L02_1",
+    "TermType": 0,
+    "Languages": [
+     "Chỗ này chưa xong hả ta?"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/T01",
+    "TermType": 0,
+    "Languages": [
+     "…"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/Unlock_Item_Default",
+    "TermType": 0,
+    "Languages": [
+     "Bạn đã mở khóa vật phẩm mới!"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/B00_R01",
+    "TermType": 0,
+    "Languages": [
+     "Nhìn vẫn y như mọi khi. Vậy sao giờ bọn mình lại quay về đây nhỉ?\n<kemoji=5>\n<camera_y=2><delay=0.8>\nMay là có cái dịch chuyển ở đây, lúc nào cũng đưa bọn mình về được.\n<camera_y=0>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/B00_R02",
+    "TermType": 0,
+    "Languages": [
+     "Cuối cùng cũng được nghỉ xả hơi.\nCậu có bơ cứng ở đây không?\nDa tớ đang hơi khô này.\n<kemoji=5>\n<camera_y=2><delay=0.8>\n<event=\"show W02 entrance\">\nỦa? Mấy thứ này bắt đầu hoạt động lại rồi.\nLát nữa bọn mình xem thử.\n<camera_y=0>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/B00_R03",
+    "TermType": 0,
+    "Languages": [
+     "Haha! Kiếm được linh kiện rồi!\n<camera_x=-48><delay=0.8>\nChắc giờ sửa được Máy Làm Sữa của cậu rồi đó!\n<kemoji=11>\n<camera_x=0><camera_y=2><delay=0.8>\n<event=\"show W03 entrance\">\nTiếp theo, bọn mình cần hai linh kiện còn lại.\n<camera_y=0>\n<kemoji=3>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/B00_R04",
+    "TermType": 0,
+    "Languages": [
+     "Ôi, ở đây khô quá làm tớ khó chịu ghê.\n<kemoji=2>\n<camera_x=-48><delay=0.8>\nMay là sắp sửa được máy của cậu rồi.\nNhớ kiếm thêm bơ cho tớ lúc đó nha.\n<camera_x=0><camera_y=2><delay=0.8>\n<event=\"show W04 entrance\">\nNghỉ chút rồi lại lên đường nào!\n<camera_y=0>\n<kemoji=11>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/B00_R05",
+    "TermType": 0,
+    "Languages": [
+     "Chuyến phiêu lưu dài ghê. Bọn mình đi bao lâu rồi nhỉ?\n<kemoji=5>\nXin lỗi, tớ quên mất cậu không còn sữa hỏng để đếm thời gian nữa.\nTiếc thật.\n<camera_y=2><delay=0.8>\n<event=\"show W05 entrance\">\nMà tớ tin chắc bọn mình sẽ tìm được linh kiện cuối ở đây!\n<camera_y=0>\n<kemoji=11>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/B00_R10",
+    "TermType": 0,
+    "Languages": [
+     "<camera_x=-48><delay=0.8>\nBọn mình dùng mấy cái máy đó để đổi vẻ ngoài được đó.\n<kemoji=6>\nYên tâm, chỉ là đổi kiểu dáng thôi.\n<camera_x=0>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/B00_R11",
+    "TermType": 0,
+    "Languages": [
+     "<camera_x=48><delay=0.8>\nCái máy chơi game cũ của cậu vẫn chạy được chứ hả?\n<kemoji=3>\n<camera_x=0>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/B01_S01",
+    "TermType": 0,
+    "Languages": [
+     "Cái đống sắt vụn đó lại giở chứng nữa à?\n<kemoji=2>\nKhông sữa, không bơ!\nTớ cần bơ trên người cơ!\n<kemoji=2>\nỪ... Bọn mình lại phải ra ngoài tìm mấy cái linh kiện trời đánh đó thôi!\n<event=\"cato float tutorial\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W01_M01",
+    "TermType": 0,
+    "Languages": [
+     "<delay=0.5>\nYên tâm, tớ không để bơ dính vào lông cậu đâu.\n<kemoji=3>\nDù sao lưng cậu cũng đâu phải mặt sàn.\nNó sẽ không kích hoạt CÁI quy tắc đó đâu.\nVới lại, ấm lắm nha."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W01_M02",
+    "TermType": 0,
+    "Languages": [
+     "Họ làm tượng bọn mình luôn à?\n<kemoji=1>\nCó vẻ mấy đứa lính mới thần tượng bọn mình thật.\nMà sao bọn mình chưa gặp tụi nó bao giờ nhỉ?"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W01_M03",
+    "TermType": 0,
+    "Languages": [
+     "<delay=1>\nRợn hết cả người...\n<kemoji=4>\nTớ nghe nói có mấy lát bánh bị nướng cháy trong đó...\n<kemoji=7>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W01_M04",
+    "TermType": 0,
+    "Languages": [
+     "Mấy cái đó dành cho lính mới đó.\nCậu vẫn còn lo lắng chuyện đó à?\n<kemoji=6>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W01_H01",
+    "TermType": 0,
+    "Languages": [
+     "Không ngờ mấy lát bánh đời cũ lại thờ cúng cái thứ này.\n<kemoji=3>\nHọ có bao giờ ngờ rằng cậu lại chui ra từ đầu bên kia của nó không?"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W01_H02",
+    "TermType": 0,
+    "Languages": [
+     "Tổ tiên của cậu trông như vầy thật hả?\n<kemoji=6>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W01_H03",
+    "TermType": 0,
+    "Languages": [
+     "Không ngờ nơi này vẫn còn tồn tại.\n<kemoji=3>\nTớ công nhận, cậu là người đưa tớ ra ngoài.\nNhưng tớ cũng không sống thiếu bơ từ Máy Làm Sữa được.\nCậu chỉ xứng đáng nhận một nửa công thôi."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W01_H04",
+    "TermType": 0,
+    "Languages": [
+     "Tiếc thật, nhưng đường về nhà của cậu biến mất rồi...\n<kemoji=5>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W01_H05",
+    "TermType": 0,
+    "Languages": [
+     "Lạ ghê!\nBông hoa trông y hệt lần cuối bọn mình thấy nó.\n<kemoji=1>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W02_S01",
+    "TermType": 0,
+    "Languages": [
+     "Lại tới đây rồi.\nSao giờ con đường đó bị chặn vậy?\n<kemoji=3>\n<camera_x=20>\nThôi kệ. Biết đâu bên này bọn mình tìm được thêm linh kiện cho Máy Làm Sữa.\n<camera_x=0>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W02_S02",
+    "TermType": 0,
+    "Languages": [
+     "Hắn bỏ rơi bọn mình.\nHắn không xứng có tượng đâu.\n<kemoji=3>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W02_S03",
+    "TermType": 0,
+    "Languages": [
+     "<delay=1>\nCó vẻ lần này bọn mình hết may rồi."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W02_S04",
+    "TermType": 0,
+    "Languages": [
+     "Trúng quả rồi!\n<event=\"collect boss 117\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W02_M01",
+    "TermType": 0,
+    "Languages": [
+     "Sao lại có một \"tớ\" nữa thế này?\nHay là có đứa trùng tên với tớ?\n<kemoji=3>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W02_M02",
+    "TermType": 0,
+    "Languages": [
+     "<kemoji=3>\nChúc mừng!\nCậu đã thoát khỏi cái lồng xinh đẹp này."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W02_M03",
+    "TermType": 0,
+    "Languages": [
+     "Cái món đồ bảo tàng đó...\nLần này sẽ đưa bọn mình đi đâu đây?\n<kemoji=3>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W02_H01",
+    "TermType": 0,
+    "Languages": [
+     "Không thể tin được!\nVậy ra ở nền văn minh khác bọn mình là đồ ăn à?\n<kemoji=3>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W02_H02",
+    "TermType": 0,
+    "Languages": [
+     "Cho tới giờ,\nchẳng lát bánh nào hiểu nổi ý nghĩa của mấy thứ này.\n<kemoji=3>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W02_H03",
+    "TermType": 0,
+    "Languages": [
+     "Thú vị đấy...\n<kemoji=3>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W02_H04",
+    "TermType": 0,
+    "Languages": [
+     "Trông quen quen.\n<kemoji=3>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W02_H05",
+    "TermType": 0,
+    "Languages": [
+     "May mà tớ không trở thành một trong số tụi nó.\n<kemoji=3>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W02_H06",
+    "TermType": 0,
+    "Languages": [
+     "Sao ở đây lại có sữa nhỉ?\n<kemoji=1>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W02_H07",
+    "TermType": 0,
+    "Languages": [
+     "Có gì đó sai sai.\n<kemoji=1>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W02_H08",
+    "TermType": 0,
+    "Languages": [
+     "Ai đụng vào chai sữa này vậy?\n<kemoji=4>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W03_S01",
+    "TermType": 0,
+    "Languages": [
+     "Tớ có linh cảm chẳng lành về chuyện này.\n<kemoji=4>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W03_S02_P1",
+    "TermType": 0,
+    "Languages": [
+     "Oa!!!\n<kemoji=7>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W03_S02",
+    "TermType": 0,
+    "Languages": [
+     "Nó nuốt chửng tớ rồi!\nCứu với!\n<kemoji=6>\n<event=\"W03 S02\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W03_S03",
+    "TermType": 0,
+    "Languages": [
+     "Tụi nó cướp mất thân xác tớ!\n<kemoji=7>\nĐuổi theo hắn đi. Tớ phải lấy lại nó!"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W03_S04",
+    "TermType": 0,
+    "Languages": [
+     "Bọn mình phải tìm ra nó!\n<kemoji=6>\nNhớ cái máy phía trước không?\nTạm thời phải dùng nó để kiếm cho tớ một thân xác mới."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W03_S05",
+    "TermType": 0,
+    "Languages": [
+     "<camera_x=55>\nCõng Bánh Mì lên rồi khởi động cái máy đó đi!\n<camera_x=0>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W03_S06",
+    "TermType": 0,
+    "Languages": [
+     "<event=\"start the machine\">\n<delay=1.5>\n<event=\"drop player toast\">\n<delay=1>\nNó cướp mất thân xác mà tớ chăm chút tỉ mỉ bằng bơ hảo hạng!\nCậu sẽ cho nó một trận vì tớ chứ hả?\n<kemoji=6>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W03_S07",
+    "TermType": 0,
+    "Languages": [
+     "Tạm thời cậu phải xài mấy thân xác nhân bản này thôi.\nTớ không dùng được mấy thứ này cho tới khi cậu tìm ra cái máy đó.\nGiờ cậu tự lo nha.\n<kemoji=2>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W03_M01",
+    "TermType": 0,
+    "Languages": [
+     "Mấy cái thân chưa phết bơ này khó chịu ghê!\nKhi nào cậu sửa xong Máy Làm Sữa,\nnhớ làm cho tớ ít bơ ngon nha.\n<kemoji=3>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W03_M02",
+    "TermType": 0,
+    "Languages": [
+     "Đúng rồi đó!\nNhả thân xác của tớ ra!\n<kemoji=6>\n<event=\"start boss 701\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W03_M03",
+    "TermType": 0,
+    "Languages": [
+     "Haha! Tớ về rồi đây!\n……\n<kemoji=4>\nThân xác của tớ! Nát bét rồi!\nTớ chưa bao giờ xài cái thân phết loại bơ dở tệ như vầy!\n<kemoji=4>\nCậu nói tớ mất cái thân cũ từ lâu rồi á?\nKhông thể nào!\nTớ luôn dùng đúng một thân xác mà."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W03_M04",
+    "TermType": 0,
+    "Languages": [
+     "<camera_y=-10>\nNhìn kìa! Đó là thân xác gốc của tớ!\n<kemoji=4>\nTất nhiên tớ nhận ra chứ. Sao lại không nhận ra thân mình được?\n<kemoji=3>\n<camera_y=0>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W03_H01",
+    "TermType": 0,
+    "Languages": [
+     "Mấy thứ xanh xanh này,\nở nhà đầy ra.\nSao ở đây tụi nó chỉ mọc được trong cái thứ này nhỉ?\nLần sau phải mang cho hắn ít đồ ngon mới được.\n<kemoji=3>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W03_H02",
+    "TermType": 0,
+    "Languages": [
+     "Chỗ này trông nguy hiểm.\nChuồn khỏi đây ngay thôi.\n<kemoji=6>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W03_H03",
+    "TermType": 0,
+    "Languages": [
+     "Hình như nó vừa nghĩ ra điều gì đó...\nMấy con mèo lạ đó rốt cuộc là gì vậy?\n<kemoji=1> (OS: Chịu)"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W03_H04",
+    "TermType": 0,
+    "Languages": [
+     "Lần sau nhớ leo lên xem thử nha.\n<kemoji=3>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W03_H05",
+    "TermType": 0,
+    "Languages": [
+     "Bọn mình có cả poster lẫn tượng ở đây luôn!\n<kemoji=3>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W04_S01",
+    "TermType": 0,
+    "Languages": [
+     "<event=\"W04 begin Shatows\">\n<delay=1.5>\nCòn nhiều đứa nữa kìa.\nTụi nó muốn gì vậy?\n<kemoji=1>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W04_M01",
+    "TermType": 0,
+    "Languages": [
+     "Tụi nó trông giống cậu ghê...\n<kemoji=1>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W04_M02",
+    "TermType": 0,
+    "Languages": [
+     "Khoan đã, kỳ ghê. Hình như có cái gì đó trốn bên trong.\n<kemoji=4>\n<event=\"W04 shatow end 1\">\n<delay=1>\nHắn đang định bẫy bọn mình à?\n<kemoji=6>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W04_M03",
+    "TermType": 0,
+    "Languages": [
+     "<event=\"W04 shatow end 2\">\n<delay=2>\nNơi đó là chỗ quái gì vậy?!"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W04_M04",
+    "TermType": 0,
+    "Languages": [
+     "Nó dẫn đi đâu nhỉ?\nTrông đáng ngờ ghê.\nMình vào không?\n<kemoji=6>\nCậu nói đúng!\nNhất định phải vào rồi!"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W04_H01",
+    "TermType": 0,
+    "Languages": [
+     "Có vẻ hắn không cần mấy cái cây của bọn mình nữa...\n<kemoji=5>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W04_H02",
+    "TermType": 0,
+    "Languages": [
+     "Cái này để làm gì vậy?\n<kemoji=5>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W04_H03",
+    "TermType": 0,
+    "Languages": [
+     "Thứ gì vừa thoát ra từ đây vậy?\n<kemoji=5>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W04_H04",
+    "TermType": 0,
+    "Languages": [
+     "Chỗ đó có thể là nhà mới của bọn mình không nhỉ?\n<kemoji=5>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W04_H05",
+    "TermType": 0,
+    "Languages": [
+     "Tụi nó đang tìm gì vậy?\n<kemoji=5>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W05_S01",
+    "TermType": 0,
+    "Languages": [
+     "<event=\"W05 begin\">\nMọi thứ ở đây trông bất ổn ghê.\n<kemoji=6>\nĐương nhiên rồi.\nTớ sẽ không đi\ncho tới khi tìm đủ linh kiện."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W05_S02",
+    "TermType": 0,
+    "Languages": [
+     "Tớ không ngờ luôn.\nMấy cái máy trạm ở đây gắn cả chip thần kinh xịn sò như vậy.\n<kemoji=6>\nCoi chừng!\n<event=\"start boss 709\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W05_M01",
+    "TermType": 0,
+    "Languages": [
+     "Vô lý thật.\nThời nay mèo bay được mà không cần Bánh Mì luôn hả?\n<kemoji=1>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W05_M02",
+    "TermType": 0,
+    "Languages": [
+     "Bọn mình đang ở trên trời thật à?!\nMà sao cảm giác như đang rơi vậy!\n<kemoji=7>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W05_M03",
+    "TermType": 0,
+    "Languages": [
+     "Tớ nghĩ nếu giờ không đi,\nbọn mình sẽ rơi thẳng vào trong.\n<kemoji=6>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W05_M04",
+    "TermType": 0,
+    "Languages": [
+     "Nó đang nghĩ cái quái gì vậy trời?\n<kemoji=1>\nHa! Chuẩn luôn.\nNó muốn chui vào cái máy của bọn mình,\nđể làm ra sữa với bơ ngon hơn cho bọn mình!\n<event=\"W05 M04\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W05_M05",
+    "TermType": 0,
+    "Languages": [
+     "<event=\"W05 M05\">\nBọn mình ngừng rơi rồi!\n<kemoji=1>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W05_M06",
+    "TermType": 0,
+    "Languages": [
+     "Cậu không muốn biết con tàu này đang bay đi đâu à?\n<kemoji=1>\nCậu nói đúng.\nPhải tích trữ sữa trước khi lên đường tiếp.\n<event=\"W05 M06\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W05_H01",
+    "TermType": 0,
+    "Languages": [
+     "Có ai đó đang theo dõi bọn mình...\n<kemoji=5>\nMà rốt cuộc tụi nó ở đâu?"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W05_H02",
+    "TermType": 0,
+    "Languages": [
+     "Đó là con tàu khổng lồ đúng không?\nLần trước bọn mình thấy,\nnó còn chưa xây xong mà.\n<kemoji=1>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W05_H03",
+    "TermType": 0,
+    "Languages": [
+     "Chắc giờ bọn mình chẳng bao giờ hết đồ dự trữ nữa.\n<kemoji=1>\nCậu nói đúng.\nToàn đồ đông lạnh cả.\nBọn mình cần sửa cái máy của mình."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W05_H04",
+    "TermType": 0,
+    "Languages": [
+     "Tớ chẳng nhớ bọn mình từng chụp tấm hình này.\n<kemoji=1>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W05_H05",
+    "TermType": 0,
+    "Languages": [
+     "Cái gì vừa rồi vậy?!\n<kemoji=6>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W05_H06",
+    "TermType": 0,
+    "Languages": [
+     "Có gì đó không ổn ở đây.\nChắc chắn không phải bọn mình.\nDù gì bọn mình vẫn còn sống mà.\n<kemoji=6>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/B02_S01",
+    "TermType": 0,
+    "Languages": [
+     "Cái đống sắt vụn đó lại giở chứng à?\n<kemoji=2>\nĐi thôi. Có vẻ lại sắp có một chuyến phiêu lưu nữa rồi!"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/SKIN_U01",
+    "TermType": 0,
+    "Languages": [
+     "Cái đó trông cũng ổn áp đấy."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/SKIN_U02",
+    "TermType": 0,
+    "Languages": [
+     "Thẩm mỹ là chuyện chủ quan mà. Cậu thích là được, chỉ vậy thôi."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/SKIN_U03",
+    "TermType": 0,
+    "Languages": [
+     "Cái này thì sao?"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/SKIN_U04",
+    "TermType": 0,
+    "Languages": [
+     "Mong là bọn mình quen được với nhiều phong cách khác nhau."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/SKIN_U05",
+    "TermType": 0,
+    "Languages": [
+     "Cậu gọi đây là thời trang á? Tớ chưa thấy nhiều mèo lắm đâu, đừng có gạt tớ nha."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/SKIN_U06",
+    "TermType": 0,
+    "Languages": [
+     "Mấy lát bánh luôn bảo: \"Cái tiếp theo sẽ đẹp hơn.\""
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/SKIN_U07",
+    "TermType": 0,
+    "Languages": [
+     "Đừng quên cắt bỏ cái mác giá nha."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/SKIN_U08",
+    "TermType": 0,
+    "Languages": [
+     "Mong là nó giữ ấm được cho bọn mình. Ai biết bọn mình sẽ dạt về đâu chứ?"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/SKIN_U09",
+    "TermType": 0,
+    "Languages": [
+     "Thôi được, tớ công nhận, cái này cũng xinh thật."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/SKIN_U10",
+    "TermType": 0,
+    "Languages": [
+     "Yên tâm, rồi cậu sẽ tìm được phong cách hợp với mình."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/SKIN_U11",
+    "TermType": 0,
+    "Languages": [
+     "Cái này không làm lông cậu bị cứng chứ hả?"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W01_SW01",
+    "TermType": 0,
+    "Languages": [
+     "Khoan đã! Đây là…? / Ha! Biết đâu bọn mình tìm được thứ gì hay ho!"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W01_SW02",
+    "TermType": 0,
+    "Languages": [
+     "Oa! Trông như hàng cao cấp luôn!\n<swemoji=1>\n<kemoji=4>\nTớ luôn mơ được thử cái này! Chơi liền thôi!\n<kemoji=1>\n<event=\"show swap tutorial\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W01_SW03",
+    "TermType": 0,
+    "Languages": [
+     "Yeah!"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W01_SW04",
+    "TermType": 0,
+    "Languages": [
+     "Ôi chao!\nMà, nói sao nhỉ... hơi chóng mặt một chút.\n<kemoji=5>\nHay tại nó là bản thử nghiệm?\nChắc phải mất chút thời gian để tớ quen.\n<swemoji=1>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W01_SW05",
+    "TermType": 0,
+    "Languages": [
+     "<swemoji=1>\nNgầu quá! Ước gì mang theo được.\n<kemoji=3>\nThôi, để lần sau vậy! Hẹn gặp lại!\n<swemoji=8>\nMà rốt cuộc bọn mình tới đây bằng cách nào ta...\n<kemoji=4>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/SP_GMTK",
+    "TermType": 0,
+    "Languages": [
+     "GMTK! Y hệt mẫu máy tính của tớ. Mượt cực kỳ!\n<kemoji=4>\nCậu biết không? Tớ học được bao nhiêu thứ từ cái máy tính này đó.\n<kemoji=11>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/SP_ROLLER_1",
+    "TermType": 0,
+    "Languages": [
+     "Tiếc ghê, bọn mình bỏ lỡ phần thưởng xứng đáng rồi.\n<kemoji=2>\n<event=\"roller awards check end\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/SP_ROLLER_2",
+    "TermType": 0,
+    "Languages": [
+     "Tuyệt vời! Mình xem thử phần thưởng là gì nha?\n<kemoji=1>\n<event=\"roller awards check end\">"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/W03_M05",
+    "TermType": 0,
+    "Languages": [
+     "Oa, tớ chẳng ngờ có ngày phải dùng cái máy này.\n<kemoji=3>\nỪ, nhưng tớ không thoải mái trong mấy cái thân nhân bản này.\nTớ không chịu nổi việc ở lì trong một thân xác quá lâu.\n<kemoji=4>\nYên tâm, tớ sẽ theo kịp.\n<kemoji=1>"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/B00_M01",
+    "TermType": 0,
+    "Languages": [
+     "Yeah! Cuối cùng cũng chạy được."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "dialogs/save share full version required",
+    "TermType": 0,
+    "Languages": [
+     "Vui lòng mua bản đầy đủ để dùng tính năng này."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main title 01",
+    "TermType": 0,
+    "Languages": [
+     "Kích Hoạt Nghịch Lý"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main title 02",
+    "TermType": 0,
+    "Languages": [
+     "Ngon Tuyệt"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main title 03",
+    "TermType": 0,
+    "Languages": [
+     "Xin Chào"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main title 04",
+    "TermType": 0,
+    "Languages": [
+     "Không Chỉ Là Giải Đố?!"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main title 05",
+    "TermType": 0,
+    "Languages": [
+     "Động Lực Học Chất Lỏng"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main title 06",
+    "TermType": 0,
+    "Languages": [
+     "Mấy Cái Lon"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main title 07",
+    "TermType": 0,
+    "Languages": [
+     "Bạn Là Ai?"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main title 08",
+    "TermType": 0,
+    "Languages": [
+     "Lò Nướng"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main title 09",
+    "TermType": 0,
+    "Languages": [
+     "Thử Lại Nào!"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main title 10",
+    "TermType": 0,
+    "Languages": [
+     "Gần Tầng Khí Quyển Ngoài"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main title 11",
+    "TermType": 0,
+    "Languages": [
+     "Gần Tầng Nhiệt"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main title 12",
+    "TermType": 0,
+    "Languages": [
+     "Con Chip"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main title 13",
+    "TermType": 0,
+    "Languages": [
+     "Quay Lại Làm Việc"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main title 14",
+    "TermType": 0,
+    "Languages": [
+     "Loài Mới"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main title 15",
+    "TermType": 0,
+    "Languages": [
+     "Lên Đồ"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main title 16",
+    "TermType": 0,
+    "Languages": [
+     "Cậu Ngầu Đấy!"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main title 17",
+    "TermType": 0,
+    "Languages": [
+     "Rương Phía Trước?"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main title 18",
+    "TermType": 0,
+    "Languages": [
+     "Bay Đi Đâu Thế?"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main title 19",
+    "TermType": 0,
+    "Languages": [
+     "Để Nó Ngủ Đi Mà!"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main title 20",
+    "TermType": 0,
+    "Languages": [
+     "Kho Báu"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/hidden title 01",
+    "TermType": 0,
+    "Languages": [
+     "Vào Đây Kiểu Gì Vậy?!"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/hidden title 02",
+    "TermType": 0,
+    "Languages": [
+     "YU4YANG2"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/hidden title 03",
+    "TermType": 0,
+    "Languages": [
+     "Đừng Hòng Chạm Vào"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main desc 01",
+    "TermType": 0,
+    "Languages": [
+     "Ghép Mèo và Bánh Mì lại để cất cánh."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main desc 02",
+    "TermType": 0,
+    "Languages": [
+     "Lần đầu chui vào Lò Nướng."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main desc 03",
+    "TermType": 0,
+    "Languages": [
+     "Mở khóa Swappy."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main desc 04",
+    "TermType": 0,
+    "Languages": [
+     "Hoàn thành Tàu Lượn ở W01."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main desc 05",
+    "TermType": 0,
+    "Languages": [
+     "Tăng tốc cho Mèo."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main desc 06",
+    "TermType": 0,
+    "Languages": [
+     "Đánh bại Boss ở W02."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main desc 07",
+    "TermType": 0,
+    "Languages": [
+     "Lần đầu chạm trán Shatow."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main desc 08",
+    "TermType": 0,
+    "Languages": [
+     "Đánh bại Boss ở W03."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main desc 09",
+    "TermType": 0,
+    "Languages": [
+     "Hoàn thành Tàu Lượn ở W04."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main desc 10",
+    "TermType": 0,
+    "Languages": [
+     "Hoàn thành một phần ba W05."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main desc 11",
+    "TermType": 0,
+    "Languages": [
+     "Hoàn thành hai phần ba W05."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main desc 12",
+    "TermType": 0,
+    "Languages": [
+     "Đánh bại Boss ở W05."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main desc 13",
+    "TermType": 0,
+    "Languages": [
+     "Hoàn thành tất cả nhiệm vụ phụ."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main desc 14",
+    "TermType": 0,
+    "Languages": [
+     "Nhận skin đầu tiên."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main desc 15",
+    "TermType": 0,
+    "Languages": [
+     "Lần đầu trang bị skin."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main desc 16",
+    "TermType": 0,
+    "Languages": [
+     "Mở khóa tất cả thành tựu skin."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main desc 17",
+    "TermType": 0,
+    "Languages": [
+     "Lần đầu kích hoạt khu vực ẩn."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main desc 18",
+    "TermType": 0,
+    "Languages": [
+     "Quay CATO điên cuồng cho tới khi nó tiếp đất và chóng mặt."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main desc 19",
+    "TermType": 0,
+    "Languages": [
+     "Bắt gặp CATO ngáy khi đứng yên."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/main desc 20",
+    "TermType": 0,
+    "Languages": [
+     "Tìm ra căn phòng ẩn GMTK."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/hidden desc 01",
+    "TermType": 0,
+    "Languages": [
+     "Dùng lỗi game để vào phòng ẩn."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/hidden desc 02",
+    "TermType": 0,
+    "Languages": [
+     "Tìm ra căn phòng của người sáng tạo."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "achievements/hidden desc 03",
+    "TermType": 0,
+    "Languages": [
+     "Hoàn thành mọi màn mà không bỏ qua hay dùng gợi ý."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "promotion/FV Skins Hidden",
+    "TermType": 0,
+    "Languages": [
+     "Ẩn trong những góc bí mật của màn chơi"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "promotion/FV 70 Skins",
+    "TermType": 0,
+    "Languages": [
+     "90 Skin"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "promotion/FV Mini Games Unlock",
+    "TermType": 0,
+    "Languages": [
+     "Mở khóa dần khi bạn chơi"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "promotion/purchase failed",
+    "TermType": 0,
+    "Languages": [
+     "Không hoàn tất được giao dịch. Vui lòng thử lại."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "promotion/FV 7 Mini Games",
+    "TermType": 0,
+    "Languages": [
+     "8 Mini-game"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "promotion/FV 200 Levels",
+    "TermType": 0,
+    "Languages": [
+     "200+ Màn chơi"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "promotion/FV 5 Worlds",
+    "TermType": 0,
+    "Languages": [
+     "5 Thế giới"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "promotion/FV Boss Fight",
+    "TermType": 0,
+    "Languages": [
+     "Thêm cả Đánh Boss!"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "promotion/FV Unlock Full Version",
+    "TermType": 0,
+    "Languages": [
+     "Mở Khóa Bản Đầy Đủ"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "promotion/Main Menu Unlock Full Version",
+    "TermType": 0,
+    "Languages": [
+     "MỞ BẢN ĐẦY ĐỦ"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "promotion/mobile unlock full version price",
+    "TermType": 0,
+    "Languages": [
+     "Mở khóa · {localizedPriceString}"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "promotion/restore purchases",
+    "TermType": 0,
+    "Languages": [
+     "Khôi phục giao dịch"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "promotion/purchase canceled",
+    "TermType": 0,
+    "Languages": [
+     "Đã hủy giao dịch"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "promotion/full version already owned",
+    "TermType": 0,
+    "Languages": [
+     "Đã sở hữu bản đầy đủ rồi"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "promotion/restore purchases failed",
+    "TermType": 0,
+    "Languages": [
+     "Khôi phục giao dịch thất bại"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "promotion/restore purchases success",
+    "TermType": 0,
+    "Languages": [
+     "Khôi phục giao dịch thành công"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "promotion/purchase success",
+    "TermType": 0,
+    "Languages": [
+     "Mua thành công"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "promotion/view ios app store",
+    "TermType": 0,
+    "Languages": [
+     "Xem trên iOS App Store"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "promotion/click outside to close",
+    "TermType": 0,
+    "Languages": [
+     "Bấm ra ngoài để đóng"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "promotion/review cato",
+    "TermType": 0,
+    "Languages": [
+     "Đánh giá CATO!"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "promotion/mobile launch announcement",
+    "TermType": 0,
+    "Languages": [
+     "CATO giờ đã có trên di động! Mang CATO theo bạn mọi lúc mọi nơi!\n \n- Trải nghiệm đầy đủ y như bản PC\n- Tùy chọn hỗ trợ gồm quay chậm, bỏ qua màn, và nút điều khiển trên màn hình tùy chỉnh được\n- Hỗ trợ các tay cầm phổ biến và chơi đôi 2 người\n- Hỗ trợ thành tựu Game Center"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "promotion/view",
+    "TermType": 0,
+    "Languages": [
+     "Xem"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "promotion/coming soon",
+    "TermType": 0,
+    "Languages": [
+     "Sắp ra mắt"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "promotion/merch",
+    "TermType": 0,
+    "Languages": [
+     "Hàng lưu niệm"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "promotion/mobile",
+    "TermType": 0,
+    "Languages": [
+     "Di động"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "promotion/board game",
+    "TermType": 0,
+    "Languages": [
+     "Board Game"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "promotion/entitlement checking title",
+    "TermType": 0,
+    "Languages": [
+     "Đang kiểm tra trạng thái mua"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "promotion/entitlement checking body",
+    "TermType": 0,
+    "Languages": [
+     "Đang kiểm tra với cửa hàng xem bạn đã sở hữu bản đầy đủ chưa. Vui lòng đợi chút."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "promotion/entitlement unavailable title",
+    "TermType": 0,
+    "Languages": [
+     "Không xác nhận được trạng thái mua"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "promotion/entitlement unavailable body",
+    "TermType": 0,
+    "Languages": [
+     "Kiểm tra kết nối mạng rồi thử lại. Nếu bạn đã sở hữu bản đầy đủ, bạn có thể vào sau khi xác minh thành công."
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "promotion/entitlement retry",
+    "TermType": 0,
+    "Languages": [
+     "Thử lại"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 69",
+    "TermType": 0,
+    "Languages": [
+     "KaCa2"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 70",
+    "TermType": 0,
+    "Languages": [
+     "WNTD"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 58",
+    "TermType": 0,
+    "Languages": [
+     "SIOλλ"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 59",
+    "TermType": 0,
+    "Languages": [
+     "L1D"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 60",
+    "TermType": 0,
+    "Languages": [
+     "QUK"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 61",
+    "TermType": 0,
+    "Languages": [
+     "O2O"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 62",
+    "TermType": 0,
+    "Languages": [
+     "M1Ss"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 63",
+    "TermType": 0,
+    "Languages": [
+     "U.C.kid"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 0",
+    "TermType": 0,
+    "Languages": [
+     "Chè Mè"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 1",
+    "TermType": 0,
+    "Languages": [
+     "Tam Thể"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 10",
+    "TermType": 0,
+    "Languages": [
+     "Cơm"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 2",
+    "TermType": 0,
+    "Languages": [
+     "Mèo Vàng To"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 3",
+    "TermType": 0,
+    "Languages": [
+     "Tom"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 4",
+    "TermType": 0,
+    "Languages": [
+     "Biêu"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 50",
+    "TermType": 0,
+    "Languages": [
+     "Bánh Lấm Lem"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 51",
+    "TermType": 0,
+    "Languages": [
+     "Logic"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 79",
+    "TermType": 0,
+    "Languages": [
+     "U U"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 80",
+    "TermType": 0,
+    "Languages": [
+     "Streamer"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 81",
+    "TermType": 0,
+    "Languages": [
+     "Mèo Ghép"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 82",
+    "TermType": 0,
+    "Languages": [
+     "Scott"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 83",
+    "TermType": 0,
+    "Languages": [
+     "Tiểu Ngọc"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 84",
+    "TermType": 0,
+    "Languages": [
+     "Bánh Mì"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 85",
+    "TermType": 0,
+    "Languages": [
+     "Bánh Xe Lửa"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 86",
+    "TermType": 0,
+    "Languages": [
+     "Suy Sụp"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 87",
+    "TermType": 0,
+    "Languages": [
+     "GMTK"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 88",
+    "TermType": 0,
+    "Languages": [
+     "A Kỉ"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 89",
+    "TermType": 0,
+    "Languages": [
+     "Kẹo Bông Meo"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 9",
+    "TermType": 0,
+    "Languages": [
+     "Vực Thẳm"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 90",
+    "TermType": 0,
+    "Languages": [
+     "Kem Meo"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 91",
+    "TermType": 0,
+    "Languages": [
+     "Bang Bang"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 92",
+    "TermType": 0,
+    "Languages": [
+     "Lưỡi Xanh"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 93",
+    "TermType": 0,
+    "Languages": [
+     "Ê-te"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 94",
+    "TermType": 0,
+    "Languages": [
+     "Mè Chè"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 95",
+    "TermType": 0,
+    "Languages": [
+     "Tạ Sắt"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 96",
+    "TermType": 0,
+    "Languages": [
+     "Bíp Bíp"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 97",
+    "TermType": 0,
+    "Languages": [
+     "Cao Bồi"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 98",
+    "TermType": 0,
+    "Languages": [
+     "Kim Tịnh"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 99",
+    "TermType": 0,
+    "Languages": [
+     "Meo Sáng Tạo"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 0",
+    "TermType": 0,
+    "Languages": [
+     "Bánh Mì"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 1",
+    "TermType": 0,
+    "Languages": [
+     "Cà Chua"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 10",
+    "TermType": 0,
+    "Languages": [
+     "Dâu Tây"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 11",
+    "TermType": 0,
+    "Languages": [
+     "Mùa Hè"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 12",
+    "TermType": 0,
+    "Languages": [
+     "Hiệp Sĩ"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 2",
+    "TermType": 0,
+    "Languages": [
+     "Sô-cô-la"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 3",
+    "TermType": 0,
+    "Languages": [
+     "Bơ Đậu Phộng"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 4",
+    "TermType": 0,
+    "Languages": [
+     "Matcha"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 71",
+    "TermType": 0,
+    "Languages": [
+     "Cây Thông Cống"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 72",
+    "TermType": 0,
+    "Languages": [
+     "Dao"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 73",
+    "TermType": 0,
+    "Languages": [
+     "Mũ Phù Thủy"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 74",
+    "TermType": 0,
+    "Languages": [
+     "Thùng"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 75",
+    "TermType": 0,
+    "Languages": [
+     "Điện Thoại"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 76",
+    "TermType": 0,
+    "Languages": [
+     "Bí Ngô"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 77",
+    "TermType": 0,
+    "Languages": [
+     "Xu Vàng"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 78",
+    "TermType": 0,
+    "Languages": [
+     "Bánh Trung Thu"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 79",
+    "TermType": 0,
+    "Languages": [
+     "Tai Nghe"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 80",
+    "TermType": 0,
+    "Languages": [
+     "Mèo"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 81",
+    "TermType": 0,
+    "Languages": [
+     "Nơ"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 82",
+    "TermType": 0,
+    "Languages": [
+     "Cá Mập Con"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 83",
+    "TermType": 0,
+    "Languages": [
+     "Tỏi"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 84",
+    "TermType": 0,
+    "Languages": [
+     "Hamburger"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 85",
+    "TermType": 0,
+    "Languages": [
+     "Mai Rùa"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 86",
+    "TermType": 0,
+    "Languages": [
+     "Nồi"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 87",
+    "TermType": 0,
+    "Languages": [
+     "Nam Châm"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 88",
+    "TermType": 0,
+    "Languages": [
+     "Dép Lê"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 89",
+    "TermType": 0,
+    "Languages": [
+     "Bánh Mì Thật"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 90",
+    "TermType": 0,
+    "Languages": [
+     "Khăn Quàng"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 91",
+    "TermType": 0,
+    "Languages": [
+     "Sao Lớn"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 92",
+    "TermType": 0,
+    "Languages": [
+     "Bánh Sừng Bò"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 93",
+    "TermType": 0,
+    "Languages": [
+     "Bít Tết"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 94",
+    "TermType": 0,
+    "Languages": [
+     "Phản Vật Chất"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 95",
+    "TermType": 0,
+    "Languages": [
+     "Mũ Hiệp Sĩ"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 96",
+    "TermType": 0,
+    "Languages": [
+     "Đĩa Bay"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 97",
+    "TermType": 0,
+    "Languages": [
+     "Cầu Vồng"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 98",
+    "TermType": 0,
+    "Languages": [
+     "Vàng"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 99",
+    "TermType": 0,
+    "Languages": [
+     "Chặn Bóng"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 70",
+    "TermType": 0,
+    "Languages": [
+     "Mũ Noel"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 77",
+    "TermType": 0,
+    "Languages": [
+     "Mèo Thần"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 78",
+    "TermType": 0,
+    "Languages": [
+     "Hậu Tuyết"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 75",
+    "TermType": 0,
+    "Languages": [
+     "Mèo-ri-ô"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 76",
+    "TermType": 0,
+    "Languages": [
+     "Mèo Máy"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 68",
+    "TermType": 0,
+    "Languages": [
+     "Nấm Đỏ"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 69",
+    "TermType": 0,
+    "Languages": [
+     "Cần Điều Khiển"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 72",
+    "TermType": 0,
+    "Languages": [
+     "Sâu Róm"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 73",
+    "TermType": 0,
+    "Languages": [
+     "Sâu Mèo"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 74",
+    "TermType": 0,
+    "Languages": [
+     "Một Tuổi"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 65",
+    "TermType": 0,
+    "Languages": [
+     "Bom"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 66",
+    "TermType": 0,
+    "Languages": [
+     "Ly Sứ"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 67",
+    "TermType": 0,
+    "Languages": [
+     "Vương Miện"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 71",
+    "TermType": 0,
+    "Languages": [
+     "Bản Lặn"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 64",
+    "TermType": 0,
+    "Languages": [
+     "Bình Oxy"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Kitty Skin 68",
+    "TermType": 0,
+    "Languages": [
+     "W00F2"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   },
+   {
+    "Term": "skin names/Toast Skin 57",
+    "TermType": 0,
+    "Languages": [
+     "H4M"
+    ],
+    "Flags": [
+     0
+    ],
+    "Languages_Touch": []
+   }
+  ],
+  "CaseInsensitiveTerms": 0,
+  "OnMissingTranslation": 1,
+  "mTerm_AppName": "",
+  "mLanguages": [
+   {
+    "Name": "Tiếng Việt",
+    "Code": "vi",
+    "Flags": 0
+   }
+  ],
+  "IgnoreDeviceLanguage": 0,
+  "_AllowUnloadingLanguages": 0,
+  "Google_WebServiceURL": "https://script.google.com/macros/s/AKfycbwYYi8WMTJWgc-qd9Q0P0sPI8fNuyNxNojHCV97tL-I1CsqEs2HrTEBsoGZOlKmWndjoA/exec",
+  "Google_SpreadsheetKey": "1gH1Yu_OBsm5C14bLZ7YP_gZHv6NX4iRjJ1XbnhbZSAs",
+  "Google_SpreadsheetName": "I2Loc 黄油猫 Localization",
+  "Google_LastUpdatedVersion": "1791885989544",
+  "GoogleUpdateFrequency": 1,
+  "GoogleInEditorCheckFrequency": 1,
+  "GoogleUpdateSynchronization": 2,
+  "GoogleUpdateDelay": 0.0,
+  "Assets": []
+ }
+}

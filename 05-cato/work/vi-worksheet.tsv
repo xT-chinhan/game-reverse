@@ -1,0 +1,613 @@
+TERM	TYPE	ENGLISH
+common/confirm	0	Confirm
+save share/generate title	0	Generate Save Code
+save share/notice body	0	• Click the code to copy it and sync save progress on another device\n• This code can sync saves between mobile and PC\n• This code only syncs level progress and unlocked skins. Game settings and mini-game records are not included.\n• This code expires. Do not use it as a backup!
+save share/receive title	0	Receive Save Code
+save share/input placeholder	0	Enter Save Code
+save share/paste	0	Paste
+save share/validate	0	Validate Code
+save share/expiry	0	Code validity: {0} min
+save share/copied	0	Copied
+save share/success	0	Save synced successfully!
+save share/failure	0	Save sync failed. Check letter case and code validity!
+main menu/level design button	0	Level editor
+main menu/title press any key	0	Press Any Key To Continue
+main menu/demo description detail 2	0	This is a demo version and not the final version of the game.
+main menu/demo description button	0	Info
+main menu/show taptap achievements	0	
+main menu/view on taptap	0	
+main menu/mobile full version 8 mini games	0	8 Mini Games
+main menu/new game button	0	New game
+main menu/continue game button	0	Continue game
+main menu/exit game button	0	Quit
+main menu/credits button	0	Credits
+main menu/continue to main game button	0	Resume
+main menu/back to map button	0	Return to map
+main menu/back to base button	0	Return to nest
+main menu/settings button	0	Settings
+main menu/back to main menu button	0	Main menu
+main menu/restart game button	0	Restart level
+main menu/side panel pause title	0	PAUSE
+main menu/save slot	0	Save Slot
+main menu/kitty skin window title	0	Kitty Skins
+main menu/toast skin window title	0	Toast Skins
+main menu/skin_lock	0	Locked
+main menu/mini games	0	Mini Games
+main menu/show hints	0	Hints
+main menu/skip level	0	Skip Level
+main menu/skip level 1 min	0	Skip Level (1 min)
+main menu/base title	0	Nest
+main menu/bug report title	0	Bug occurred!
+main menu/survey title	0	Survey
+main menu/switch save title	0	Switch Save
+main menu/save select button	0	Select Save
+main menu/copy save button	0	Copy Save
+main menu/save detect corruption prompt	0	Detected that the current save file is corrupted. Do you want to restore from backup?
+main menu/save regression restore prompt	0	A local backup may contain more progress. Restore the backup?
+main menu/save regression restore explanation	0	The current save will be preserved before restoration. Choosing No continues with the current save and, when an empty slot is available, copies the backup there while retaining a backup record.
+main menu/save corruption explanation	0	Save file corruption usually occurs when the computer shuts down unexpectedly or the program exits abnormally while the game is saving progress. It is recommended to restore from a local or cloud backup.
+main menu/save delete confirmation	0	Are you sure you want to delete this save file? (This action cannot be undone)
+main menu/save auto save warning	0	The game supports auto-saving. Please do not close the game when this icon is displayed.
+main menu/save restore success	0	Backup restored successfully!
+main menu/save restore failure	0	Backup restoration failed :(
+main menu/save copy failure	0	Save slots are full!
+main menu/mini game unlock requirement	0	Requires unlocking {[requirement]}
+main menu/generate save code	0	Generate Save Code
+main menu/receive save code	0	Receive Save Code
+game settings/bgm volume	0	BGM
+game settings/sfx volume	0	SFX
+game settings/exit settings button	0	Exit
+game settings/fullscreen options	0	Full Screen
+game settings/language options	0	Language
+game settings/reset settings button	0	Reset Settings
+game settings/resolution options	0	Resolution
+game settings/screen shake options	0	Screenshake
+game settings/setting apply dialog title	0	Save Settings?
+game settings/setting reset dialog title	0	Reset All Settings?
+game settings/vibrate options	0	Controller Vibration
+game settings/post processing	0	Visual Filter
+game settings/post processing none	0	None
+game settings/post processing TV	0	TV Effect
+game settings/setting apply dialog no	0	No
+game settings/setting apply dialog yes	0	Yes
+game settings/setting toggle off	0	Off
+game settings/setting toggle on	0	On
+game settings/key bindings button	0	Key Bindings
+game settings/kb cato move left	0	CATO Move Left
+game settings/kb cato move right	0	CATO Move Right
+game settings/kb cato move up	0	CATO Move Up
+game settings/kb cato move down	0	CATO Move Down
+game settings/kb cato jump	0	CATO Jump
+game settings/kb toast split	0	Toast Disassemble
+game settings/kb toast jump right	0	Toast Jump Right
+game settings/kb toast jump left	0	Toast Jump Left
+game settings/kb toast switch direction	0	Toast Switch Direction
+game settings/kb toast jump	0	Toast Jump
+game settings/kb swappy use skill	0	Swappy Use Skill
+game settings/kb meow reset	0	Meow Reset
+game settings/kb slow motion toggle	0	Slow Motion Button
+game settings/kb slow motion description	0	(Can reduce game difficulty)
+game settings/kb keyboard	0	Keyboard
+game settings/kb gamepad	0	Gamepad
+game settings/kb single player keyboard preset	0	Single Player Keyboard Preset
+game settings/kb two player keyboard preset	0	Two Player Keyboard Preset
+game settings/kb single player gamepad preset	0	Single Player Gamepad Preset
+game settings/kb two player gamepad preset	0	Two Player Gamepad Preset
+game settings/kb custom preset 1	0	Custom Preset 1
+game settings/kb custom preset 2	0	Custom Preset 2
+game settings/kb press key to rebind	0	Please press the key to rebind
+game settings/setting apply dialog ok	0	OK
+game settings/dialog close	0	Close
+game settings/dialog cancel	0	Cancel
+game settings/kb reset preset title	0	Do you want to reset the current preset?
+game settings/kb delete preset title	0	Do you want to delete the current preset?
+game settings/kb exit unsaved preset title	0	The current preset is unsaved. Do you want to exit?
+game settings/kb reset success	0	Preset reset successfully
+game settings/kb copy success	0	Preset copied successfully
+game settings/kb delete success	0	Preset deleted successfully
+game settings/kb delete oepration	0	Delete current preset
+game settings/kb copy operation	0	Copy current preset
+game settings/kb reset operation	0	Reset current preset
+game settings/save	0	Save
+game settings/kb preset 1	0	Single Player: Keyboard (Arrow Keys)
+game settings/kb preset 2	0	Single Player: Keyboard (WASD)
+game settings/kb preset 3	0	Two Players: Keyboard + Gamepad (1)
+game settings/kb preset 4	0	Two Players: Keyboard + Gamepad (2)
+game settings/kb preset 5	0	Two Players: Keyboard
+game settings/kb preset 6	0	Two Players: Gamepad
+game settings/kb custom preset	0	Custom Preset
+game settings/kb dual sense	0	controller
+game settings/custom button assignments	0	custom button assignments
+game settings/kb single player preset	0	Single Player Preset
+game settings/kb two player preset	0	Two Player Preset
+game settings/custom button assignments NS	0	custom button assignments
+game settings/mobile custom touch joystick	0	Touch Joystick
+game settings/mobile custom interact	0	Interact Button
+game settings/custom touch button assignments	0	Custom Virtual Button
+game settings/touch scheme warning	0	Please go to in-game settings
+game settings/ally slow motion toggle title	0	Slow Motion Assist Toggle
+game settings/ally slow motion scale	0	Slow Motion Scale
+game settings/ally slow motion toggle desc	0	Toggle the slow motion button in-game to reduce difficulty.\nPlease bind a key manually.
+game settings/ally force show touch title	0	Force Show Touch Controls
+game settings/ally force show touch desc	0	
+game settings/ally speed run timer title	0	Speedrun Timer Toggle
+game settings/ally speed run timer desc	0	The timer starts when the player becomes controllable in W01_L01
+game settings/ally slow motion slider desc	0	Slow Motion Scale: {0}
+game settings/ally settings title	0	Extra
+game settings/ally gamepad face button swap title	0	Swap Gamepad A/B Button Icons
+game settings/ally gamepad face button swap desc	0	Swap the on-screen A/B and X/Y button icons without changing the actual controls.
+game settings/device vibration	0	Device Vibration
+game settings/vibration mode simple	0	Simple
+game settings/vibration mode rich	0	Rich
+game settings/taptap cloud save upload success rich	0	
+game settings/taptap cloud save restore success rich	0	
+game settings/taptap cloud save manual rich	0	
+game settings/cloud save upload success rich	0	
+game settings/cloud save restore success rich	0	
+game settings/cloud save manual rich	0	
+game settings/taptap cloud save	0	
+game settings/sync taptap achievements	0	Sync TapTap Achievements
+game settings/sync taptap achievements in progress	0	Syncing TapTap achievements…
+game settings/sync taptap achievements result title	0	TapTap Achievement Sync
+game settings/sync taptap achievements none	0	There are no TapTap achievements in this save that can be synced.
+game settings/sync taptap achievements success	0	Successfully synced {0} TapTap achievements.
+game settings/sync taptap achievements partial	0	Successfully synced {0}/{1} TapTap achievements. Check your network and sync again.
+game settings/sync taptap achievements failed	0	TapTap achievement sync failed. Check your network and try again.
+game settings/sync taptap achievements login required	0	Log in to TapTap before syncing achievements.
+game settings/cloud save uploading	0	
+game settings/cloud save formatted update time	0	
+game settings/real name verification	0	
+game settings/real name verification start failed	0	
+game settings/delete account	0	
+game settings/logout taptap account	0	
+game settings/exit real name verification	0	
+game settings/clear real name data	0	
+game settings/clear real name data explanation	0	
+game settings/clear real name data confirmation	0	
+game settings/real name verification start failed detail	0	
+game settings/payment processing	0	
+game settings/payment error	0	
+game settings/payment restriction check failed	0	
+game settings/payment temporarily unavailable	0	
+game settings/payment incomplete	0	
+game settings/cloud save icloud upload success rich	0	<size=115%><b>iCloud cloud save uploaded successfully</b></size>
+game settings/cloud save icloud restore success rich	0	<size=115%><b>iCloud cloud save restored successfully</b></size>
+game settings/cloud save icloud manual rich	0	<size=115%><b>iCloud Cloud Save (Manual)</b></size>
+game settings/game center achievements	0	Game Center Achievements
+game settings/cloud save icloud manual	0	iCloud Cloud Save (Manual)
+game settings/cloud save upload	0	Upload Save
+game settings/cloud save	0	Cloud Save
+game settings/cloud save restore	0	Restore Save
+game settings/cloud save upload overwrite confirmation	0	Upload and overwrite the existing cloud save?
+game settings/cloud save restore overwrite confirmation	0	Restore the cloud save and overwrite the local save?
+game settings/cloud save restoring	0	Restoring save...
+game settings/cloud save game center login upload	0	Signing in to Game Center and uploading save...
+game settings/cloud save retrieving	0	Retrieving cloud save...
+game settings/cloud save slot unlock summary	0	Slot {slot.slotIndex} unlocks: Kitty skins x{slot.unlockedKittySkinCount}, Toast skins x{slot.unlockedToastSkinCount}, worlds x{slot.unlockedWorldCount}
+game settings/cloud save slot playtime	0	Slot {slot.slotIndex} playtime: {FormatPlayTime(slot.totalPlayTimeSeconds)}
+game settings/network connection error	0	Network connection error
+game settings/cloud save bundle summary	0	Contains {bundle.slots.Count} slots. Uploaded at {FormatIsoTime(bundle.uploadedAt)}
+game settings/cloud save no restorable slots	0	No restorable save slots were found in the cloud save.
+game settings/cloud save last updated	0	Cloud save last updated: {cloudUpdateTime}
+game settings/cloud save unavailable	0	No cloud save available
+game settings/cloud save retrieve first	0	Retrieve the cloud save first.
+game settings/cloud save retrieve failed	0	Couldn't retrieve the cloud save. Please try again.
+game settings/cloud save upload failed	0	Couldn't upload the save. Please try again.
+game settings/cloud save restore failed	0	Couldn't restore the save. Please try again.
+game settings/cloud save no local save	0	No local save is available to upload.
+game settings/cloud save game center login retrieve	0	Signing in to Game Center and retrieving cloud save...
+game settings/contact upload cooldown	0	Uploads are too frequent. Please try again later.
+game settings/contact upload privacy notice	0	This operation will upload your player logs and save data to help us debug the issue.\nAfter uploading, please contact us by email:
+game settings/contact qq group	0	QQ Group: 529790449
+game settings/contact send	0	Send
+game settings/contact send failed	0	Failed to send
+game settings/contact sent	0	Sent successfully
+game settings/contact log upload	0	Log Upload
+game settings/contact sending	0	Sending...
+game settings/contact email	0	Email
+game settings/contact information placeholder	0	Please leave your contact information
+game settings/clean ui title	0	Clean UI
+game settings/clean ui desc	0	Hides promotional content and version information.
+instructions/kitty move	0	Cat move  <action="kitty move">
+instructions/kitty meow	0	<action="cato jump"> = ?
+instructions/toast jump	0	Toast jump  <action="toast jump">
+instructions/toast eject	0	Eject toast  <action="cato jump">
+instructions/toast change jump direction	0	Change jump direction  <action="toast change dir">
+instructions/toast charge jump	0	Charge jump (Hold)  <action="toast jump">
+instructions/toast toss up	0	Toast disassemble  <action="disassemble">
+instructions/title keyboard	0	Keyboard
+instructions/title controller	0	Controller
+instructions/restart	0	Reset room (Hold) <action="restart">
+instructions/enter map button	0	Enter <action="enter map">
+instructions/level map input	0	<action="exit">= Exit     <action="ui confirm">= Enter
+instructions/cato float	0	Put the toast on your back\nMash  <action="cato jump"> to take off
+instructions/demo time out	0	Thank you for playing!
+instructions/kitty enter tube R	0	Enter the pipe (Hold) <action=“kitty move right”>
+instructions/kitty enter tube L	0	Enter the pipe (Hold) <action=“kitty move left”>
+instructions/cato cant assemble in cloudwall	0	Cannot assemble or disassemble within the paradox wall
+instructions/roller tutorial	0	Jump <action="cato jump">\nDisassemble <action="disassemble">
+instructions/roller jump	0	Jump <action="cato jump">
+instructions/roller disassemble	0	Disassemble <action="disassemble">
+instructions/roller float	0	Mash  <action="cato jump"> to float
+instructions/swap tutorial 1	0	Press <action="swap">\nto swap character positions.
+instructions/swap tutorial 2	0	Hold <action="swap">\nto enter slow motion.
+instructions/comming soon	0	Coming Soon
+instructions/enter building W01	0	Open Map W01  <action="enter building">
+instructions/enter building W02	0	Open Map W02  <action="enter building">
+instructions/enter building W03	0	Open Map W03  <action="enter building">
+instructions/enter building W04	0	Open Map W04  <action="enter building">
+instructions/enter building W05	0	Open Map W05  <action="enter building">
+instructions/enter building kitty skin	0	Open Kitty Skins  <action="enter building">
+instructions/enter building toast skin	0	Open Toast Skins  <action="enter building">
+instructions/enter building mini game	0	Open Mini Games  <action="enter building">
+instructions/enter building TV	0	Replay Ad  <action="enter building">
+instructions/enter building skin vendor	0	Start Treadmill  <action="enter building">
+instructions/mini games current score	0	Current Score:
+instructions/mini games high score	0	Best Score:
+instructions/mini games restart	0	Restart
+instructions/mini games exit	0	Exit
+instructions/mini game start prompt	0	Start Mini Game  <action="ui submmit">
+instructions/operate milk machine	0	Make Milk  <action="interact">
+instructions/speed run prompt	0	Speed Run  <action="interact">
+instructions/restart tap	0	Reset room <action="restart">
+instructions/drink milk	0	
+items/Toast Skin 0	0	Carefully maintained, the body remains free from cracks.
+items/Toast Skin 1	0	I wanted butter but accidentally squeezed out ketchup instead.
+items/Toast Skin 2	0	With chocolate, I never feel sleepy again.
+items/Toast Skin 3	0	Peanut butter! Energy! Calories!
+items/Toast Skin 4	0	Who'd have thought that matcha could be turned into a sauce? It still needs a touch of milk, though.
+items/Toast Skin 10	0	Once fierce, now influenced by strawberries, it has become charmingly cute.
+items/Toast Skin 11	0	It exudes an inexplicable freshness like holidays.
+items/Toast Skin 12	0	Standard issue for Knight Agents—stylish and cool!
+items/Toast Skin 77	0	If only this sample could be infinitely replicated.
+items/Toast Skin 78	0	With the style of O15, suitable for adapting to the atmosphere of the full moon.
+items/Toast Skin 79	0	Does speaking have an electric current sound, but is it really noisy?
+items/Toast Skin 80	0	The cat that suddenly rushed into the laboratory, cannot walk, but can speak.
+items/Toast Skin 81	0	It is even smooth without the need for butter.
+items/Toast Skin 82	0	Doo-doo, doo-doo, doo-doo! Made some precious friends.
+items/Toast Skin 83	0	Absolutely Mouth-watering! Attack power +3\nProfessor Nonsense's Favorite
+items/Toast Skin 84	0	Remarkably calm and rational.
+items/Toast Skin 85	0	Increases defense while also boosting unnecessary attack power.
+items/Toast Skin 86	0	It's rumored that it can pick up mysterious external signals.
+items/Toast Skin 87	0	It was a lot of effort to get it out.
+items/Toast Skin 88	0	Relentlessly pursuing a strong connection with the cat to the point where it might annoy the cat.
+items/Toast Skin 89	0	A traditional approach to achieving paradoxes.
+items/Toast Skin 90	0	Highly versatile, primarily used for humor.
+items/Toast Skin 91	0	Seems like it can attach to anything.
+items/Toast Skin 92	0	There have always been debates on how to pronounce its actual name.
+items/Toast Skin 93	0	We need much more butter!
+items/Toast Skin 94	0	We still haven't established effective communication with it.
+items/Toast Skin 95	0	It has romantic and charming feathers, yet it's still missing a pair of boots.
+items/Toast Skin 96	0	We suspect it's the culprit behind the disappearance of the toast two years ago.
+items/Toast Skin 97	0	Mixed with a strange mushroom—don't ever touch it!
+items/Toast Skin 98	0	We are the champions!
+items/Toast Skin 99	0	A hat from a family member.
+items/Kitty Skin 0	0	All it does is eat and sleep.
+items/Kitty Skin 1	0	Double-sided cat. Is this the front or the back?
+items/Kitty Skin 2	0	Eat and Sleep. It gets more appetized after sleeping.
+items/Kitty Skin 3	0	Often causes debates due to its fur color.
+items/Kitty Skin 4	0	Combat power 3000!!
+items/Kitty Skin 9	0	Can't be found in the dark.
+items/Kitty Skin 10	0	Never seen it looking dirty.
+items/Kitty Skin 50	0	Discovered in the chimney, it looks very random.
+items/Kitty Skin 51	0	At first, we thought we could wash its face clean.
+items/Kitty Skin 80	0	I have to admit it's really cool.
+items/Kitty Skin 81	0	Its appearance sparked a great misunderstanding: cloning cats has been successful.
+items/Kitty Skin 82	0	Everyone thought that these glasses could shoot lasers.
+items/Kitty Skin 83	0	Moon landing style.
+items/Kitty Skin 84	0	Is the experimental product of the toast soul shuttle, but is it still toast?
+items/Kitty Skin 85	0	These wheels didn’t make it run any faster.
+items/Kitty Skin 86	0	An artificial intelligence creature that looks quite dangerous.
+items/Kitty Skin 87	0	After many experiments, this popular color scheme was finally chosen.
+items/Kitty Skin 88	0	Always brings fresh stories.
+items/Kitty Skin 89	0	Soft and sweet, this tail will dissolve in water.
+items/Kitty Skin 90	0	Just Cool!
+items/Kitty Skin 91	0	Too hard. It feels uncomfortable to touch.
+items/Kitty Skin 92	0	Almost mistaken for a slime.
+items/Kitty Skin 93	0	Contains the essence of everything in the world.
+items/Kitty Skin 94	0	Everything is reversed!
+items/Kitty Skin 95	0	Although very agile, it still can’t jump.
+items/Kitty Skin 96	0	It insists that aliens do not exist.
+items/Kitty Skin 97	0	It has an accent when meowing, likely from the west.
+items/Kitty Skin 98	0	Extremely heavy and rare.
+items/Kitty Skin 99	0	Highly creative, even grew an extra eye.
+items/Kitty Skin 79	0	Meow-hoo! It'll stop meowing if you give him a little snack.
+items/Toast Skin 76	0	Is it for eating or for looking at?
+items/Toast Skin 71	0	The characteristic is that it can absorb everything - M!N
+items/Toast Skin 72	0	The red is just jam - zippee
+items/Toast Skin 73	0	More inclined to team up with the black cat - Player Co-Creation
+items/Toast Skin 74	0	I think I heard something; it must be an illusion - Player Co-Creation
+items/Toast Skin 75	0	Finally found a way to touch it - 橘橙
+items/Toast Skin 70	0	ound next to the chimney
+items/Kitty Skin 77	0	Worshipped as a deity in a pasture, named "CATGOD RANCH"
+items/Kitty Skin 78	0	Appears when it snows, afraid of the cold, but disappears when it's hot
+items/Kitty Skin 75	0	Sadly, this mustached cat is too fat to climb up walls.
+items/Kitty Skin 76	0	I Am Cato Bot
+items/Toast Skin 68	0	Makes you feel super-sized.
+items/Toast Skin 69	0	The very powerful fifth generation.
+items/Kitty Skin 72	0	
+items/Kitty Skin 73	0	
+items/Kitty Skin 74	0	
+items/Toast Skin 65	0	
+items/Toast Skin 66	0	
+items/Toast Skin 67	0	
+items/Kitty Skin 71	0	The stretchy fabric makes the cat look slimmer. Huh? Does it?
+items/Toast Skin 64	0	No one knows what it's actually for, but it can cure migraines.
+items/Kitty Skin 70	0	Loves rummaging through trash. Not a cat, not a red panda - 待定系数法
+items/Toast Skin 58	0	Upside down, upside down—everything’s upside down - 白金之哈吉米
+items/Toast Skin 59	0	Perfectly shaped for a shield, but a little stinky - 待定系数法
+items/Toast Skin 60	0	A common sight in a programmer’s debug toolbox - Player Co-Creation
+items/Toast Skin 61	0	A donut floating on the water - Player Co-Creation
+items/Toast Skin 62	0	Not exactly the handiest grappling hook - FROG
+items/Toast Skin 63	0	A design that keeps cats nice and dry - 渝彦OwO
+items/Kitty Skin 69	0	It evolved a special slot on its back just for warming Toast - 渝彦OwO
+items/Kitty Skin 68	0	Needs to go out twice a day.
+items/Toast Skin 57	0	Likes milk that's been concentrated and dehydrated.
+dialogs/W01_L02_1	0	Is this place not ready yet?
+dialogs/T01	0	临时内容，不翻译
+dialogs/Unlock_Item_Default	0	临时内容，不翻译
+dialogs/B00_R01	0	It looks the same as always. So, why are we back here now?\n<kemoji=5>\n<camera_y=2><delay=0.8>\nLuckily, there's a teleporter here that can take us back anytime.\n<camera_y=0>
+dialogs/B00_R02	0	Finally, we can take a breather.\nDo you have any solid butter here?\nMy skin is feeling a bit dry.\n<kemoji=5>\n<camera_y=2><delay=0.8>\n<event="show W02 entrance">\nHuh? These things are starting to come back online.\nWe can check it out in a bit.\n<camera_y=0>
+dialogs/B00_R03	0	Haha! We've got the components!\n<camera_x=-48><delay=0.8>\nWe might be able to fix your Milk Machine now!\n<kemoji=11>\n<camera_x=0><camera_y=2><delay=0.8>\n<event="show W03 entrance">\nNext, we need the remaining two components.\n<camera_y=0>\n<kemoji=3>
+dialogs/B00_R04	0	Wow, it’s so dry here and making me uncomfortable.\n<kemoji=2>\n<camera_x=-48><delay=0.8>\nGood thing we’ll be fixing your machine soon.\nMake sure to get some more butter for me then.\n<camera_x=0><camera_y=2><delay=0.8>\n<event="show W04 entrance">\nLet’s take a break before heading out again!\n<camera_y=0>\n<kemoji=11>
+dialogs/B00_R05	0	What a long adventure. How long have we been gone?\n<kemoji=5>\nSorry, I forgot you don't have spoiled milk to keep track of time anymore.\nHow unfortunate.\n<camera_y=2><delay=0.8>\n<event="show W05 entrance">\nBut I think we’ll definitely find the last component here!\n<camera_y=0>\n<kemoji=11>
+dialogs/B00_R10	0	<camera_x=-48><delay=0.8>\nWe can use those machines to change our appearance.\n<kemoji=6>\nDon’t worry, it’s just a different look.\n<camera_x=0>
+dialogs/B00_R11	0	<camera_x=48><delay=0.8>\nYour old game console still works, right?\n<kemoji=3>\n<camera_x=0>
+dialogs/B01_S01	0	Is that piece of junk acting up again?\n<kemoji=2>\nNo milk, no butter!\nI need butter on my body!\n<kemoji=2>\nYeah... We must venture out again to find those darned components!\n<event="cato float tutorial">
+dialogs/W01_M01	0	<delay=0.5>\nDon't worry, I won't let any butter get on your fur.\n<kemoji=3>\nYour back isn't the floor anyways.\nIt's not going to trigger THE rule.\nAnd, it's very warm.
+dialogs/W01_M02	0	Did they make a statue of us?\n<kemoji=1>\nIt seems those rookies really look up to us.\nBut why haven't we ever met them?
+dialogs/W01_M03	0	<delay=1>\nIt gives me chills...\n<kemoji=4>\nI heard some toast got toasted in it...\n<kemoji=7>
+dialogs/W01_M04	0	Those are for the rookies.\nAre you still worrying about it?\n<kemoji=6>
+dialogs/W01_H01	0	I can't believe the old toasts actually worshiped this thing.\n<kemoji=3>\nDid they ever expect that you would come out the other end of it?
+dialogs/W01_H02	0	Did your ancestors really look like this?\n<kemoji=6>
+dialogs/W01_H03	0	I didn't expect that this place still exists.\n<kemoji=3>\nI admit, you were the one who got me out.\nBut I can't live without the butter from the Milk Machine either.\nYou only deserve half the credit.
+dialogs/W01_H04	0	It’s a shame, but your way home has disappeared...\n<kemoji=5>
+dialogs/W01_H05	0	Weird!\nThe flower looks exactly the same as it did the last time we saw it.\n<kemoji=1>
+dialogs/W02_S01	0	Here we are again.\nWhy is that path blocked now?\n<kemoji=3>\n<camera_x=20>\nNever mind. Perhaps we can find more components for the Milk Machine on this side.\n<camera_x=0>
+dialogs/W02_S02	0	He abandoned us.\nHe doesn't deserve a statue.\n<kemoji=3>
+dialogs/W02_S03	0	<delay=1>\nLooks like we're out of luck this time.
+dialogs/W02_S04	0	Lucky break!\n<event="collect boss 117">
+dialogs/W02_M01	0	How come there's another "me"?\nOr is it just that someone has the same name as me?\n<kemoji=3>
+dialogs/W02_M02	0	<kemoji=3>\nCongratulations!\nYou've escaped this beautiful cage.
+dialogs/W02_M03	0	That museum piece...\nWhere will it take us this time?\n<kemoji=3>
+dialogs/W02_H01	0	Unbelievable!\nSo we are food in other civilizations?\n<kemoji=3>
+dialogs/W02_H02	0	Until now,\nno toast has figured out the meaning of these things.\n<kemoji=3>
+dialogs/W02_H03	0	Interesting...\n<kemoji=3>
+dialogs/W02_H04	0	It looks familiar.\n<kemoji=3>
+dialogs/W02_H05	0	I'm glad I didn't become one of them.\n<kemoji=3>
+dialogs/W02_H06	0	How come there's milk here?\n<kemoji=1>
+dialogs/W02_H07	0	Something's off.\n<kemoji=1>
+dialogs/W02_H08	0	Who touched this bottle of milk?\n<kemoji=4>
+dialogs/W03_S01	0	I have a bad feeling about this.\n<kemoji=4>
+dialogs/W03_S02_P1	0	Wow!!!\n<kemoji=7>
+dialogs/W03_S02	0	It swallowed me!\nHelp!\n<kemoji=6>\n<event="W03 S02">
+dialogs/W03_S03	0	They took my body away!\n<kemoji=7>\nChase him down. I need to get it back!
+dialogs/W03_S04	0	We must find it!\n<kemoji=6>\nRemember the machine up ahead?\nWe'll have to use it to find a new body for now.
+dialogs/W03_S05	0	<camera_x=55>\nPiggyback Toast and fire up that machine!\n<camera_x=0>
+dialogs/W03_S06	0	<event="start the machine">\n<delay=1.5>\n<event="drop player toast">\n<delay=1>\nIt stole my body that I meticulously cared for with premium butter!\nYou'll kick its butt for me, right?\n<kemoji=6>
+dialogs/W03_S07	0	You’ll have to make do with these cloned bodies for now.\nI can't make use of these things until you find that machine.\nYou're on your own for now.\n<kemoji=2>
+dialogs/W03_M01	0	These bodies never treated with butter are so uncomfortable!\nOnce you fix the Milk Machine,\nmake sure to whip up some fine butter for me.\n<kemoji=3>
+dialogs/W03_M02	0	That's it!\nSpit out my body!\n<kemoji=6>\n<event="start boss 701">
+dialogs/W03_M03	0	Haha! I’m back!\n……\n<kemoji=4>\nMy body! It's ruined!\nI've never used a body slathered with such low-quality butter!\n<kemoji=4>\nYou're saying I lost my old body long ago?\nImpossible!\nI've always used the same body.
+dialogs/W03_M04	0	<camera_y=-10>\nLook! That’s my original body!\n<kemoji=4>\nOf course I can recognize it. How could I not recognize my own body?\n<kemoji=3>\n<camera_y=0>
+dialogs/W03_H01	0	These green things,\nthey're everywhere back home.\nWhy can they only grow in this stuff here?\nWe should bring him some good stuff next time.\n<kemoji=3>
+dialogs/W03_H02	0	This place looks dangerous.\nLet's get out of here now.\n<kemoji=6>
+dialogs/W03_H03	0	Something seems to have come to its mind...\nWhat exactly are those strange cats?\n<kemoji=1> (OS: Idk)
+dialogs/W03_H04	0	Make sure to go up and take a look next time.\n<kemoji=3>
+dialogs/W03_H05	0	We've got our poster and statue here!\n<kemoji=3>
+dialogs/W04_S01	0	<event="W04 begin Shatows">\n<delay=1.5>\nThere're more of them.\nWhat do they want?\n<kemoji=1>
+dialogs/W04_M01	0	They look a lot like you...\n<kemoji=1>
+dialogs/W04_M02	0	Wait a second, that's weird. It looks like there's something hiding inside.\n<kemoji=4>\n<event="W04 shatow end 1">\n<delay=1>\nIs he trying to trap us?\n<kemoji=6>
+dialogs/W04_M03	0	<event="W04 shatow end 2">\n<delay=2>\nWhat is that place?!
+dialogs/W04_M04	0	Where does it lead?\nIt looks very suspicious.\nShould we go in?\n<kemoji=6>\nYou're right!\nWe definitely have to go in!
+dialogs/W04_H01	0	It seems he no longer needs our plants...\n<kemoji=5>
+dialogs/W04_H02	0	What is this for?\n<kemoji=5>
+dialogs/W04_H03	0	What escaped from here?\n<kemoji=5>
+dialogs/W04_H04	0	Could that be our new home?\n<kemoji=5>
+dialogs/W04_H05	0	What are they looking for?\n<kemoji=5>
+dialogs/W05_S01	0	<event="W05 begin">\nThings look very unstable here.\n<kemoji=6>\nOf course.\nI won't leave\nuntil we find enough components.
+dialogs/W05_S02	0	I didn’t expect this.\nThe terminals here are equipped with such advanced neural chips.\n<kemoji=6>\nWatch out!\n<event="start boss 709">
+dialogs/W05_M01	0	That's ridiculous.\nCan cats fly without the toast nowadays?\n<kemoji=1>
+dialogs/W05_M02	0	Are we actually in the sky?!\nBut, it feels like we're falling!\n<kemoji=7>
+dialogs/W05_M03	0	I think if we don't leave now,\nwe'll fall right in.\n<kemoji=6>
+dialogs/W05_M04	0	What on earth is it thinking?\n<kemoji=1>\nHa! Exactly.\nIt wants to get into our machine,\nand produce better milk and butter for us!\n<event="W05 M04">
+dialogs/W05_M05	0	<event="W05 M05">\nWe’ve stopped falling!\n<kemoji=1>
+dialogs/W05_M06	0	Don't you want to know where this starship is heading?\n<kemoji=1>\nYou're right.\nWe must stock up on milk before hitting the road again.\n<event="W05 M06">
+dialogs/W05_H01	0	Someone is watching us...\n<kemoji=5>\nBut where exactly are they?
+dialogs/W05_H02	0	Is that the huge ship?\nLast time we saw it,\nits construction was not yet completed.\n<kemoji=1>
+dialogs/W05_H03	0	We might never run out of supplies now.\n<kemoji=1>\nYou're right.\nThese are all frozen goods.\nWe need to fix our own machine.
+dialogs/W05_H04	0	I don't remember us taking this photo.\n<kemoji=1>
+dialogs/W05_H05	0	What was that?!\n<kemoji=6>
+dialogs/W05_H06	0	Something's off here.\nIt's not us, for sure.\nWe're still alive after all.\n<kemoji=6>
+dialogs/B02_S01	0	Is that piece of junk acting up again?\n<kemoji=2>\nLet's go. Looks like we're in for another adventure!
+dialogs/SKIN_U01	0	That looks pretty good.
+dialogs/SKIN_U02	0	Aesthetics is a matter of subjectivity. What you like is the only thing that matters.
+dialogs/SKIN_U03	0	How about this one?
+dialogs/SKIN_U04	0	I hope we can get used to different styles.
+dialogs/SKIN_U05	0	You call this fashion? I haven't seen many cats, so don't fool me.
+dialogs/SKIN_U06	0	The toasts always said, “The next one will be better.”
+dialogs/SKIN_U07	0	Don’t forget to cut off the price tag.
+dialogs/SKIN_U08	0	I hope it keeps us warm. Who knows where we’ll end up?
+dialogs/SKIN_U09	0	Well, I admit, this one is actually nice.
+dialogs/SKIN_U10	0	Don’t worry, you’ll eventually find a style that suits you.
+dialogs/SKIN_U11	0	This won’t make your fur stiff, will it?
+dialogs/W01_SW01	0	Wait a minute! Is this…?\nHa! Maybe we’ll find something interesting!
+dialogs/W01_SW02	0	Wow! It looks like a flagship product!\n<swemoji=1>\n<kemoji=4>\nI’ve always dreamed of trying this out! Let’s give it a go!\n<kemoji=1>\n<event="show swap tutorial">
+dialogs/W01_SW03	0	Woohoo!
+dialogs/W01_SW04	0	Oh wow!\nBut, how should I put this... it feels a bit dizzying.\n<kemoji=5>\nCould it be because it's a prototype?\nIt might take a while to adapt myself.\n<swemoji=1>
+dialogs/W01_SW05	0	<swemoji=1>\nCool! I wish I could take it with me.\n<kemoji=3>\nAlright, maybe next time! See you!\n<swemoji=8>\nBut how did we get here, anyway...\n<kemoji=4>
+dialogs/SP_GMTK	0	GMTK! It's exactly the same model as my computer. Super smooth!\n<kemoji=4>\nDid you know? I’ve learned so much from using this computer.\n<kemoji=11>
+dialogs/SP_ROLLER_1	0	What a shame, we missed out on the rewards we deserved.\n<kemoji=2>\n<event="roller awards check end">
+dialogs/SP_ROLLER_2	0	Awesome! Should we check out what our prize is?\n<kemoji=1>\n<event="roller awards check end">
+dialogs/W03_M05	0	Wow, I never thought I’d have to use this machine someday.\n<kemoji=3>\nYeah, but I'm not comfortable in these cloned bodies.\nI can’t stand staying in one body for too long.\n<kemoji=4>\nDon’t worry, I’ll catch up.\n<kemoji=1>
+dialogs/B00_M01	0	Woohoo! Finally it works.
+dialogs/save share full version required	0	Please purchase the full version to use this feature.
+achievements/main title 01	0	Trigger Paradox
+achievements/main title 02	0	Delicious
+achievements/main title 03	0	Hello
+achievements/main title 04	0	More Than Puzzles?!
+achievements/main title 05	0	Fluid Dynamics
+achievements/main title 06	0	Cans
+achievements/main title 07	0	Who Are You?
+achievements/main title 08	0	Furnace
+achievements/main title 09	0	Try Again!
+achievements/main title 10	0	Near the Outer Atmosphere
+achievements/main title 11	0	Near the Thermosphere
+achievements/main title 12	0	Chip
+achievements/main title 13	0	Back To Work
+achievements/main title 14	0	New Species
+achievements/main title 15	0	Suit Up
+achievements/main title 16	0	You Rock!
+achievements/main title 17	0	Chest Ahead?
+achievements/main title 18	0	Where're You Flying to?
+achievements/main title 19	0	Let It Sleep, Please!
+achievements/main title 20	0	Treasure
+achievements/hidden title 01	0	How Did You Get in?!
+achievements/hidden title 02	0	YU4YANG2
+achievements/hidden title 03	0	Can‘t Touch This
+achievements/main desc 01	0	Combine Cat and Toast to take off.
+achievements/main desc 02	0	Enter the Toaster for the first time.
+achievements/main desc 03	0	Unlock Swappy.
+achievements/main desc 04	0	Complete Roller Coaster in W01.
+achievements/main desc 05	0	Accelerate the Cat.
+achievements/main desc 06	0	Defeat Boss in W02.
+achievements/main desc 07	0	Encounter with Shatow for the first time.
+achievements/main desc 08	0	Defeat Boss in W03.
+achievements/main desc 09	0	Complete Roller Coaster in W04.
+achievements/main desc 10	0	Complete one-third of W05.
+achievements/main desc 11	0	Complete two-thirds of W05.
+achievements/main desc 12	0	Defeat Boss in W05.
+achievements/main desc 13	0	Complete all side quests.
+achievements/main desc 14	0	Obtain the first skin.
+achievements/main desc 15	0	Equip a skin for the first time.
+achievements/main desc 16	0	Unlock all skin achievements.
+achievements/main desc 17	0	Trigger a hidden area for the first time.
+achievements/main desc 18	0	Spin CATO wildly until it lands and feels dizzy.
+achievements/main desc 19	0	Catch CATO snoring during idle animation.
+achievements/main desc 20	0	Find the GMTK hidden room.
+achievements/hidden desc 01	0	Enter the hidden room using glitches.
+achievements/hidden desc 02	0	Find the creator’s room.
+achievements/hidden desc 03	0	Complete all levels without skipping or using hints.
+promotion/FV Skins Hidden	0	Hidden in secret corners of levels
+promotion/FV 70 Skins	0	90 Skins
+promotion/FV Mini Games Unlock	0	Unlock as you progress
+promotion/purchase failed	0	Purchase couldn't be completed. Please try again.
+promotion/FV 7 Mini Games	0	8 Mini Games
+promotion/FV 200 Levels	0	200+ Levels
+promotion/FV 5 Worlds	0	5 Worlds
+promotion/FV Boss Fight	0	Plus Boss Fights!
+promotion/FV Unlock Full Version	0	Unlock Full Game
+promotion/Main Menu Unlock Full Version	0	Unlock Full Game
+promotion/mobile unlock full version price	0	Unlock Full Game·{localizedPriceString}
+promotion/restore purchases	0	Restore Purchases
+promotion/purchase canceled	0	Purchase canceled
+promotion/full version already owned	0	Full game already owned
+promotion/restore purchases failed	0	Failed to restore purchases
+promotion/restore purchases success	0	Purchases restored successfully
+promotion/purchase success	0	Purchase successful
+promotion/view ios app store	0	View on the iOS App Store
+promotion/click outside to close	0	Click outside to close
+promotion/review cato	0	Rate CATO!
+promotion/mobile launch announcement	0	CATO is now available on mobile! Take CATO with you wherever you go!\n\n- The same complete experience as the PC version\n- Accessibility options including slow motion, level skipping, and customizable on-screen controls\n- Supports major controllers and two-player co-op\n- Supports Game Center achievements
+promotion/view	0	View
+promotion/coming soon	0	Coming Soon
+promotion/merch	0	Merch
+promotion/mobile	0	Mobile
+promotion/board game	0	Board Game
+promotion/entitlement checking title	0	Checking purchase status
+promotion/entitlement checking body	0	Checking with the store to confirm whether you own the full game. Please wait.
+promotion/entitlement unavailable title	0	Unable to confirm purchase status
+promotion/entitlement unavailable body	0	Check your network connection and try again. If you already own the full game, you can enter after verification succeeds.
+promotion/entitlement retry	0	Retry
+skin names/Kitty Skin 69	0	KaCa2
+skin names/Kitty Skin 70	0	WNTD
+skin names/Toast Skin 58	0	SIOλλ
+skin names/Toast Skin 59	0	L1D
+skin names/Toast Skin 60	0	QUK
+skin names/Toast Skin 61	0	O2O
+skin names/Toast Skin 62	0	M1Ss
+skin names/Toast Skin 63	0	U.C.kid
+skin names/Kitty Skin 0	0	
+skin names/Kitty Skin 1	0	
+skin names/Kitty Skin 10	0	
+skin names/Kitty Skin 2	0	
+skin names/Kitty Skin 3	0	
+skin names/Kitty Skin 4	0	
+skin names/Kitty Skin 50	0	
+skin names/Kitty Skin 51	0	
+skin names/Kitty Skin 79	0	
+skin names/Kitty Skin 80	0	
+skin names/Kitty Skin 81	0	
+skin names/Kitty Skin 82	0	
+skin names/Kitty Skin 83	0	
+skin names/Kitty Skin 84	0	
+skin names/Kitty Skin 85	0	
+skin names/Kitty Skin 86	0	
+skin names/Kitty Skin 87	0	
+skin names/Kitty Skin 88	0	
+skin names/Kitty Skin 89	0	
+skin names/Kitty Skin 9	0	
+skin names/Kitty Skin 90	0	
+skin names/Kitty Skin 91	0	
+skin names/Kitty Skin 92	0	
+skin names/Kitty Skin 93	0	
+skin names/Kitty Skin 94	0	
+skin names/Kitty Skin 95	0	
+skin names/Kitty Skin 96	0	
+skin names/Kitty Skin 97	0	
+skin names/Kitty Skin 98	0	
+skin names/Kitty Skin 99	0	
+skin names/Toast Skin 0	0	
+skin names/Toast Skin 1	0	
+skin names/Toast Skin 10	0	
+skin names/Toast Skin 11	0	
+skin names/Toast Skin 12	0	
+skin names/Toast Skin 2	0	
+skin names/Toast Skin 3	0	
+skin names/Toast Skin 4	0	
+skin names/Toast Skin 71	0	
+skin names/Toast Skin 72	0	
+skin names/Toast Skin 73	0	
+skin names/Toast Skin 74	0	
+skin names/Toast Skin 75	0	
+skin names/Toast Skin 76	0	
+skin names/Toast Skin 77	0	
+skin names/Toast Skin 78	0	
+skin names/Toast Skin 79	0	
+skin names/Toast Skin 80	0	
+skin names/Toast Skin 81	0	
+skin names/Toast Skin 82	0	
+skin names/Toast Skin 83	0	
+skin names/Toast Skin 84	0	
+skin names/Toast Skin 85	0	
+skin names/Toast Skin 86	0	
+skin names/Toast Skin 87	0	
+skin names/Toast Skin 88	0	
+skin names/Toast Skin 89	0	
+skin names/Toast Skin 90	0	
+skin names/Toast Skin 91	0	
+skin names/Toast Skin 92	0	
+skin names/Toast Skin 93	0	
+skin names/Toast Skin 94	0	
+skin names/Toast Skin 95	0	
+skin names/Toast Skin 96	0	
+skin names/Toast Skin 97	0	
+skin names/Toast Skin 98	0	
+skin names/Toast Skin 99	0	
+skin names/Toast Skin 70	0	
+skin names/Kitty Skin 77	0	
+skin names/Kitty Skin 78	0	
+skin names/Kitty Skin 75	0	
+skin names/Kitty Skin 76	0	
+skin names/Toast Skin 68	0	
+skin names/Toast Skin 69	0	
+skin names/Kitty Skin 72	0	
+skin names/Kitty Skin 73	0	
+skin names/Kitty Skin 74	0	
+skin names/Toast Skin 65	0	
+skin names/Toast Skin 66	0	
+skin names/Toast Skin 67	0	
+skin names/Kitty Skin 71	0	
+skin names/Toast Skin 64	0	
+skin names/Kitty Skin 68	0	W00F2
+skin names/Toast Skin 57	0	H4M

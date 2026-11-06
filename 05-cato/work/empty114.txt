@@ -1,0 +1,115 @@
+main menu/show taptap achievements	||EN||	||ZH||显示 TapTap 成就
+main menu/view on taptap	||EN||	||ZH||前往 TapTap 查看
+game settings/ally force show touch desc	||EN||	||ZH||
+game settings/taptap cloud save upload success rich	||EN||	||ZH||<size=115%><b>TapTap 云存档上传成功</b></size>
+game settings/taptap cloud save restore success rich	||EN||	||ZH||<size=115%><b>TapTap 云存档恢复成功</b></size>
+game settings/taptap cloud save manual rich	||EN||	||ZH||<size=115%><b>TapTap 云存档（手动）</b></size>
+game settings/cloud save upload success rich	||EN||	||ZH||<size=115%><b>云存档上传成功</b></size>
+game settings/cloud save restore success rich	||EN||	||ZH||<size=115%><b>云存档恢复成功</b></size>
+game settings/cloud save manual rich	||EN||	||ZH||<size=115%><b>云存档（手动）</b></size>
+game settings/taptap cloud save	||EN||	||ZH||TapTap 云存档
+game settings/cloud save uploading	||EN||	||ZH||正在上传存档...
+game settings/cloud save formatted update time	||EN||	||ZH||云端存档更新时间：{FormatCloudUpdateTime(archive, bundle)}
+game settings/real name verification	||EN||	||ZH||实名认证
+game settings/real name verification start failed	||EN||	||ZH||实名认证启动失败，请稍后重试。
+game settings/delete account	||EN||	||ZH||注销账号
+game settings/logout taptap account	||EN||	||ZH||登出 TapTap 账号
+game settings/exit real name verification	||EN||	||ZH||退出实名认证
+game settings/clear real name data	||EN||	||ZH||清除实名信息
+game settings/clear real name data explanation	||EN||	||ZH||此操作会退出当前实名认证状态，并清除本设备上的实名认证入口数据。 /  / 你的 App Store 购买记录不会被取消，已购买内容可通过“恢复购买”重新启用。 /  / 清除后再次选择手动实名时，需要重新完成实名认证流程。
+game settings/clear real name data confirmation	||EN||	||ZH||清除实名信息？
+game settings/real name verification start failed detail	||EN||	||ZH||实名认证启动失败：{detail}
+game settings/payment processing	||EN||	||ZH||支付处理中
+game settings/payment error	||EN||	||ZH||支付异常
+game settings/payment restriction check failed	||EN||	||ZH||支付限制校验失败，请检查网络后重试。
+game settings/payment temporarily unavailable	||EN||	||ZH||暂时无法支付
+game settings/payment incomplete	||EN||	||ZH||未完成支付
+instructions/drink milk	||EN||	||ZH||喝牛奶<action="interact">
+items/Kitty Skin 72	||EN||	||ZH||编号 72 - 它的原名超级难拼
+items/Kitty Skin 73	||EN||	||ZH||编号 73 - 只是把爪子藏起来了，应该是这样的
+items/Kitty Skin 74	||EN||	||ZH||编号 74 - 仔细看，是胖了不少
+items/Toast Skin 65	||EN||	||ZH||编号 65 - 非常有意思的危险物品
+items/Toast Skin 66	||EN||	||ZH||编号 66 - 作为对猫的限制器被设计出来的样式
+items/Toast Skin 67	||EN||	||ZH||编号 67 - 生日快乐
+skin names/Kitty Skin 0	||EN||	||ZH||芝麻糊
+skin names/Kitty Skin 1	||EN||	||ZH||三花
+skin names/Kitty Skin 10	||EN||	||ZH||米饭
+skin names/Kitty Skin 2	||EN||	||ZH||大橘为重
+skin names/Kitty Skin 3	||EN||	||ZH||汤姆
+skin names/Kitty Skin 4	||EN||	||ZH||丧彪
+skin names/Kitty Skin 50	||EN||	||ZH||脏脏包
+skin names/Kitty Skin 51	||EN||	||ZH||逻辑
+skin names/Kitty Skin 79	||EN||	||ZH||幽幽
+skin names/Kitty Skin 80	||EN||	||ZH||主播
+skin names/Kitty Skin 81	||EN||	||ZH||拼好猫
+skin names/Kitty Skin 82	||EN||	||ZH||斯科特
+skin names/Kitty Skin 83	||EN||	||ZH||小玉
+skin names/Kitty Skin 84	||EN||	||ZH||吐司
+skin names/Kitty Skin 85	||EN||	||ZH||风火轮
+skin names/Kitty Skin 86	||EN||	||ZH||坍缩
+skin names/Kitty Skin 87	||EN||	||ZH||吉姆提凯
+skin names/Kitty Skin 88	||EN||	||ZH||阿几
+skin names/Kitty Skin 89	||EN||	||ZH||喵花糖
+skin names/Kitty Skin 9	||EN||	||ZH||深渊
+skin names/Kitty Skin 90	||EN||	||ZH||喵冰
+skin names/Kitty Skin 91	||EN||	||ZH||邦邦
+skin names/Kitty Skin 92	||EN||	||ZH||绿舌头
+skin names/Kitty Skin 93	||EN||	||ZH||以太
+skin names/Kitty Skin 94	||EN||	||ZH||糊麻芝
+skin names/Kitty Skin 95	||EN||	||ZH||铅球
+skin names/Kitty Skin 96	||EN||	||ZH||哔哔啵
+skin names/Kitty Skin 97	||EN||	||ZH||牛仔
+skin names/Kitty Skin 98	||EN||	||ZH||金并
+skin names/Kitty Skin 99	||EN||	||ZH||暴造喵
+skin names/Toast Skin 0	||EN||	||ZH||吐司
+skin names/Toast Skin 1	||EN||	||ZH||番茄
+skin names/Toast Skin 10	||EN||	||ZH||草莓
+skin names/Toast Skin 11	||EN||	||ZH||夏天
+skin names/Toast Skin 12	||EN||	||ZH||骑士
+skin names/Toast Skin 2	||EN||	||ZH||巧克力
+skin names/Toast Skin 3	||EN||	||ZH||花生酱
+skin names/Toast Skin 4	||EN||	||ZH||抹茶
+skin names/Toast Skin 71	||EN||	||ZH||皮搋子
+skin names/Toast Skin 72	||EN||	||ZH||刀
+skin names/Toast Skin 73	||EN||	||ZH||女巫帽
+skin names/Toast Skin 74	||EN||	||ZH||箱子
+skin names/Toast Skin 75	||EN||	||ZH||手机
+skin names/Toast Skin 76	||EN||	||ZH||南瓜
+skin names/Toast Skin 77	||EN||	||ZH||金币
+skin names/Toast Skin 78	||EN||	||ZH||月饼
+skin names/Toast Skin 79	||EN||	||ZH||耳机
+skin names/Toast Skin 80	||EN||	||ZH||猫
+skin names/Toast Skin 81	||EN||	||ZH||蝴蝶结
+skin names/Toast Skin 82	||EN||	||ZH||小鲨鱼
+skin names/Toast Skin 83	||EN||	||ZH||蒜
+skin names/Toast Skin 84	||EN||	||ZH||汉堡包
+skin names/Toast Skin 85	||EN||	||ZH||龟壳
+skin names/Toast Skin 86	||EN||	||ZH||锅
+skin names/Toast Skin 87	||EN||	||ZH||磁铁
+skin names/Toast Skin 88	||EN||	||ZH||拖鞋
+skin names/Toast Skin 89	||EN||	||ZH||真吐司
+skin names/Toast Skin 90	||EN||	||ZH||围脖
+skin names/Toast Skin 91	||EN||	||ZH||大星
+skin names/Toast Skin 92	||EN||	||ZH||可颂
+skin names/Toast Skin 93	||EN||	||ZH||牛排
+skin names/Toast Skin 94	||EN||	||ZH||反物质
+skin names/Toast Skin 95	||EN||	||ZH||骑士帽
+skin names/Toast Skin 96	||EN||	||ZH||飞碟
+skin names/Toast Skin 97	||EN||	||ZH||彩虹
+skin names/Toast Skin 98	||EN||	||ZH||黄金
+skin names/Toast Skin 99	||EN||	||ZH||盖帽
+skin names/Toast Skin 70	||EN||	||ZH||圣诞帽
+skin names/Kitty Skin 77	||EN||	||ZH||猫神
+skin names/Kitty Skin 78	||EN||	||ZH||雪后
+skin names/Kitty Skin 75	||EN||	||ZH||猫力奥
+skin names/Kitty Skin 76	||EN||	||ZH||机器猫
+skin names/Toast Skin 68	||EN||	||ZH||大红菇
+skin names/Toast Skin 69	||EN||	||ZH||摇杆
+skin names/Kitty Skin 72	||EN||	||ZH||毛毛虫
+skin names/Kitty Skin 73	||EN||	||ZH||猫猫虫
+skin names/Kitty Skin 74	||EN||	||ZH||一周岁
+skin names/Toast Skin 65	||EN||	||ZH||炸弹
+skin names/Toast Skin 66	||EN||	||ZH||瓷杯
+skin names/Toast Skin 67	||EN||	||ZH||皇冠
+skin names/Kitty Skin 71	||EN||	||ZH||潜水版
+skin names/Toast Skin 64	||EN||	||ZH||氧气罐
