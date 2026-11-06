@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/tapad_ad_logo_icon"
+        android:layout_width="10dp"
+        android:layout_height="8dp"
+        android:src="@drawable/tapad_ic_lava_mini"
+        android:tint="@color/tapad_logo_color"/>
+    <TextView
+        android:textSize="10dp"
+        android:textColor="@color/tapad_logo_color"
+        android:id="@+id/tapad_ad_logo_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="广告"/>
+    <TextView
+        android:textSize="10dp"
+        android:textColor="@color/tapad_logo_color"
+        android:id="@+id/tapad_app_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:layout_weight="1"
+        android:layout_marginStart="8dp"/>
+    <ImageView
+        android:id="@+id/tapad_close_icon"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:src="@drawable/tapad_ic_close"
+        android:tint="@color/tapad_logo_color"/>
+</LinearLayout>

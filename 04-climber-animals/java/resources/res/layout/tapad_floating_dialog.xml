@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tapadFloatingDialog"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_gravity="bottom|center_horizontal"
+        android:id="@+id/bottomFrameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_alignParentBottom="true">
+        <com.tapsdk.tapad.internal.ui.views.banner.FloatBottomPortraitBannerView
+            android:id="@+id/bottomBannerView"
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:layout_alignParentBottom="true"/>
+        <com.tapsdk.tapad.internal.ui.views.banner.FloatBottomLandscapeBannerView
+            android:id="@+id/landscapeBottomBannerView"
+            android:layout_width="320dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentEnd="true"/>
+        <ImageView
+            android:layout_gravity="right"
+            android:id="@+id/closeButton"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_marginTop="6dp"
+            android:src="@drawable/tapad_ic_close"
+            android:scaleType="centerInside"
+            android:layout_alignParentTop="true"
+            android:layout_marginEnd="6dp"
+            android:layout_alignParentEnd="true"/>
+    </RelativeLayout>
+</RelativeLayout>

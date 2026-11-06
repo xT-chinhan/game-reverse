@@ -1,0 +1,143 @@
+package com.bytedance.embedapplog;
+
+import android.os.Binder;
+import android.os.IBinder;
+import android.os.IInterface;
+import android.os.Parcel;
+
+/* JADX INFO: loaded from: classes2.dex */
+public interface tk extends IInterface {
+    void ms(int i, long j, boolean z, float f, double d, String str);
+
+    void ms(z zVar);
+
+    void xr(z zVar);
+
+    public static abstract class ms extends Binder implements tk {
+        public static tk ms(IBinder iBinder) {
+            if (iBinder == null) {
+                return null;
+            }
+            IInterface iInterfaceQueryLocalInterface = iBinder.queryLocalInterface(com.anythink.odopt.a.a.j.a);
+            if (iInterfaceQueryLocalInterface != null && (iInterfaceQueryLocalInterface instanceof tk)) {
+                return (tk) iInterfaceQueryLocalInterface;
+            }
+            return new C0209ms(iBinder);
+        }
+
+        @Override // android.os.Binder
+        public boolean onTransact(int i, Parcel parcel, Parcel parcel2, int i2) {
+            if (i == 1) {
+                parcel.enforceInterface(com.anythink.odopt.a.a.j.a);
+                ms(parcel.readInt(), parcel.readLong(), parcel.readInt() != 0, parcel.readFloat(), parcel.readDouble(), parcel.readString());
+                parcel2.writeNoException();
+                return true;
+            }
+            if (i == 2) {
+                parcel.enforceInterface(com.anythink.odopt.a.a.j.a);
+                ms(z.ms.ms(parcel.readStrongBinder()));
+                parcel2.writeNoException();
+                return true;
+            }
+            if (i != 3) {
+                if (i == 1598968902) {
+                    parcel2.writeString(com.anythink.odopt.a.a.j.a);
+                    return true;
+                }
+                return super.onTransact(i, parcel, parcel2, i2);
+            }
+            parcel.enforceInterface(com.anythink.odopt.a.a.j.a);
+            xr(z.ms.ms(parcel.readStrongBinder()));
+            parcel2.writeNoException();
+            return true;
+        }
+
+        /* JADX INFO: renamed from: com.bytedance.embedapplog.tk$ms$ms, reason: collision with other inner class name */
+        static class C0209ms implements tk {
+
+            /* JADX INFO: renamed from: ms, reason: collision with root package name */
+            public static tk f528ms;
+            private IBinder xr;
+
+            C0209ms(IBinder iBinder) {
+                this.xr = iBinder;
+            }
+
+            @Override // android.os.IInterface
+            public IBinder asBinder() {
+                return this.xr;
+            }
+
+            @Override // com.bytedance.embedapplog.tk
+            public void ms(int i, long j, boolean z, float f, double d, String str) throws Throwable {
+                Parcel parcelObtain = Parcel.obtain();
+                Parcel parcelObtain2 = Parcel.obtain();
+                try {
+                    parcelObtain.writeInterfaceToken(com.anythink.odopt.a.a.j.a);
+                    parcelObtain.writeInt(i);
+                    parcelObtain.writeLong(j);
+                    parcelObtain.writeInt(z ? 1 : 0);
+                    parcelObtain.writeFloat(f);
+                    parcelObtain.writeDouble(d);
+                    parcelObtain.writeString(str);
+                    try {
+                        if (!this.xr.transact(1, parcelObtain, parcelObtain2, 0) && ms.ms() != null) {
+                            ms.ms().ms(i, j, z, f, d, str);
+                        } else {
+                            parcelObtain2.readException();
+                        }
+                        parcelObtain2.recycle();
+                        parcelObtain.recycle();
+                    } catch (Throwable th) {
+                        th = th;
+                        parcelObtain2.recycle();
+                        parcelObtain.recycle();
+                        throw th;
+                    }
+                } catch (Throwable th2) {
+                    th = th2;
+                }
+            }
+
+            @Override // com.bytedance.embedapplog.tk
+            public void ms(z zVar) {
+                Parcel parcelObtain = Parcel.obtain();
+                Parcel parcelObtain2 = Parcel.obtain();
+                try {
+                    parcelObtain.writeInterfaceToken(com.anythink.odopt.a.a.j.a);
+                    parcelObtain.writeStrongBinder(zVar != null ? zVar.asBinder() : null);
+                    if (!this.xr.transact(2, parcelObtain, parcelObtain2, 0) && ms.ms() != null) {
+                        ms.ms().ms(zVar);
+                    } else {
+                        parcelObtain2.readException();
+                    }
+                } finally {
+                    parcelObtain2.recycle();
+                    parcelObtain.recycle();
+                }
+            }
+
+            @Override // com.bytedance.embedapplog.tk
+            public void xr(z zVar) {
+                Parcel parcelObtain = Parcel.obtain();
+                Parcel parcelObtain2 = Parcel.obtain();
+                try {
+                    parcelObtain.writeInterfaceToken(com.anythink.odopt.a.a.j.a);
+                    parcelObtain.writeStrongBinder(zVar != null ? zVar.asBinder() : null);
+                    if (!this.xr.transact(3, parcelObtain, parcelObtain2, 0) && ms.ms() != null) {
+                        ms.ms().xr(zVar);
+                    } else {
+                        parcelObtain2.readException();
+                    }
+                } finally {
+                    parcelObtain2.recycle();
+                    parcelObtain.recycle();
+                }
+            }
+        }
+
+        public static tk ms() {
+            return C0209ms.f528ms;
+        }
+    }
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/tapad_feedAdVideoContainerView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/coverImageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"/>
+    <FrameLayout
+        android:id="@+id/videoBlackFrameLayout"
+        android:background="@android:color/black"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <com.tapsdk.tapad.internal.ui.views.FixedAspectRatioFrameLayout
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:tapad_aspectRatioHeight="9"
+            app:tapad_aspectRatioWidth="16">
+            <TextureView
+                android:layout_gravity="center"
+                android:id="@+id/feedAdVideoView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+            <ImageView
+                android:layout_gravity="bottom|right"
+                android:id="@+id/feedVolumeImageView"
+                android:background="@drawable/tapad_bg_mediaplayer_audio"
+                android:layout_width="36dp"
+                android:layout_height="36dp"
+                android:layout_marginBottom="8dp"
+                android:src="@drawable/tapad_ic_audio_open"
+                android:scaleType="centerInside"
+                android:layout_marginEnd="8dp"/>
+        </com.tapsdk.tapad.internal.ui.views.FixedAspectRatioFrameLayout>
+    </FrameLayout>
+</merge>

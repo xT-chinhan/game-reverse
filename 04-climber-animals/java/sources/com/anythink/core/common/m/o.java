@@ -1,0 +1,20 @@
+package com.anythink.core.common.m;
+
+/* JADX INFO: loaded from: classes.dex */
+public final class o {
+    public static final int a = -1000;
+    public static final int b = -1001;
+    public static final int c = -1002;
+    public static final int d = -1003;
+    public static final int e = -1004;
+    public static final int f = -1005;
+    public static final int g = -1006;
+    public static final int h = -1007;
+    public static final int i = -1008;
+    public static final int j = -9998;
+    public static final int k = -9999;
+    public static final int l = -10000;
+    public static final int m = -10001;
+    public static final int n = -10002;
+    public static final int o = -99999;
+}

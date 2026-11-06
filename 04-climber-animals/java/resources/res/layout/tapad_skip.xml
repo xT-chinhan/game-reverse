@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:id="@+id/rewardSkipLinearLayout"
+    android:background="@drawable/tapad_bg_reward_round_corner18dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="14dp"
+    android:paddingStart="18dp"
+    android:paddingEnd="18dp"
+    android:layout_marginEnd="16dp"
+    android:layout_alignParentEnd="true">
+    <TextView
+        android:textStyle="bold"
+        android:textColor="@color/tapad_popup_color_white"
+        android:gravity="center"
+        android:id="@+id/skipTextView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/tapad_btn_close"
+        android:singleLine="true"/>
+</LinearLayout>

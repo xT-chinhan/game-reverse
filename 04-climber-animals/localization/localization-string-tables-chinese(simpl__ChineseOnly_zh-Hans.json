@@ -1,0 +1,1603 @@
+{
+ "m_GameObject": {
+  "m_FileID": 0,
+  "m_PathID": 0
+ },
+ "m_Enabled": 1,
+ "m_Script": {
+  "m_FileID": 0,
+  "m_PathID": -2378050947708348859
+ },
+ "m_Name": "ChineseOnly_zh-Hans",
+ "m_LocaleId": {
+  "m_Code": "zh-Hans"
+ },
+ "m_SharedData": {
+  "m_FileID": 1,
+  "m_PathID": 3275894210751323116
+ },
+ "m_Metadata": {
+  "m_Items": []
+ },
+ "m_TableData": [
+  {
+   "m_Id": 1780195807232,
+   "m_Localized": "借金币",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 1780204195840,
+   "m_Localized": "日常工作",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 1780204195841,
+   "m_Localized": "成双成对",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 1780204195842,
+   "m_Localized": "三连",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 1780204195843,
+   "m_Localized": "苹果树",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 1780204195844,
+   "m_Localized": "速配",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 1780204195845,
+   "m_Localized": "好运喵喵",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 1780204195846,
+   "m_Localized": "放手一搏",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 1780204195847,
+   "m_Localized": "沙中埋钱",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 1780204195848,
+   "m_Localized": "挠挠我的背",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 1780204195849,
+   "m_Localized": "蛇眼",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 1780204195850,
+   "m_Localized": "炸弹",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 1780204195851,
+   "m_Localized": "干票大的",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 1780204195852,
+   "m_Localized": "圣诞节倒计时",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 1780204195853,
+   "m_Localized": "旧货店",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 1780204195854,
+   "m_Localized": "采摘浆果",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 1780204195855,
+   "m_Localized": "不给糖就捣蛋",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 1780204195856,
+   "m_Localized": "机器",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 1780204195857,
+   "m_Localized": "去月球",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 1780204195858,
+   "m_Localized": "加速包",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 1780204195859,
+   "m_Localized": "超级日常工作",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 14862129319936,
+   "m_Localized": "机器",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 14862133514240,
+   "m_Localized": "运气",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 14862133514241,
+   "m_Localized": "范围",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 14862133514242,
+   "m_Localized": "锡",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 14862133514243,
+   "m_Localized": "铝",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 14862133514244,
+   "m_Localized": "铜",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 14862133514245,
+   "m_Localized": "青铜",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 14862133514246,
+   "m_Localized": "铁",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 14862133514247,
+   "m_Localized": "钢",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 14862133514248,
+   "m_Localized": "钛",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 14862133514249,
+   "m_Localized": "钨",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 14862133514250,
+   "m_Localized": "垃圾桶",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 14862133514251,
+   "m_Localized": "机器人",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 14862133514252,
+   "m_Localized": "机器人速度",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 14862133514253,
+   "m_Localized": "机器人容量",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 14862133514254,
+   "m_Localized": "机器人强度",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 14862133514255,
+   "m_Localized": "风扇",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 14862133514256,
+   "m_Localized": "风扇转速",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 14862133514257,
+   "m_Localized": "风扇电池",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 14862133514258,
+   "m_Localized": "粘性垫",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 14862133514259,
+   "m_Localized": "徽章收藏",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 14862133514260,
+   "m_Localized": "蒙多",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 14862133514261,
+   "m_Localized": "蒙多速度",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 14862133514262,
+   "m_Localized": "法术书",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 14862133514263,
+   "m_Localized": "法术充能速度",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 14862133514264,
+   "m_Localized": "订阅机器人",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 14862133514265,
+   "m_Localized": "购买速度",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 14862133514266,
+   "m_Localized": "煮蛋计时器",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 14862133514267,
+   "m_Localized": "计时器容量",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 14862133514268,
+   "m_Localized": "计时器充能",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 14862133514269,
+   "m_Localized": "曲速速度",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094577197056,
+   "m_Localized": "Challenges",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391360,
+   "m_Localized": "Unlock challenges to make the game harder",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391361,
+   "m_Localized": "夜市",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391362,
+   "m_Localized": "可在夜市消费代币",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391363,
+   "m_Localized": "新手包",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391364,
+   "m_Localized": "初始拥有机器人",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391365,
+   "m_Localized": "幸运之力",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391366,
+   "m_Localized": "+1 JP",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391367,
+   "m_Localized": "工具腰带",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391368,
+   "m_Localized": "初始拥有{y}",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391369,
+   "m_Localized": "白手起家",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391370,
+   "m_Localized": "手动收益+20%",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391371,
+   "m_Localized": "加速包",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391372,
+   "m_Localized": "机器人拥有更高的初始容量、力量与速度",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391373,
+   "m_Localized": "回收",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391374,
+   "m_Localized": "把好运卡扔进垃圾桶可获得 3 经验值",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391375,
+   "m_Localized": "少就是多",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391376,
+   "m_Localized": "没中的卡牌收益+30%",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391377,
+   "m_Localized": "无知是福",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391378,
+   "m_Localized": "每有一个处理的图案，收益+10%",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391379,
+   "m_Localized": "大赢家",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391380,
+   "m_Localized": "大奖励+15%",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391381,
+   "m_Localized": "完美主义者",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391382,
+   "m_Localized": "完全打开的卡牌的收益+20%",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391383,
+   "m_Localized": "电扇",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391384,
+   "m_Localized": "为你的风扇加装电池，可以运行更长的时间",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391385,
+   "m_Localized": "清洁狂",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391386,
+   "m_Localized": "每次升级时，日常工作的收益+20%",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391387,
+   "m_Localized": "智能投资",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391388,
+   "m_Localized": "每有一个卡牌等级，收益+10%",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391389,
+   "m_Localized": "实践学习",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391390,
+   "m_Localized": "手动打开卡牌可获得 3 经验值",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391391,
+   "m_Localized": "空调",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391392,
+   "m_Localized": "初始拥有风扇",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391393,
+   "m_Localized": "宠物爱好者",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391394,
+   "m_Localized": "初始拥有蒙多",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391395,
+   "m_Localized": "洗碗机",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391396,
+   "m_Localized": "机器人可以洗盘子",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391397,
+   "m_Localized": "魔法",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391398,
+   "m_Localized": "初始拥有法术书",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391399,
+   "m_Localized": "购物狂",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391400,
+   "m_Localized": "可以批量购买卡牌",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391401,
+   "m_Localized": "退金币",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391402,
+   "m_Localized": "5%的几率会发放一张新的卡牌，补偿作废的卡",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391403,
+   "m_Localized": "柔软之手",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391404,
+   "m_Localized": "打碎盘子的概率减少20%",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391405,
+   "m_Localized": "收藏家",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391406,
+   "m_Localized": "桌子上每有一种不同的卡牌，收益+5%",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391407,
+   "m_Localized": "大债主",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391408,
+   "m_Localized": "获得金币会乘以你的借金币数量",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391409,
+   "m_Localized": "经验丰富",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391410,
+   "m_Localized": "将卡牌的最大等级提升10级",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391411,
+   "m_Localized": "挑食者",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391412,
+   "m_Localized": "蒙多会丢弃不好的卡牌",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391413,
+   "m_Localized": "完全自动化",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391414,
+   "m_Localized": "初始拥有订阅机器人",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391415,
+   "m_Localized": "精致餐饮",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391416,
+   "m_Localized": "在日常工作中增加“幸运卡”和“超级幸运卡”",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391417,
+   "m_Localized": "与众不同",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391418,
+   "m_Localized": "升级所需经验值减少15%",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391419,
+   "m_Localized": "Hotkeys",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391420,
+   "m_Localized": "Claim reward: {claimButton}\nTrash ticket: {trashButton}\nMulti Buy: {multiBuyButtons}\nUse spell: {spellButton}",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391421,
+   "m_Localized": "盘子大师5000",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391422,
+   "m_Localized": "日常工作没有等级上限，升级速度是原来的两倍",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391423,
+   "m_Localized": "肌肉记忆",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391424,
+   "m_Localized": "死亡一次后永久解锁\n\n所有卡牌收益+25%",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391425,
+   "m_Localized": "补助金",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391426,
+   "m_Localized": "死亡两次后永久解锁\n\n初始金额为 100",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391427,
+   "m_Localized": "超级幸运",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391428,
+   "m_Localized": "死亡三次后永久解锁\n\n提高超级幸运卡的几率",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391429,
+   "m_Localized": "时间旅行",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 29094581391430,
+   "m_Localized": "死亡四次后永久解锁\n\n初始拥有煮蛋计时器",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 349476991553536,
+   "m_Localized": "借一笔贷款",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 349476991553537,
+   "m_Localized": "挣得不多，都是辛苦钱",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 349476991553538,
+   "m_Localized": "获得一对即可获胜",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 349476991553539,
+   "m_Localized": "获得三个相同图案即可获胜",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 349476991553540,
+   "m_Localized": "每获得一个苹果都有钱拿，但要小心有虫",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 349476991553541,
+   "m_Localized": "获得三个相同图案即可获胜",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 349476991553542,
+   "m_Localized": "当心鱼刺",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 349476991553543,
+   "m_Localized": "赢得一切的机会！",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 349476991553544,
+   "m_Localized": "沙里淘金，获得三个相同图案即可获胜",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 349476991553545,
+   "m_Localized": "喂养海龟，它最喜欢的食物是水母，小心哦，塑料袋看起来很像水母",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 349476991553546,
+   "m_Localized": "将眼睛的数量与这种骰子相匹配，避开1点",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 349476991553547,
+   "m_Localized": "获得两个灯即可获胜！",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 349476991553548,
+   "m_Localized": "闯入银行保险库，看看里面有什么",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 349476991553549,
+   "m_Localized": "距离圣诞节还有24天。获得相同符号即可获胜！你今年过得还好吗？",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 349476991553550,
+   "m_Localized": "在时装俱乐部里能淘到哪些时尚宝贝？可别把虫子带回家！",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 349476991553551,
+   "m_Localized": "采摘美味的浆果，还能获得倍率，获得超多奖品，但要小心别让虫子咬坏了！",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 349476991553552,
+   "m_Localized": "找出最适合分享的糖果。获得两个相同图案即可获胜",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 349476991553553,
+   "m_Localized": "获得三个相同栏位即可获得奖励，获得三个相同倍率还能更进一步！",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 349476991553554,
+   "m_Localized": "是时候在大赚一笔了，但要小心可能出现的市场崩盘",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 349476991553555,
+   "m_Localized": "获取最稀有的卡牌，并将它们与闪亮卡牌组合起来",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 362130380443648,
+   "m_Localized": "耐久度：{x}",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 762118210080768,
+   "m_Localized": "借金币 #{x}",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 762963404279808,
+   "m_Localized": "收获减少",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 762963404279809,
+   "m_Localized": "你的收获减少了{x}%",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 762963404279810,
+   "m_Localized": "卡牌价格增加",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 762963404279811,
+   "m_Localized": "卡牌价格增加{x}% ",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 762963404279812,
+   "m_Localized": "抽卡范围减小",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 762963404279813,
+   "m_Localized": "你的抽卡范围减小了{x}",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 762963404279814,
+   "m_Localized": "机器人变慢",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 762963404279815,
+   "m_Localized": "机器人的速度减少{x}%",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 762963404279816,
+   "m_Localized": "错误发货",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 762963404279817,
+   "m_Localized": "每 {x} 张卡牌中有 1 张与您订购的不同",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 808272385822720,
+   "m_Localized": "大海绵",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080846196736,
+   "m_Localized": "成就猎人",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080888139776,
+   "m_Localized": "在游戏中获取所有成就",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080888139777,
+   "m_Localized": "坏猫咪",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080888139778,
+   "m_Localized": "让蒙多把你搞到破产",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080888139779,
+   "m_Localized": "大胜",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080888139780,
+   "m_Localized": "赢得的奖金达到卡牌成本的10000倍",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334080,
+   "m_Localized": "好倒霉",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334081,
+   "m_Localized": "连续打破两个盘子",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334082,
+   "m_Localized": "点击小游戏",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334083,
+   "m_Localized": "在机器人中积累100张或更多的卡牌",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334084,
+   "m_Localized": "一无所有",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334085,
+   "m_Localized": "死亡",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334086,
+   "m_Localized": "忠实的仆人",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334087,
+   "m_Localized": "将获胜的“最后机会”交给公司",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334088,
+   "m_Localized": "高水平",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334089,
+   "m_Localized": "赢得的奖金达到卡牌成本的100000倍",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334090,
+   "m_Localized": "诚实工作",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334091,
+   "m_Localized": "无需购买卡牌就获得了2000金币",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334092,
+   "m_Localized": "休闲游戏",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334093,
+   "m_Localized": "初始解锁所有辅助道具",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334094,
+   "m_Localized": "好走运",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334095,
+   "m_Localized": "第一张卡就中幸运卡",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334096,
+   "m_Localized": "幸运猫咪",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334097,
+   "m_Localized": "让蒙多获得超级幸运卡",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334098,
+   "m_Localized": "幸运卡牌",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334099,
+   "m_Localized": "赢得的奖金达到卡牌成本的1000倍",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334100,
+   "m_Localized": "技能树升级至满级",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334101,
+   "m_Localized": "购买所有进阶升级",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334102,
+   "m_Localized": "午睡时间",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334103,
+   "m_Localized": "至少持续空闲5分钟，并达成1Sx",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334104,
+   "m_Localized": "请各拿一张",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334105,
+   "m_Localized": "将来自所有4个类别的所有不同卡牌同时放在桌子上",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334106,
+   "m_Localized": "赢得一切？",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334107,
+   "m_Localized": "放手一搏后没死",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334108,
+   "m_Localized": "跳过一个类别",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334109,
+   "m_Localized": "在仍有类别在桌上的情况下打开放手一搏",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334110,
+   "m_Localized": "灵魂吸取",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334111,
+   "m_Localized": "创造一个人造灵魂",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334112,
+   "m_Localized": "速通",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334113,
+   "m_Localized": "在进阶后30分钟或更短时间内达到结局",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334114,
+   "m_Localized": "花掉世界上所有的金币",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334115,
+   "m_Localized": "购买比全球经济价值还要昂贵的东西",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334116,
+   "m_Localized": "这概率有多大？",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334117,
+   "m_Localized": "获得超级幸运卡",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334118,
+   "m_Localized": "合同我才不看",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334119,
+   "m_Localized": "借一笔贷款",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334120,
+   "m_Localized": "时光机",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334121,
+   "m_Localized": "将煮蛋计时器的运行速度提升至五倍",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334122,
+   "m_Localized": "你干嘛？",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334123,
+   "m_Localized": "把中了幸运卡的卡牌扔进垃圾箱",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334124,
+   "m_Localized": "逛夜市",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334125,
+   "m_Localized": "购买并装备一件装饰物",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334126,
+   "m_Localized": "步入式衣橱",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334127,
+   "m_Localized": "购买所有装饰品",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334128,
+   "m_Localized": "圆满完成工作",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334129,
+   "m_Localized": "在日常工作中赢得幸运卡",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334130,
+   "m_Localized": "连胜",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334131,
+   "m_Localized": "在所有来自4个类别的卡牌上赢得幸运卡",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334132,
+   "m_Localized": "巫师",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334133,
+   "m_Localized": "使用魔法开卡",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334134,
+   "m_Localized": "工作狂",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5076080892334135,
+   "m_Localized": "无需购买卡牌就获得了2000万金币",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5085173371654144,
+   "m_Localized": "必输之局",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5085285871276032,
+   "m_Localized": "死亡两次",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5085380071149568,
+   "m_Localized": "孤注一掷",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5085454138363904,
+   "m_Localized": "死亡三次",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5085501827600384,
+   "m_Localized": "永远赢",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5085596543373312,
+   "m_Localized": "死亡四次",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  }
+ ],
+ "references": {
+  "version": 2,
+  "RefIds": []
+ }
+}

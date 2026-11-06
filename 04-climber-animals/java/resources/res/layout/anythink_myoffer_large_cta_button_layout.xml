@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.anythink.basead.ui.ScanningAnimButton
+        android:textSize="20dp"
+        android:textColor="#ffffffff"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:id="@+id/anythink_myoffer_cta_button_major"
+        android:background="@drawable/anythink_myoffer_bg_single_pic_splash_shake"
+        android:paddingLeft="70dp"
+        android:paddingRight="70dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/anythink_myoffer_cta_learn_more"
+        android:maxLines="3"/>
+</merge>

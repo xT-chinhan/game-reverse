@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center"
+    android:id="@+id/bottomSquareBannerAdLogoLinearLayout"
+    android:background="@drawable/tapad_bg_tap_logo_corner2dp_bottom_right"
+    android:layout_width="wrap_content"
+    android:layout_height="12dp"
+    android:paddingStart="6dp"
+    android:paddingEnd="6dp">
+    <ImageView
+        android:id="@+id/bottomSquareBannerAdLogoImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:src="@drawable/tapad_ic_lava_mini"
+        android:scaleType="centerInside"/>
+    <TextView
+        android:textSize="8dp"
+        android:textColor="@android:color/white"
+        android:id="@+id/bottomSquareBannerAdLogoTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

@@ -1,0 +1,224 @@
+{
+ "m_GameObject": {
+  "m_FileID": 0,
+  "m_PathID": 0
+ },
+ "m_Enabled": 1,
+ "m_Script": {
+  "m_FileID": 0,
+  "m_PathID": -2378050947708348859
+ },
+ "m_Name": "GameTable_zh-Hans",
+ "m_LocaleId": {
+  "m_Code": "zh-Hans"
+ },
+ "m_SharedData": {
+  "m_FileID": 1,
+  "m_PathID": -6468123648305202451
+ },
+ "m_Metadata": {
+  "m_Items": []
+ },
+ "m_TableData": [
+  {
+   "m_Id": 5569185562624,
+   "m_Localized": "音效",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 5890934816768,
+   "m_Localized": "音乐",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 6064151183360,
+   "m_Localized": "镜头灵敏度",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 6203410464768,
+   "m_Localized": "低",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 6374869417984,
+   "m_Localized": "中",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 6478951071744,
+   "m_Localized": "高",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 6671964553216,
+   "m_Localized": "角色选择",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 6814709301248,
+   "m_Localized": "选择",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 6923262083072,
+   "m_Localized": "已选择",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 7088341499904,
+   "m_Localized": "返回上一个攀爬点",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 7090870665216,
+   "m_Localized": "确认",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 7091554336768,
+   "m_Localized": "退出",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 7092258979840,
+   "m_Localized": "今日广告次数已达上限",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 7092837793792,
+   "m_Localized": "广告暂未加载",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 7093362081792,
+   "m_Localized": "金币不足",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 7324321431552,
+   "m_Localized": "宝石不足",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 7324975742976,
+   "m_Localized": "道具已发放",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 7325575528448,
+   "m_Localized": "冷却中，请1分钟后再试",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 7545017319424,
+   "m_Localized": "已达到最大观看次数",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 7545659047936,
+   "m_Localized": "新角色已解锁！",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 48349588996096,
+   "m_Localized": "二段跳",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 68606680612864,
+   "m_Localized": "重新开始",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 1080637026189312,
+   "m_Localized": "每局有{0}次复活机会({1}/{2})",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 3590201943732224,
+   "m_Localized": "立即复活",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 3591292030758912,
+   "m_Localized": "免费复活",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 4376381031395328,
+   "m_Localized": "重开游戏",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 4423381936451584,
+   "m_Localized": "离开游戏",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  },
+  {
+   "m_Id": 4423381936451585,
+   "m_Localized": "500米以下本局复活次数不限",
+   "m_Metadata": {
+    "m_Items": []
+   }
+  }
+ ],
+ "references": {
+  "version": 2,
+  "RefIds": []
+ }
+}

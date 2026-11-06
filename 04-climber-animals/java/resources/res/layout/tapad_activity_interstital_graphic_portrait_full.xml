@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/tapad_color_dialog_background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.tapsdk.tapad.internal.ui.views.HotZoneFrameLayout
+        android:id="@+id/interstitialFullZoneFrameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:id="@+id/backgroundImageView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"/>
+        <include layout="@layout/tapad_view_interstitial_full_portrait"/>
+    </RelativeLayout>
+    <include
+        android:id="@+id/bubbleView"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="158dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="8dp"
+        android:layout_alignParentEnd="true"
+        layout="@layout/tapad_wait_bubble"/>
+</RelativeLayout>

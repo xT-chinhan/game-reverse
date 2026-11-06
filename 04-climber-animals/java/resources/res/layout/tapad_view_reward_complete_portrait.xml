@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/verticalRewardCompleteRelativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.tapsdk.tapad.internal.ui.views.banner.BottomBannerView
+        android:id="@+id/bottomBannerView"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_alignParentBottom="true"/>
+    <ImageView
+        android:id="@+id/verticalCoverImageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:layout_above="@+id/bottomBannerView"/>
+</RelativeLayout>

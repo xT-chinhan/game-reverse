@@ -1,0 +1,1 @@
+No Assembly-CSharp.dll image in il2cpp metadata (HybridCLR hot-update: game code is in a managed DLL inside the asset bundles, decompile with ILSpy). See dump.cs for AOT assemblies.

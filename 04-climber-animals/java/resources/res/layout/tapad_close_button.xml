@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tapadCloseButton"
+    android:background="@drawable/tapad_close_black_corner51dp"
+    android:layout_width="28dp"
+    android:layout_height="28dp"
+    android:layout_margin="10dp"
+    android:layout_marginTop="10dp"
+    android:layout_alignParentEnd="true">
+    <ImageView
+        android:layout_width="11dp"
+        android:layout_height="11dp"
+        android:src="@drawable/tapad_ic_close"
+        android:tint="@android:color/white"
+        android:layout_centerInParent="true"/>
+</RelativeLayout>

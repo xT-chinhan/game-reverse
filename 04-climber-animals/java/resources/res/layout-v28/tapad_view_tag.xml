@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/tapad_view_tag_id"
+    android:background="@drawable/tapad_bg_tag_outer_radius4"
+    android:layout_width="match_parent"
+    android:layout_height="20dp"
+    android:layout_centerInParent="true"
+    android:layout_marginStart="2dp"
+    android:layout_marginEnd="2dp">
+    <TextView
+        android:textSize="14dp"
+        android:typeface="sans"
+        android:textStyle="bold"
+        android:textColor="@color/tapad_tag_color_tapOrange"
+        android:gravity="center"
+        android:id="@+id/tag_id"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="700"
+        android:layout_marginStart="2dp"
+        android:layout_marginEnd="2dp"
+        android:lineHeight="14dp"/>
+</LinearLayout>

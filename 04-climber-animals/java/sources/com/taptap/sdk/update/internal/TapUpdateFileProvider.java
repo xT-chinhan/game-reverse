@@ -1,0 +1,10 @@
+package com.taptap.sdk.update.internal;
+
+import com.taptap.sdk.update.download.core.file.FileProvider;
+import kotlin.Metadata;
+
+/* JADX INFO: compiled from: TapUpdateFileProvider.kt */
+/* JADX INFO: loaded from: classes3.dex */
+@Metadata(d1 = {"\u0000\f\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\b\u0000\u0018\u00002\u00020\u0001B\u0005¢\u0006\u0002\u0010\u0002¨\u0006\u0003"}, d2 = {"Lcom/taptap/sdk/update/internal/TapUpdateFileProvider;", "Lcom/taptap/sdk/update/download/core/file/FileProvider;", "()V", "tap-update_release"}, k = 1, mv = {1, 5, 1}, xi = 48)
+public final class TapUpdateFileProvider extends FileProvider {
+}

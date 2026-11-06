@@ -1,0 +1,43 @@
+package com.kwad.components.ad.a;
+
+import com.anythink.core.common.d.j;
+import com.kwad.components.offline.api.BuildConfig;
+import com.kwad.sdk.components.DevelopMangerComponents;
+import com.kwad.sdk.components.d;
+import com.kwad.sdk.h;
+import com.kwad.sdk.service.ServiceProvider;
+import com.kwad.sdk.service.a.f;
+import java.util.Collection;
+import java.util.List;
+import org.json.JSONArray;
+
+/* JADX INFO: loaded from: classes3.dex */
+public final class b extends com.kwad.sdk.core.network.b {
+    public b(String str, List<String> list) {
+        putBody("adxId", str);
+        putBody("materialIds", new JSONArray((Collection) list));
+    }
+
+    @Override // com.kwad.sdk.core.network.b, com.kwad.sdk.core.network.f
+    public final String getUrl() {
+        return h.AO();
+    }
+
+    @Override // com.kwad.sdk.core.network.b
+    public final void buildBaseHeader() {
+        if (com.kwad.framework.a.a.oz.booleanValue()) {
+            d.f(DevelopMangerComponents.class);
+            addHeader("trace-context", "{\"laneId\":\"STAGING.online.u\"}");
+        }
+    }
+
+    @Override // com.kwad.sdk.core.network.b
+    public final void buildBaseBody() {
+        putBody("protocolVersion", j.e.b);
+        putBody("SDKVersion", BuildConfig.VERSION_NAME);
+        putBody("SDKVersionCode", BuildConfig.VERSION_CODE);
+        putBody("sdkApiVersion", ((f) ServiceProvider.get(f.class)).getApiVersion());
+        putBody("sdkApiVersionCode", ((f) ServiceProvider.get(f.class)).getApiVersionCode());
+        putBody("sdkType", 1);
+    }
+}

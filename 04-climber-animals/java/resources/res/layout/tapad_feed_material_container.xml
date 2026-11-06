@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <com.tapsdk.tapad.feed.ExpressAdVideoView
+        android:id="@+id/tapad_video_view"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:tapad_video_aspectRatioHeight="9"
+        app:tapad_video_aspectRatioWidth="16"/>
+    <com.tapsdk.tapad.feed.AdProportionImageView
+        android:id="@+id/tapad_image_view"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop"
+        app:tapad_image_aspectRatioHeight="9"
+        app:tapad_image_aspectRatioWidth="16"/>
+</RelativeLayout>

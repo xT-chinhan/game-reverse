@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.anythink.basead.ui.RoundCornerRelativeLayout
+        android:id="@+id/anythink_myoffer_player_view_container_id"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true">
+        <com.anythink.basead.ui.PlayerView
+            android:id="@+id/anythink_myoffer_player_view_id"
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </com.anythink.basead.ui.RoundCornerRelativeLayout>
+    <include layout="@layout/anythink_myoffer_include_splash_ad_layout_skip_area"/>
+</merge>

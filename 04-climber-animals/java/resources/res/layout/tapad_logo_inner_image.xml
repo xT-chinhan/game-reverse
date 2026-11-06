@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:background="@drawable/tapad_feed_icon_logo_black_background"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/tapad_ad_logo_icon"
+        android:layout_width="10dp"
+        android:layout_height="8dp"
+        android:src="@drawable/tapad_ic_lava_mini"/>
+    <TextView
+        android:textSize="10dp"
+        android:textColor="#fff"
+        android:id="@+id/tapad_ad_logo_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="广告"/>
+</LinearLayout>
